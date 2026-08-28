@@ -158,10 +158,10 @@ struct SyncPage: View {
         if ext == "zip" {
           try? fm.createDirectory(at: userDir, withIntermediateDirectories: true)
           ok = Self.run(["ditto", "-x", "-k", src.path, userDir.path])
-          if ok { try self.wireCustomPhraseIfNeeded() }
         } else if ext == "txt" {
+          // custom_phrase.txt —— luna_pinyin 方案已原生接入 custom_phrase 翻译器，
+          // 直接放入用户数据根目录并重新部署即可生效。
           try fm.copyItem(at: src, to: userDir.appendingPathComponent("custom_phrase.txt"))
-          try self.wireCustomPhraseIfNeeded()
         } else if ext == "yaml" {
           try fm.copyItem(at: src, to: userDir.appendingPathComponent(src.lastPathComponent))
         } else {
@@ -175,7 +175,7 @@ struct SyncPage: View {
         DispatchQueue.main.async {
           busy = false
           if ok {
-            setMessage("已导入。正在重新部署…")
+            setMessage("已导入。已触发输入法重新部署（切换方案或稍后使用即生效）。")
             Deployer.reload(paths: state.repo.paths)
           } else {
             setMessage("导入失败", isError: true)
@@ -187,37 +187,6 @@ struct SyncPage: View {
           setMessage("导入失败：\(error.localizedDescription)", isError: true)
         }
       }
-    }
-  }
-
-  /// 若导入了 custom_phrase.txt，为常用拼音方案启用 custom_phrase 翻译器（若尚未启用）。
-  private func wireCustomPhraseIfNeeded() throws {
-    let fm = FileManager.default
-    guard fm.fileExists(atPath: userDir.appendingPathComponent("custom_phrase.txt").path) else { return }
-
-    let schemas = ["luna_pinyin_simp", "luna_pinyin"]
-    for schema in schemas {
-      let url = userDir.appendingPathComponent("\(schema).custom.yaml")
-      var content = (try? String(contentsOf: url, encoding: .utf8)) ?? ""
-      if content.contains("table_translator@custom_phrase") { continue }
-
-      let lines = """
-        engine/translators/+:
-          - table_translator@custom_phrase
-        custom_phrase:
-          dictionary: ""
-          user_dict: custom_phrase
-
-        """
-      if content.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty {
-        content = "patch:\n" + lines
-      } else if content.contains("patch:") {
-        if !content.hasSuffix("\n") { content += "\n" }
-        content += lines
-      } else {
-        content += "\npatch:\n" + lines
-      }
-      try content.write(to: url, atomically: true, encoding: .utf8)
     }
   }
 
