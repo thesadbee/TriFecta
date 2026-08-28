@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  TriFecta 的 Sparkle 更新源（appcast）。
+  注意：
+   - 本项目已关闭 Sparkle 自动检查（SUEnableAutomaticChecks=false），
+     因此正常运行时不会自动拉取本文件；更新走「设置 → 关于 → 检查 TriFecta 更新」。
+   - 若要启用 Sparkle 自动更新，需为每个 Release 生成 EdDSA 签名（sparkle:edSignature），
+     并将本文件放在可公网访问的位置（如 GitHub Pages 或本仓库 raw 地址）。
+   - 本文件当前作为 TriFecta 更新源的占位/参考，指向 thesadbee/TriFecta 的 Release。
+-->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>TriFecta 更新</title>
+    <link>https://github.com/thesadbee/TriFecta/releases</link>
+    <description>TriFecta（基于 Rime/Squirrel 的 macOS 中文输入法）更新源</description>
+    <item>
+      <title>TriFecta v1.1.1</title>
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/thesadbee/TriFecta/releases/tag/v1.1.1</sparkle:releaseNotesLink>
+      <pubDate>Fri, 28 Aug 2026 03:13:18 +0000</pubDate>
+      <!-- sparkle:edSignature 需由发布流水线用 TriFecta 的 Sparkle EdDSA 私钥生成 -->
+      <enclosure url="https://github.com/thesadbee/TriFecta/releases/download/v1.1.1/TriFecta.pkg"
+                 sparkle:version="1.1.1"
+                 sparkle:shortVersionString="1.1.1"
+                 length="17837706"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>

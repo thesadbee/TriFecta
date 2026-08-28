@@ -102,9 +102,9 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>SUEnableAutomaticChecks</key>
-	<true/>
+	<false/>
 	<key>SUFeedURL</key>
-	<string>https://rime.github.io/release/squirrel/appcast.xml</string>
+	<string>https://raw.githubusercontent.com/thesadbee/TriFecta/main/appcast.xml</string>
 	<key>SUPublicEDKey</key>
 	<string>ukvWq2dKOWn3B9AsdsQIwOptiDdDKdUjAVNgFxSvB2o=</string>
 	<key>TICapsLockLanguageSwitchCapable</key>
