@@ -59,9 +59,19 @@ struct AboutPage: View {
     PageScroll(title: "关于", footer: "TriFecta：基于 Rime/Squirrel 的 macOS 中文输入法（GPL-3.0）") {
       SettingCard {
         VStack(spacing: 10) {
-          Image(systemName: "character.book.closed.fill")
-            .font(.system(size: 44))
-            .foregroundColor(theme.accent)
+          Group {
+            if let iconURL = Bundle.main.url(forResource: "AppIcon", withExtension: "icns"),
+               let appIcon = NSImage(contentsOf: iconURL) {
+              Image(nsImage: appIcon)
+                .resizable()
+                .aspectRatio(contentMode: .fit)
+                .frame(width: 64, height: 64)
+            } else {
+              Image(systemName: "character.book.closed.fill")
+                .font(.system(size: 44))
+                .foregroundColor(theme.accent)
+            }
+          }
           Text("TriFecta")
             .font(.system(size: 22, weight: .semibold))
             .foregroundColor(theme.accent)

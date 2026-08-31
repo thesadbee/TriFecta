@@ -38,7 +38,7 @@ BIN="$(swift build -c "$CONFIG" --scratch-path "$SCRATCH" --show-bin-path)/TriFe
 cp "$BIN" "$STAGE/Contents/MacOS/TriFectaSettings"
 cp "Sources/TriFectaSettings/Resources/Info.plist" "$STAGE/Contents/Info.plist"
 
-ICON_SRC="/Library/Input Methods/Squirrel.app/Contents/Resources/Rime.icns"
+ICON_SRC="/Library/Input Methods/Squirrel.app/Contents/Resources/RimeIcon.icns"
 if [ -f "$ICON_SRC" ]; then
   cp "$ICON_SRC" "$STAGE/Contents/Resources/AppIcon.icns"
 else

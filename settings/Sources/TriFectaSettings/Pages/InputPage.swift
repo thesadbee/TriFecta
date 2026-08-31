@@ -168,9 +168,6 @@ struct InputPage: View {
       VStack(alignment: .leading, spacing: 1) {
         Text(schemaName(id))
           .font(.system(size: 13, weight: isDefault ? .semibold : .regular))
-        Text(id)
-          .font(.system(size: 10, design: .monospaced))
-          .foregroundColor(.secondary)
       }
       Spacer()
       if isDefault {
@@ -347,9 +344,6 @@ struct AddSchemaSheet: View {
         Text(schema.displayName)
           .font(.system(size: 12, weight: .medium))
           .foregroundColor(enabled ? .secondary : .primary)
-        Text(schema.id)
-          .font(.system(size: 9, design: .monospaced))
-          .foregroundColor(.secondary)
       }
       Spacer()
       if enabled {
