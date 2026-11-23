@@ -68,6 +68,7 @@ engine:
     - simplifier@zh_hant_hk
     - simplifier@zh_hant_tw
     - uniquifier
+    - lua_filter@*rare_char_filter
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
