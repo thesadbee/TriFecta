@@ -332,16 +332,18 @@ final class SquirrelTheme {
 private extension SquirrelTheme {
   func combineFonts(_ fonts: [NSFont], size: CGFloat?) -> NSFont? {
     if fonts.count == 0 { return nil }
-    if fonts.count == 1 {
-      if let size = size {
-        return fonts[0].withSize(size)
-      } else {
-        return fonts[0]
+    let pointSize = size ?? fonts[0].pointSize
+    // 除用户配置的字体外，额外把系统表情/符号字体加入级联列表，
+    // 保证 emoji（如 😊）和特殊符号在候选框里能正常显示而不是「?」。
+    var cascade = fonts[1...].map { $0.fontDescriptor }
+    for name in ["Apple Color Emoji", "Apple Symbols"] {
+      if let fallback = NSFont(name: name, size: pointSize) {
+        cascade.append(fallback.fontDescriptor)
       }
     }
-    let attribute = [NSFontDescriptor.AttributeName.cascadeList: fonts[1...].map { $0.fontDescriptor } ]
+    let attribute = [NSFontDescriptor.AttributeName.cascadeList: cascade]
     let fontDescriptor = fonts[0].fontDescriptor.addingAttributes(attribute)
-    return NSFont.init(descriptor: fontDescriptor, size: size ?? fonts[0].pointSize)
+    return NSFont.init(descriptor: fontDescriptor, size: pointSize)
   }
 
   func decodeFonts(from fontString: String?) -> [NSFont] {

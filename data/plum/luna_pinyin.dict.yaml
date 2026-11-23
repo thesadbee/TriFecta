@@ -30,6 +30,8 @@
 name: luna_pinyin
 version: "2024.02.10"
 sort: by_weight
+import_tables:
+  - emoji
 use_preset_vocabulary: true
 ...
 
