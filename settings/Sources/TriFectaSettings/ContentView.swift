@@ -12,6 +12,7 @@ enum WindowMetrics {
 
 enum SettingsPage: String, CaseIterable, Identifiable {
   case input = "输入"
+  case customPhrase = "自定义短语"   // custom_phrase.txt 编辑
   case appearance = "外观"          // 输入法候选框外观
   case guiAppearance = "界面"        // 设置窗口外观
   case shortcuts = "快捷键"
@@ -23,6 +24,7 @@ enum SettingsPage: String, CaseIterable, Identifiable {
   var icon: String {
     switch self {
     case .input: return "keyboard"
+    case .customPhrase: return "text.badge.plus"
     case .appearance: return "paintbrush"
     case .guiAppearance: return "circle.lefthalf.filled"
     case .shortcuts: return "command"
@@ -45,6 +47,7 @@ struct ContentView: View {
       Group {
         switch selection {
         case .input: InputPage()
+        case .customPhrase: CustomPhrasePage()
         case .appearance: AppearancePage()
         case .guiAppearance: GuiAppearancePage()
         case .shortcuts: ShortcutsPage()

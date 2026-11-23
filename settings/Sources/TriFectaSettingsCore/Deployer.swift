@@ -36,6 +36,26 @@ public enum Deployer {
     return running
   }
 
+  /// 结束运行中的输入法进程。
+  /// 备份/还原用户词典（*.userdb 目录）需要独占访问，否则 LevelDB 会被锁定。
+  @discardableResult
+  public static func stopIME() -> Bool {
+    let process = Process()
+    process.executableURL = URL(fileURLWithPath: "/usr/bin/killall")
+    process.arguments = ["Squirrel"]
+    process.standardOutput = FileHandle.nullDevice
+    process.standardError = FileHandle.nullDevice
+    do {
+      try process.run()
+      process.waitUntilExit()
+    } catch {
+      return false
+    }
+    // 给 LevelDB 释放文件锁留一点时间
+    Thread.sleep(forTimeInterval: 0.6)
+    return true
+  }
+
   /// 同步用户数据：复用输入法监听的通知（等价 Squirrel --sync）
   public static func syncUserData() {
     DistributedNotificationCenter.default().postNotificationName(
