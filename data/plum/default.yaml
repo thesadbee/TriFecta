@@ -70,5 +70,5 @@ ascii_composer:
     Shift_R: commit_text
     Control_L: noop
     Control_R: noop
-    Caps_Lock: clear
+    Caps_Lock: commit_code
     Eisu_toggle: clear
