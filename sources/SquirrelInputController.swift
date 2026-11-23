@@ -120,7 +120,11 @@ final class SquirrelInputController: IMKInputController {
 
       // 中文状态按住 Shift+字母：直接输出对应大写字母，不进入 Rime 拼音候选，
       // 避免非法拼音无候选框、影响后续汉字输入。仅当 Shift 按下且为字母键时。
-      if modifiers.contains(.shift), !modifiers.contains(.control),
+      // 仅在空闲（未在拼音组字中）时生效：commit(string:) 只清本地 preedit，不会
+      // 同步清空 Rime 引擎内部的组字状态，若在组字过程中触发会导致两边状态错位、
+      // 后续输入错乱，因此组字中让这个键正常走 processKey 交给 Rime 处理。
+      if preedit.isEmpty,
+         modifiers.contains(.shift), !modifiers.contains(.control),
          !modifiers.contains(.option), !modifiers.contains(.command),
          let ch = event.charactersIgnoringModifiers?.first, ch.isLetter {
         let upper = String(ch).uppercased()
