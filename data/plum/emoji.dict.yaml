@@ -12,22 +12,15 @@ columns:
 ©	ban quan fu hao	-5
 ©	copyright	-5
 ©	te shu	-5
-©️	copyright	-6
-©️	copyright sign	-6
 ®	registered	-5
 ®	te shu	-5
 ®	zhu ce	-5
 ®	zhu ce biao ji	-5
 ®	zhu ce shang biao	-5
-®	zhu ce shang biao fu hao	-5
-®️	registered	-6
-®️	registered sign	-6
 ™	shang biao	-5
 ™	shang biao fu hao	-5
 ™	te shu	-5
 ™	tm	-5
-™️	tm	-6
-™️	trade mark sign	-6
 ←	zuo	-5
 ←	zuo jian tou	-5
 ↑	shang	-5
@@ -38,44 +31,30 @@ columns:
 ↓	xia jian tou	-5
 ↔︎	zuo you	-5
 ↔︎	zuo you jian tou	-5
-↔️	left right arrow	-6
 ↔️	zuo you	-5
 ↔️	zuo you jian tou	-5
 ↕	shang xia	-5
 ↕	shang xia jian tou	-5
-↕️	arrow up down	-6
 ↕️	shang xia	-5
 ↕️	shang xia jian tou	-5
-↕️	up down arrow	-6
 ↖	zuo shang	-5
 ↖	zuo shang jian tou	-5
-↖️	arrow upper left	-6
-↖️	north west arrow	-6
 ↖️	zuo shang	-5
 ↖️	zuo shang jian tou	-5
 ↗	you shang	-5
 ↗	you shang jian tou	-5
-↗️	arrow upper right	-6
-↗️	north east arrow	-6
 ↗️	you shang	-5
 ↗️	you shang jian tou	-5
 ↘	you xia	-5
 ↘	you xia jian tou	-5
-↘️	arrow lower right	-6
-↘️	south east arrow	-6
 ↘️	you xia	-5
 ↘️	you xia jian tou	-5
 ↙	zuo xia	-5
 ↙	zuo xia jian tou	-5
-↙️	arrow lower left	-6
-↙️	south west arrow	-6
 ↙️	zuo xia	-5
 ↙️	zuo xia jian tou	-5
 ↩︎	an jian	-5
 ↩️	hui che	-5
-↩️	leftwards arrow with hook	-6
-↪️	arrow right hook	-6
-↪️	rightwards arrow with hook	-6
 ⇞	an jian	-5
 ⇟	an jian	-5
 ⇧	an jian	-5
@@ -84,83 +63,54 @@ columns:
 ⌘	an jian	-5
 ⌚	shi jian	-5
 ⌚	shou biao	-5
-⌚	watch	-6
 ⌚️	dian zi	-5
 ⌚️	shu ma	-5
-⌛	hourglass	-6
 ⌛	sha lou	-5
 ⌥	an jian	-5
 ⌦	an jian	-5
 ⌨️	dian nao jian pan	-5
 ⌨️	dian zi	-5
 ⌨️	jian pan	-5
-⌨️	keyboard	-6
 ⌨️	shu ma	-5
 ⌫	an jian	-5
 ⎋	an jian	-5
 ⏎	an jian	-5
 ⏏	an jian	-5
-⏏️	eject	-6
-⏏️	eject button	-6
 ⏏️	tan chu	-5
 ⏏️	tan chu an niu	-5
 ⏏️	tui chu	-5
 ⏏️	tui chu an niu	-5
-⏩	black right pointing double triangle	-6
-⏩	fast forward	-6
 ⏩	kuai jin	-5
 ⏩	kuai jin fu hao	-5
-⏪	black left pointing double triangle	-6
 ⏪	kuai tui	-5
 ⏪	kuai tui fu hao	-5
-⏪	rewind	-6
-⏫	arrow double up	-6
-⏫	black up pointing double triangle	-6
 ⏫	kuai shang	-5
-⏬	arrow double down	-6
-⏬	black down pointing double triangle	-6
 ⏬	kuai xia	-5
-⏭️	next track button	-6
 ⏭️	xia yi shou	-5
-⏮️	last track button	-6
 ⏮️	shang yi shou	-5
 ⏯️	bo fang zan ting	-5
-⏯️	play or pause button	-6
-⏰	alarm clock	-6
 ⏰	nao biao	-5
 ⏰	nao zhong	-5
 ⏱	ji shi qi	-5
 ⏱	miao biao	-5
-⏱️	stopwatch	-6
 ⏲	ding shi qi	-5
-⏲️	timer clock	-6
-⏳	hourglass flowing sand	-6
-⏳	hourglass with flowing sand	-6
 ⏳	sha lou	-5
-⏸️	double vertical bar	-6
-⏸️	pause button	-6
 ⏸️	zan ting	-5
-⏹️	black square for stop	-6
-⏹️	stop button	-6
 ⏹️	ting zhi	-5
-⏺️	black circle for record	-6
 ⏺️	kai shi lu xiang	-5
 ⏺️	kai shi lu yin	-5
 ⏺️	lu xiang	-5
 ⏺️	lu xiang an niu	-5
 ⏺️	lu yin	-5
 ⏺️	lu yin an niu	-5
-⏺️	record button	-6
-☀️	black sun with rays	-6
 ☀️	da zi ran	-5
 ☀️	qi xiang	-5
 ☀️	qing tian	-5
 ☀️	ri	-5
-☀️	sunny	-6
 ☀️	tai yang	-5
 ☀️	tian qi	-5
 ☀️	zi ran	-5
-☁️	cloud	-6
+☁️	cloud	-5
 ☁️	da zi ran	-5
 ☁️	qi xiang	-5
 ☁️	tian qi	-5
@@ -171,13 +121,10 @@ columns:
 ☂️	cheng san	-5
 ☂️	da san	-5
 ☂️	san zhuang	-5
-☂️	umbrella	-6
 ☂️	yu san	-5
 ☃️	han leng	-5
 ☃️	leng	-5
-☃️	snowman	-6
 ☃️	xue	-5
-☄️	comet	-6
 ☄️	ha lei	-5
 ☄️	ha lei hui xing	-5
 ☄️	hui xing	-5
@@ -188,18 +135,14 @@ columns:
 ☋	te shu	-5
 ☌	te shu	-5
 ☍	te shu	-5
-☎️	black telephone	-6
 ☎️	dian hua	-5
 ☎️	dian qi	-5
 ☎️	gu ding dian hua	-5
 ☎️	gu hua	-5
-☎️	phone	-6
-☎️	telephone	-6
 ☎️	zuo ji	-5
 ☐	te shu	-5
 ☑︎	te shu	-5
 ☑️	an niu	-5
-☑️	ballot box with check	-6
 ☑️	da dui gou	-5
 ☑️	da gou	-5
 ☑️	fu xuan	-5
@@ -209,130 +152,88 @@ columns:
 ☒	te shu	-5
 ☔	cheng san	-5
 ☔	da san	-5
-☔	umbrella with rain drops	-6
 ☔	yu san	-5
-☕	coffee	-6
 ☕	he ka fei	-5
-☕	hot beverage	-6
 ☕	ka fei	-5
 ☕	ka fei bei	-5
 ☕️	re yin	-5
 ☕️	yin liao	-5
 ☘	san ye cao	-5
-☘️	shamrock	-6
 ☘️	zhi wu	-5
 ☜	te shu	-5
 ☝	te shu	-5
 ☝️	di yi	-5
-☝️	point up	-6
 ☝️	shi zhi	-5
 ☝️	shou shi	-5
-☝️	white up pointing index	-6
 ☝️	yi ge	-5
 ☞	te shu	-5
 ☟	te shu	-5
 ☠️	ku lou	-5
 ☠️	ku lou tou	-5
 ☠️	si wang	-5
-☠️	skull and crossbones	-6
 ☠️	tou gu	-5
 ☢️	fang she xing	-5
 ☢️	fu she	-5
-☢️	radioactive	-6
-☢️	radioactive sign	-6
 ☢️	you du	-5
-☣️	biohazard	-6
-☣️	biohazard sign	-6
 ☣️	sheng hua wei ji	-5
 ☣️	sheng wu wei hai	-5
 ☣️	wen yi gong si	-5
 ☣️	you du	-5
 ☦️	dong zheng jiao	-5
-☦️	dong zheng jiao shi zi jia	-5
-☦️	orthodox cross	-6
 ☦️	zong jiao	-5
-☪️	star and crescent	-6
 ☪️	xing yue	-5
 ☪️	zong jiao	-5
 ☮️	he ping	-5
 ☮️	he ping biao zhi	-5
 ☮️	he ping fu hao	-5
 ☮️	peace	-5
-☮️	peace symbol	-6
 ☮️	shi jie he ping	-5
 ☯️	tai ji	-5
-☯️	yin yang	-6
+☯️	yin yang	-5
 ☯️	zong jiao	-5
 ☸️	fa lun	-5
-☸️	wheel of dharma	-6
 ☸️	zong jiao	-5
 ☹️	biao qing	-5
-☹️	frowning face	-6
-☹️	white frowning face	-6
 ☺️	biao qing	-5
-☺️	relaxed	-6
-☺️	white smiling face	-6
 ♀	nv	-5
 ♀	nv xing	-5
 ♀	te shu	-5
-♀️	female sign	-6
 ♂	nan	-5
 ♂	nan xing	-5
 ♂	te shu	-5
-♂️	male sign	-6
-♈	aries	-6
 ♈	bai yang zuo	-5
 ♈️	xing zuo	-5
 ♉	jin niu zuo	-5
-♉	taurus	-6
 ♉️	xing zuo	-5
-♊	gemini	-6
 ♊	shuang zi zuo	-5
 ♊️	xing zuo	-5
-♋	cancer	-6
 ♋	ju xie zuo	-5
 ♋️	xing zuo	-5
-♌	leo	-6
 ♌	shi zi zuo	-5
 ♌️	xing zuo	-5
 ♍	chu nv zuo	-5
-♍	virgo	-6
 ♍️	xing zuo	-5
-♎	libra	-6
 ♎	tian cheng zuo	-5
 ♎️	xing zuo	-5
-♏	scorpius	-6
 ♏	tian xie zuo	-5
 ♏️	xing zuo	-5
-♐	sagittarius	-6
 ♐	she shou zuo	-5
 ♐️	xing zuo	-5
-♑	capricorn	-6
 ♑	mo jie zuo	-5
 ♑️	xing zuo	-5
-♒	aquarius	-6
 ♒	shui ping zuo	-5
 ♒️	xing zuo	-5
-♓	pisces	-6
 ♓	shuang yu zuo	-5
 ♓️	xing zuo	-5
 ♟	guo ji xiang qi	-5
-♟	guo ji xiang qi bing	-5
-♟️	chess pawn	-6
 ♟️	yu le	-5
-♠️	black spade suit	-6
 ♠️	hei tao	-5
 ♠️	pu ke	-5
-♠️	spades	-6
-♣️	black club suit	-6
 ♣️	cao hua	-5
-♣️	clubs	-6
 ♣️	mei hua	-5
 ♣️	pu ke	-5
 ♥️	ai	-5
 ♥️	ai xin	-5
-♥️	black heart suit	-6
-♥️	hearts	-6
 ♥️	hong tao	-5
 ♥️	hong xin	-5
 ♥️	love	-5
@@ -340,40 +241,28 @@ columns:
 ♥️	xi huan	-5
 ♥️	xin	-5
 ♥️	xin xing	-5
-♦️	black diamond suit	-6
-♦️	diamonds	-6
 ♦️	fang ban	-5
 ♦️	fang pian	-5
 ♦️	pu ke	-5
-♨️	hot springs	-6
-♨️	hotsprings	-6
 ♨️	wen quan	-5
 ♨️	xiu xi	-5
 ♻	te shu	-5
-♻️	black universal recycling symbol	-6
 ♻️	huan bao	-5
 ♻️	hui shou	-5
-♻️	recycle	-6
 ♻️	xun huan	-5
 ♻️	xun huan li yong	-5
 ♻️	xun huan zai sheng	-5
-♾️	infinity	-6
 ♿	lun yi	-5
 ♿	lun yi biao zhi	-5
-♿	wheelchair	-6
-♿	wheelchair symbol	-6
 ⚐	te shu	-5
 ⚑	te shu	-5
 ⚒️	chui zi he gao	-5
 ⚒️	chui zi yu gao	-5
 ⚒️	gong ju	-5
-⚒️	hammer and pick	-6
 ⚒️	ji xie	-5
-⚓	anchor	-6
 ⚓	chuan mao	-5
 ⚓	mao	-5
 ⚓️	chuan	-5
-⚔️	crossed swords	-6
 ⚔️	fight	-5
 ⚔️	kai shi zhan dou	-5
 ⚔️	kai zhan	-5
@@ -381,57 +270,40 @@ columns:
 ⚔️	shuang jian jiao cha	-5
 ⚔️	wu qi	-5
 ⚔️	zhan dou	-5
-⚕	a si ke le bi e si	-5
 ⚕	dan she zhi zhang	-5
 ⚕	she zhang	-5
 ⚕	yi liao biao zhi	-5
 ⚕	yi liao fu hao	-5
-⚕️	medical symbol	-6
-⚕️	staff of aesculapius	-6
-⚖️	balance scale	-6
-⚖️	scales	-6
 ⚖️	tian ping	-5
-⚗️	alembic	-6
 ⚗️	ke xue	-5
 ⚗️	zheng liu qi	-5
 ⚙️	chi lun	-5
-⚙️	gear	-6
 ⚙️	gong ju	-5
 ⚙️	ji xie	-5
 ⚛️	atom	-5
-⚛️	atom symbol	-6
 ⚛️	ke xue	-5
 ⚛️	yuan zi	-5
 ⚛️	yuan zi fu hao	-5
 ⚜️	bai he hua	-5
 ⚜️	bai he hua shi	-5
-⚜️	fleur de lis	-6
 ⚜️	yuan wei hua	-5
 ⚠	te shu	-5
 ⚠️	jing gao	-5
-⚠️	warning	-6
-⚠️	warning sign	-6
 ⚠️	wei xian	-5
 ⚠️	yu jing	-5
 ⚠️	zhu yi	-5
 ⚡	gao ya dian	-5
-⚡	high voltage sign	-6
 ⚡	shan dian	-5
-⚡	zap	-6
 ⚡️	yuan su	-5
 ⚧	bian xing	-5
 ⚧	kua xing bie	-5
-⚧	kua xing bie fu hao	-5
-⚧️	transgender symbol	-6
 ⚪	bai dian	-5
 ⚪	bai qi	-5
 ⚪	bai se	-5
 ⚪	bai zi	-5
 ⚪	hei bai qi	-5
-⚪	medium white circle	-6
 ⚪	tang yuan	-5
 ⚪	wei qi	-5
-⚪	white circle	-6
 ⚪	xiao bai dian	-5
 ⚪	xiao bai dian er	-5
 ⚪	xiao yuan dian	-5
@@ -441,24 +313,20 @@ columns:
 ⚪	yuan xing	-5
 ⚪️	yan se	-5
 ⚪️	yuan xing	-5
-⚫	black circle	-6
 ⚫	hei bai qi	-5
 ⚫	hei dian	-5
 ⚫	hei qi	-5
 ⚫	hei se	-5
 ⚫	hei zi	-5
-⚫	medium black circle	-6
 ⚫	wei qi	-5
 ⚫	xiao hei dian	-5
 ⚫	xiao hei dian er	-5
 ⚫	yuan xing	-5
 ⚫️	yan se	-5
 ⚫️	yuan xing	-5
-⚰️	coffin	-6
 ⚰️	guan cai	-5
 ⚰️	ling jiu	-5
 ⚱️	feng jin weng	-5
-⚱️	funeral urn	-6
 ⚱️	gu hui gang	-5
 ⚱️	gu hui he	-5
 ⚱️	gu tan	-5
@@ -466,58 +334,42 @@ columns:
 ⚱️	huang jin weng	-5
 ⚱️	jin ta	-5
 ⚱️	jin weng	-5
-⚽	soccer	-6
-⚽	soccer ball	-6
 ⚽	ying shi zu qiu	-5
 ⚽	zu qiu	-5
 ⚽️	qiu	-5
 ⚽️	yun dong	-5
 ⚾	bang qiu	-5
-⚾	baseball	-6
 ⚾️	qiu	-5
 ⚾️	yun dong	-5
 ⛄	dui xue ren	-5
-⛄	snowman without snow	-6
 ⛄	xue ren	-5
 ⛄️	han leng	-5
 ⛄️	leng	-5
 ⛄️	xue	-5
 ⛅	duo yun	-5
-⛅	partly sunny	-6
-⛅	sun behind cloud	-6
 ⛅	wu yun bi ri	-5
 ⛅	yin tian	-5
 ⛅️	da zi ran	-5
 ⛅️	qi xiang	-5
 ⛅️	tian qi	-5
 ⛅️	zi ran	-5
-⛈️	cloud with lightning and rain	-6
 ⛈️	da yu	-5
 ⛈️	da zi ran	-5
 ⛈️	lei zhen yu	-5
 ⛈️	qi xiang	-5
-⛈️	thunder cloud and rain	-6
 ⛈️	tian qi	-5
 ⛈️	xia da yu	-5
 ⛈️	zi ran	-5
-⛎	ophiuchus	-6
 ⛎	she fu zuo	-5
 ⛏️	chu tou	-5
 ⛏️	gong ju	-5
 ⛏️	he zui chu	-5
 ⛏️	ji xie	-5
-⛏️	pick	-6
 ⛏️	tie gao	-5
 ⛑️	an quan mao	-5
-⛑️	bai shi zi an quan mao	-5
-⛑️	bai shi zi tou kui	-5
-⛑️	helmet with white cross	-6
 ⛑️	mao	-5
 ⛑️	mao zi	-5
-⛑️	rescue worker s helmet	-6
-⛑️	shi zi an quan mao	-5
 ⛑️	shi zi tou kui	-5
-⛓️	chains	-6
 ⛓️	gong ju	-5
 ⛓️	ji xie	-5
 ⛓️	lian tiao	-5
@@ -525,106 +377,70 @@ columns:
 ⛓️	suo lian	-5
 ⛓️	tie lian	-5
 ⛓️	tie lian zi	-5
-⛓️‍💥	broken chain	-6
 ⛔	jin zhi shi ru	-5
 ⛔	jin zhi tong xing	-5
-⛔	no entry	-6
 ⛔	qing wu ru nei	-5
 ⛔	qing wu shi ru	-5
 ⛩	ri ben shen she	-5
 ⛩	shen she	-5
-⛩️	shinto shrine	-6
 ⛩️	zong jiao	-5
-⛪	church	-6
 ⛪	jiao tang	-5
 ⛪	sheng tang	-5
 ⛪️	zong jiao	-5
-⛰️	mountain	-6
 ⛰️	shan	-5
 ⛰️	shan ding	-5
 ⛰️	shan feng	-5
 ⛰️	shan mai	-5
 ⛱️	sha tan san	-5
-⛱️	umbrella on ground	-6
 ⛱️	zhe yang san	-5
-⛲	fountain	-6
 ⛲	gong yuan	-5
 ⛲	pen quan	-5
-⛳	flag in hole	-6
 ⛳	gao er fu	-5
-⛳	gao er fu qiu dong	-5
-⛳	golf	-6
 ⛳️	yun dong	-5
 ⛴	du chuan	-5
 ⛴	du lun	-5
 ⛴	lun du	-5
 ⛴️	chuan	-5
-⛴️	ferry	-6
-⛵	boat	-6
 ⛵	fan chuan	-5
-⛵	sailboat	-6
 ⛵️	chuan	-5
 ⛷️	hua xue	-5
 ⛷️	hua xue de ren	-5
-⛷️	skier	-6
 ⛷️	yun dong yuan	-5
 ⛸	hua bing	-5
 ⛸	liu bing	-5
 ⛸	liu bing xie	-5
-⛸️	ice skate	-6
 ⛸️	xie	-5
 ⛸️	xie zi	-5
 ⛸️	yun dong	-5
-⛹️	person bouncing ball	-6
-⛹️	person with ball	-6
 ⛹️‍♀️	da lan qiu	-5
-⛹️‍♀️	lan qiu yun dong yuan	-5
 ⛹️‍♀️	wan lan qiu	-5
-⛹️‍♀️	woman bouncing ball	-6
 ⛹️‍♂️	da lan qiu	-5
-⛹️‍♂️	lan qiu yun dong yuan	-5
-⛹️‍♂️	man bouncing ball	-6
 ⛹️‍♂️	wan lan qiu	-5
 ⛹🏻	yun dong yuan	-5
-⛺	tent	-6
 ⛺	zhang peng	-5
-⛽	fuel pump	-6
-⛽	fuelpump	-6
 ⛽	jia you	-5
 ⛽	jia you zhan	-5
 ⛽	shi you	-5
-✂️	black scissors	-6
 ✂️	jian dao	-5
 ✂️	jian zi	-5
-✂️	scissors	-6
 ✄	te shu	-5
 ✅	da dui	-5
 ✅	da dui le	-5
 ✅	dui	-5
 ✅	dui gou	-5
 ✅	dui hao	-5
-✅	white check mark	-6
-✅	white heavy check mark	-6
 ✅	zheng que	-5
-✈️	airplane	-6
 ✈️	fei ji	-5
 ✈️	fei xing qi	-5
 ✈️	lv xing	-5
-✉️	email	-6
-✉️	envelope	-6
 ✉️	xie xin	-5
 ✉️	xin feng	-5
 ✉️	xin jian	-5
-✊	fist	-6
-✊	ju qi de quan tou	-5
 ✊	ju qi quan tou	-5
-✊	raised fist	-6
 ✊	shou shi	-5
 ✊	wo quan	-5
-✋	hand	-6
 ✋	ji zhang	-5
 ✋	ju qi de shou	-5
-✋	raised hand	-6
 ✋	shou	-5
 ✋	shou shi	-5
 ✋	shou zhang	-5
@@ -636,83 +452,65 @@ columns:
 ✌️	o ye	-5
 ✌️	sheng li	-5
 ✌️	shou shi	-5
-✌️	v	-6
-✌️	victory hand	-6
 ✌️	ye	-5
 ✌️	ying la	-5
 ✌️	ying le	-5
 ✌️	ying lo	-5
 ✍️	shou shi	-5
 ✍️	shou xie	-5
-✍️	writing hand	-6
 ✍️	xie zi	-5
 ✎	te shu	-5
-✏️	pencil	-6
-✏️	pencil2	-6
 ✏️	qian bi	-5
-✒️	black nib	-6
 ✒️	gang bi	-5
 ✔	dui	-5
 ✔	dui gou	-5
 ✔	dui hao	-5
 ✔	gou xuan	-5
 ✔	zheng que	-5
-✔️	heavy check mark	-6
 ✖️	cheng hao	-5
 ✖️	cheng yi	-5
-✖️	heavy multiplication x	-6
 ✖️	sheng	-5
 ✝️	ji du	-5
 ✝️	ji du jiao	-5
-✝️	latin cross	-6
 ✝️	shi zi jia	-5
 ✝️	zong jiao	-5
 ✡️	da wei zhi xing	-5
-✡️	star of david	-6
 ✧	xing hao	-5
 ✨	jin guang shan shan	-5
 ✨	jin shan shan	-5
 ✨	shan guang	-5
 ✨	shan liang	-5
 ✨	shan yao	-5
-✨	sparkles	-6
 ✨	xing xing	-5
 ✨	ye kong	-5
 ✨	ye wan	-5
 ✩	xing hao	-5
 ✱	xing hao	-5
 ✲	xing hao	-5
-✳️	ba lun fu xing hao	-5
-✳️	eight spoked asterisk	-6
 ✴️	ba jiao xing	-5
-✴️	eight pointed black star	-6
 ✿	xing hao	-5
 ❄️	da zi ran	-5
 ❄️	han leng	-5
 ❄️	leng	-5
 ❄️	qi xiang	-5
-❄️	snowflake	-6
 ❄️	tian qi	-5
 ❄️	xia xue	-5
 ❄️	xue	-5
 ❄️	xue hua	-5
 ❄️	zi ran	-5
 ❅	xing hao	-5
-❇️	sparkle	-6
 ❈	xing hao	-5
 ❉	xing hao	-5
 ❊	xing hao	-5
 ❋	xing hao	-5
 ❌	cha	-5
 ❌	cha cha	-5
-❌	cross mark	-6
 ❌	cuo	-5
 ❌	cuo hao	-5
 ❌	cuo wu	-5
 ❌	da cuo	-5
 ❌	da cuo le	-5
 ❌	hua cha	-5
-❌	x	-6
 ❎	cha	-5
 ❎	cha cha	-5
 ❎	cuo	-5
@@ -721,89 +519,54 @@ columns:
 ❎	da cuo	-5
 ❎	da cuo le	-5
 ❎	hua cha	-5
-❎	negative squared cross mark	-6
-❓	black question mark ornament	-6
-❓	question	-6
 ❓	wen hao	-5
 ❔	bai se wen hao	-5
 ❔	bai wen hao	-5
-❔	grey question	-6
 ❔	wen hao	-5
-❔	white question mark ornament	-6
 ❕	bai gan tan hao	-5
 ❕	bai jing tan hao	-5
-❕	bai se gan tan hao	-5
-❕	bai se jing tan hao	-5
 ❕	bai se tan hao	-5
 ❕	bai tan hao	-5
 ❕	gan tan hao	-5
-❕	grey exclamation	-6
 ❕	jing tan hao	-5
 ❕	tan hao	-5
-❕	white exclamation mark ornament	-6
-❗	exclamation	-6
 ❗	gan tan hao	-5
-❗	heavy exclamation mark	-6
-❗	heavy exclamation mark symbol	-6
 ❗	jing tan hao	-5
 ❗	tan hao	-5
-❣️	heart exclamation	-6
-❣️	heavy heart exclamation mark ornament	-6
 ❣️	xin tan hao	-5
-❤️	heart	-6
-❤️	heavy black heart	-6
 ❤️	xin xin	-5
 ❤️	yan se	-5
 ❤️‍🔥	ai huo	-5
-❤️‍🔥	heart on fire	-6
 ❤️‍🔥	huo shang zhi xin	-5
 ❤️‍🔥	ran shao de xin	-5
 ❤️‍🔥	xin huo	-5
 ❤️‍🔥	xin zai ran shao	-5
 ❤️‍🔥	xin zai zhao huo	-5
-❤️‍🩹	mending heart	-6
 ❤️‍🩹	shou shang	-5
 ❤️‍🩹	shou shang de xin	-5
-❤️‍🩹	shou shang de xin ling	-5
 ❤️‍🩹	xin shang	-5
-❤️‍🩹	xiu fu shou shang de xin ling	-5
 ❤️‍🩹	zhi yu de xin	-5
-➕	heavy plus sign	-6
 ➕	jia	-5
 ➕	jia hao	-5
-➖	heavy minus sign	-6
 ➖	jian	-5
 ➖	jian hao	-5
 ➗	chu	-5
 ➗	chu hao	-5
 ➗	chu yi	-5
-➗	heavy division sign	-6
-➡️	arrow right	-6
-➡️	black rightwards arrow	-6
 ➡️	xiang you jian tou	-5
 ➡️	you	-5
 ➡️	you jian tou	-5
-➰	curly loop	-6
 ➰	juan qu huan	-5
-➿	double curly loop	-6
-➿	loop	-6
 ➿	shuang juan qu huan	-5
-⬅️	arrow left	-6
-⬅️	leftwards black arrow	-6
 ⬅️	xiang zuo jian tou	-5
 ⬅️	zuo	-5
 ⬅️	zuo jian tou	-5
-⬆️	arrow up	-6
 ⬆️	shang	-5
 ⬆️	shang jian tou	-5
-⬆️	upwards black arrow	-6
 ⬆️	xiang shang jian tou	-5
-⬇️	arrow down	-6
-⬇️	downwards black arrow	-6
 ⬇️	xia	-5
 ⬇️	xia jian tou	-5
 ⬇️	xiang xia jian tou	-5
-⬛	black large square	-6
 ⬛	fang kuai	-5
 ⬛	fang xing	-5
 ⬛	hei kuang	-5
@@ -819,14 +582,11 @@ columns:
 ⬜	fang kuai	-5
 ⬜	fang xing	-5
 ⬜	ju xing	-5
-⬜	white large square	-6
 ⬜	xiao bai kuang	-5
 ⬜	zheng fang xing	-5
 ⬜️	fang xing	-5
 ⬜️	yan se	-5
 ⬜️	zheng fang xing	-5
-⭐	star	-6
-⭐	white medium star	-6
 ⭐	wu jiao xing	-5
 ⭐	xing xing	-5
 ⭐️	ye kong	-5
@@ -834,1407 +594,514 @@ columns:
 ⭕	da dui	-5
 ⭕	da dui le	-5
 ⭕	dui	-5
-⭕	heavy large circle	-6
-⭕	o	-6
 ⭕	yuan quan	-5
 ⭕	zheng que	-5
 〰️	bo lang xian	-5
-〰️	bo lang xing po zhe hao	-5
-〰️	wavy dash	-6
 〽️	ge ji hao	-5
-〽️	part alternation mark	-6
-㊗️	circled ideograph congratulation	-6
-㊗️	congratulations	-6
 ㊗️	zhu	-5
 ㊗️	zhu fu	-5
-㊙️	circled ideograph secret	-6
 ㊙️	mi	-5
 ㊙️	mi mi	-5
-㊙️	secret	-6
 🀄	hong zhong	-5
 🀄	ma jiang	-5
-🀄	mahjong	-6
-🀄	mahjong tile red dragon	-6
 🀄	zhong	-5
-🃏	black joker	-6
 🃏	da xiao wang	-5
 🃏	dai wang	-5
 🃏	gui pai	-5
 🃏	joker	-5
-🃏	playing card black joker	-6
 🃏	pu ke	-5
 🃏	xiao chou pai	-5
 🃏	xiao wang	-5
-🅰️	a	-6
-🅰️	negative squared latin capital letter a	-6
+🅰️	a	-5
 🅰️	xue xing	-5
-🅱️	b	-6
-🅱️	negative squared latin capital letter b	-6
+🅱️	b	-5
 🅱️	xue xing	-5
-🅾️	negative squared latin capital letter o	-6
 🅾️	o	-5
-🅾️	o2	-6
 🅾️	xue xing	-5
 🅿️	bo che	-5
-🅿️	negative squared latin capital letter p	-6
-🅿️	parking	-6
+🅿️	parking	-5
 🅿️	ting che	-5
 🅿️	ting che an niu	-5
 🅿️	ting che chang	-5
-🆎	ab	-6
-🆎	negative squared ab	-6
+🆎	ab	-5
 🆎	xue xing	-5
 🆎️	xue xing	-5
-🆑	cl	-6
 🆑	clear	-5
 🆑	qing chu	-5
 🆑	qing li	-5
-🆑	squared cl	-6
 🆒	chao ku	-5
-🆒	cool	-6
+🆒	cool	-5
 🆒	hen ku	-5
 🆒	ku	-5
-🆒	squared cool	-6
 🆒	te bie ku	-5
-🆓	free	-6
+🆓	free	-5
 🆓	mian fei	-5
-🆓	squared free	-6
 🆓	zi you	-5
-🆔	id	-6
+🆔	id	-5
 🆔	shen fen	-5
 🆔	shen fen zheng	-5
-🆔	squared id	-6
-🆕	new	-6
+🆕	new	-5
 🆕	quan xin	-5
-🆕	squared new	-6
 🆕	xin	-5
 🆕	xin de	-5
 🆕	xin jian	-5
 🆖	chong pai	-5
-🆖	ng	-6
-🆖	squared ng	-6
-🆗	ok	-6
-🆗	squared ok	-6
+🆖	ng	-5
+🆗	ok	-5
 🆘	jiu jiu wo	-5
 🆘	jiu ming	-5
 🆘	jiu wo	-5
 🆘	qiu jiu	-5
 🆘	qiu jiu xin hao	-5
 🆘	qiu jiu xun hao	-5
-🆘	sos	-6
-🆘	squared sos	-6
+🆘	sos	-5
 🆙	ding	-5
 🆙	sheng ji	-5
-🆙	squared up with exclamation mark	-6
-🆙	up	-6
+🆙	up	-5
 🆚	bi	-5
 🆚	bi sai	-5
 🆚	dui jue	-5
 🆚	dui kang	-5
 🆚	dui zhan	-5
-🆚	squared vs	-6
-🆚	vs	-6
+🆚	vs	-5
 🇦🇨	a sen song	-5
 🇦🇨	a sen song dao	-5
-🇦🇨	ascension island flag	-6
-🇦🇨	flag ac	-6
 🇦🇩	an dao er	-5
-🇦🇩	an dao er gong guo	-5
-🇦🇩	andorra flag	-6
-🇦🇩	flag ad	-6
 🇦🇪	a la bo	-5
-🇦🇪	a la bo lian he qiu zhang guo	-5
-🇦🇪	flag ae	-6
-🇦🇪	united arab emirates flag	-6
 🇦🇫	a fu han	-5
-🇦🇫	afghanistan flag	-6
-🇦🇫	flag af	-6
 🇦🇬	an ba	-5
-🇦🇬	an ti gua he ba bu da	-5
-🇦🇬	antigua barbuda flag	-6
-🇦🇬	flag ag	-6
 🇦🇮	an gui la	-5
-🇦🇮	anguilla flag	-6
-🇦🇮	flag ai	-6
-🇦🇱	a er ba ni ya	-5
-🇦🇱	a er ba ni ya gong he guo	-5
-🇦🇱	albania flag	-6
-🇦🇱	flag al	-6
-🇦🇲	armenia flag	-6
-🇦🇲	flag am	-6
 🇦🇲	ya mei ni ya	-5
-🇦🇲	ya mei ni ya gong he guo	-5
 🇦🇴	an ge la	-5
-🇦🇴	an ge la gong he guo	-5
-🇦🇴	angola flag	-6
-🇦🇴	flag ao	-6
-🇦🇶	antarctica flag	-6
-🇦🇶	flag aq	-6
 🇦🇶	nan ji zhou	-5
 🇦🇷	a gen ting	-5
-🇦🇷	a gen ting gong he guo	-5
-🇦🇷	argentina flag	-6
-🇦🇷	flag ar	-6
-🇦🇸	american samoa flag	-6
 🇦🇸	dong sa mo ya	-5
-🇦🇸	flag as	-6
-🇦🇸	mei shu sa mo ya	-5
 🇦🇹	ao di li	-5
-🇦🇹	ao di li gong he guo	-5
-🇦🇹	austria flag	-6
-🇦🇹	flag at	-6
 🇦🇺	ao da li ya	-5
-🇦🇺	ao da li ya lian bang	-5
 🇦🇺	ao zhou	-5
-🇦🇺	australia flag	-6
-🇦🇺	flag au	-6
 🇦🇺	guo qi	-5
 🇦🇼	a lu ba	-5
-🇦🇼	aruba flag	-6
-🇦🇼	flag aw	-6
-🇦🇽	a he wei nan ma	-5
 🇦🇽	ao lan	-5
 🇦🇽	ao lan qun dao	-5
-🇦🇽	flag ax	-6
-🇦🇽	land islands flag	-6
 🇦🇿	a sai bai jiang	-5
-🇦🇿	a sai bai jiang gong he guo	-5
-🇦🇿	azerbaijan flag	-6
-🇦🇿	flag az	-6
 🇧🇦	bo hei	-5
-🇧🇦	bo si ni ya he hei sai ge wei na	-5
-🇧🇦	bosnia herzegovina flag	-6
-🇧🇦	flag ba	-6
 🇧🇧	ba ba duo si	-5
-🇧🇧	barbados flag	-6
-🇧🇧	flag bb	-6
-🇧🇩	bangladesh flag	-6
-🇧🇩	flag bd	-6
 🇧🇩	meng jia la	-5
 🇧🇩	meng jia la guo	-5
-🇧🇪	belgium flag	-6
 🇧🇪	bi li shi	-5
-🇧🇪	bi li shi wang guo	-5
-🇧🇪	flag be	-6
-🇧🇫	bu ji na fa suo	-5
-🇧🇫	burkina faso flag	-6
-🇧🇫	flag bf	-6
 🇧🇬	bao jia li ya	-5
-🇧🇬	bao jia li ya gong he guo	-5
-🇧🇬	bulgaria flag	-6
-🇧🇬	flag bg	-6
 🇧🇭	ba lin	-5
 🇧🇭	ba lin wang guo	-5
-🇧🇭	bahrain flag	-6
-🇧🇭	flag bh	-6
 🇧🇮	bu long di	-5
-🇧🇮	bu long di gong he guo	-5
-🇧🇮	burundi flag	-6
-🇧🇮	flag bi	-6
 🇧🇯	bei ning	-5
-🇧🇯	bei ning gong he guo	-5
-🇧🇯	benin flag	-6
-🇧🇯	flag bj	-6
-🇧🇱	flag bl	-6
-🇧🇱	sheng ba tai le mi	-5
-🇧🇱	st barth lemy flag	-6
 🇧🇲	bai mu da	-5
-🇧🇲	bermuda flag	-6
-🇧🇲	flag bm	-6
-🇧🇳	brunei flag	-6
-🇧🇳	flag bn	-6
 🇧🇳	wen lai	-5
-🇧🇳	wen lai da lu sa lan guo	-5
 🇧🇴	bo li wei ya	-5
-🇧🇴	bo li wei ya guo	-5
-🇧🇴	bolivia flag	-6
-🇧🇴	duo min zu bo li wei ya guo	-5
-🇧🇴	flag bo	-6
-🇧🇶	caribbean netherlands flag	-6
-🇧🇶	flag bq	-6
-🇧🇶	he shu jia le bi qu	-5
 🇧🇷	ba xi	-5
 🇧🇷	ba xi lian bang	-5
-🇧🇷	ba xi lian bang gong he guo	-5
-🇧🇷	brazil flag	-6
-🇧🇷	flag br	-6
 🇧🇸	ba ha ma	-5
 🇧🇸	ba ha ma guo	-5
-🇧🇸	bahamas flag	-6
-🇧🇸	flag bs	-6
-🇧🇹	bhutan flag	-6
 🇧🇹	bu dan	-5
 🇧🇹	bu dan wang guo	-5
-🇧🇹	flag bt	-6
-🇧🇻	bouvet island flag	-6
 🇧🇻	bu wei dao	-5
-🇧🇻	flag bv	-6
 🇧🇼	bo ci wa na	-5
-🇧🇼	bo ci wa na gong he guo	-5
-🇧🇼	botswana flag	-6
-🇧🇼	flag bw	-6
 🇧🇾	bai e	-5
 🇧🇾	bai e luo si	-5
-🇧🇾	belarus flag	-6
-🇧🇾	flag by	-6
-🇧🇿	belize flag	-6
 🇧🇿	bo li zi	-5
-🇧🇿	flag bz	-6
-🇨🇦	canada flag	-6
-🇨🇦	flag ca	-6
 🇨🇦	guo qi	-5
 🇨🇦	jia na da	-5
-🇨🇨	cocos keeling islands flag	-6
-🇨🇨	flag cc	-6
 🇨🇨	ke ke si	-5
-🇨🇨	ke ke si ji lin qun dao	-5
-🇨🇩	congo kinshasa flag	-6
-🇨🇩	flag cd	-6
 🇨🇩	gang guo	-5
 🇨🇩	gang guo jin	-5
-🇨🇫	central african republic flag	-6
-🇨🇫	flag cf	-6
 🇨🇫	zhong fei	-5
-🇨🇫	zhong fei gong he guo	-5
-🇨🇬	congo brazzaville flag	-6
-🇨🇬	flag cg	-6
 🇨🇬	gang guo	-5
 🇨🇬	gang guo bu	-5
-🇨🇭	flag ch	-6
 🇨🇭	rui shi	-5
 🇨🇭	rui shi lian bang	-5
-🇨🇭	switzerland flag	-6
-🇨🇮	c te d ivoire flag	-6
-🇨🇮	flag ci	-6
 🇨🇮	ke te di wa	-5
-🇨🇮	ke te di wa gong he guo	-5
-🇨🇰	cook islands flag	-6
-🇨🇰	flag ck	-6
 🇨🇰	ku ke qun dao	-5
-🇨🇱	chile flag	-6
-🇨🇱	flag cl	-6
 🇨🇱	zhi li	-5
-🇨🇱	zhi li gong he guo	-5
-🇨🇲	cameroon flag	-6
-🇨🇲	flag cm	-6
 🇨🇲	ka mai long	-5
-🇨🇲	ka mai long gong he guo	-5
-🇨🇳	china flag	-6
-🇨🇳	cn	-6
-🇨🇳	flag cn	-6
 🇨🇳	guo qi	-5
 🇨🇳	hong qi	-5
 🇨🇳	wu xing hong qi	-5
 🇨🇳	zhong guo	-5
-🇨🇳	zhong hua ren min gong he guo	-5
-🇨🇴	colombia flag	-6
-🇨🇴	flag co	-6
 🇨🇴	ge lun bi ya	-5
-🇨🇴	ge lun bi ya gong he guo	-5
-🇨🇵	clipperton island flag	-6
-🇨🇵	flag cp	-6
-🇨🇵	ke li po dun dao	-5
-🇨🇶	flag sark	-6
-🇨🇶	sark flag	-6
-🇨🇷	costa rica flag	-6
-🇨🇷	flag cr	-6
-🇨🇷	ge si da li jia	-5
-🇨🇷	ge si da li jia gong he guo	-5
-🇨🇺	cuba flag	-6
-🇨🇺	flag cu	-6
 🇨🇺	gu ba	-5
-🇨🇺	gu ba gong he guo	-5
-🇨🇻	cape verde flag	-6
-🇨🇻	flag cv	-6
 🇨🇻	fo de jiao	-5
-🇨🇻	fo de jiao gong he guo	-5
-🇨🇼	cura ao flag	-6
-🇨🇼	flag cw	-6
 🇨🇼	ku la suo	-5
-🇨🇽	christmas island flag	-6
-🇨🇽	flag cx	-6
 🇨🇽	sheng dan dao	-5
-🇨🇾	cyprus flag	-6
-🇨🇾	flag cy	-6
 🇨🇾	sai pu lu si	-5
-🇨🇾	sai pu lu si gong he guo	-5
-🇨🇿	czechia flag	-6
-🇨🇿	flag cz	-6
 🇨🇿	jie ke	-5
-🇨🇿	jie ke gong he guo	-5
-🇩🇪	de	-6
 🇩🇪	de guo	-5
 🇩🇪	de yi zhi	-5
-🇩🇪	de yi zhi lian bang	-5
-🇩🇪	de yi zhi lian bang gong he guo	-5
-🇩🇪	flag de	-6
-🇩🇪	germany flag	-6
 🇩🇪	guo qi	-5
-🇩🇬	di ge jia xi ya dao	-5
-🇩🇬	diego garcia flag	-6
-🇩🇬	flag dg	-6
-🇩🇯	djibouti flag	-6
-🇩🇯	flag dj	-6
 🇩🇯	ji bu ti	-5
-🇩🇯	ji bu ti gong he guo	-5
 🇩🇰	dan mai	-5
-🇩🇰	denmark flag	-6
-🇩🇰	flag dk	-6
-🇩🇲	dominica flag	-6
 🇩🇲	duo mi ni ke	-5
-🇩🇲	duo mi ni ke guo	-5
-🇩🇲	flag dm	-6
-🇩🇴	dominican republic flag	-6
-🇩🇴	duo mi ni jia gong he guo	-5
-🇩🇴	flag do	-6
-🇩🇿	a er ji li ya	-5
-🇩🇿	a er ji li ya min zhu ren min gong he guo	-5
-🇩🇿	algeria flag	-6
-🇩🇿	flag dz	-6
-🇪🇦	ceuta melilla flag	-6
-🇪🇦	flag ea	-6
 🇪🇦	mei li li ya	-5
 🇪🇦	xiu da	-5
-🇪🇦	xiu da he mei li li ya	-5
-🇪🇦	xiu da ji mei li li ya	-5
 🇪🇨	e gua duo er	-5
-🇪🇨	e gua duo er gong he guo	-5
-🇪🇨	ecuador flag	-6
-🇪🇨	flag ec	-6
 🇪🇪	ai sha ni ya	-5
-🇪🇪	ai sha ni ya gong he guo	-5
-🇪🇪	estonia flag	-6
-🇪🇪	flag ee	-6
 🇪🇬	ai ji	-5
-🇪🇬	egypt flag	-6
-🇪🇬	flag eg	-6
-🇪🇭	flag eh	-6
-🇪🇭	western sahara flag	-6
 🇪🇭	xi sa ha la	-5
-🇪🇷	e li te li ya	-5
-🇪🇷	e li te li ya guo	-5
-🇪🇷	eritrea flag	-6
-🇪🇷	flag er	-6
-🇪🇸	es	-6
-🇪🇸	flag es	-6
-🇪🇸	spain flag	-6
 🇪🇸	xi ban ya	-5
-🇪🇸	xi ban ya wang guo	-5
-🇪🇹	ai sai e bi ya	-5
-🇪🇹	ai sai e bi ya lian bang min zhu gong he guo	-5
-🇪🇹	ethiopia flag	-6
-🇪🇹	flag et	-6
-🇪🇺	european union flag	-6
-🇪🇺	flag eu	-6
 🇪🇺	ou meng	-5
 🇪🇺	ou zhou lian meng	-5
 🇫🇮	fen lan	-5
-🇫🇮	fen lan gong he guo	-5
-🇫🇮	finland flag	-6
-🇫🇮	flag fi	-6
 🇫🇯	fei ji	-5
-🇫🇯	fei ji gong he guo	-5
-🇫🇯	fiji flag	-6
-🇫🇯	flag fj	-6
-🇫🇰	falkland islands flag	-6
-🇫🇰	flag fk	-6
-🇫🇰	fu ke lan qun dao	-5
-🇫🇰	ma er wei na si qun dao	-5
-🇫🇲	flag fm	-6
-🇫🇲	mi ke luo ni xi ya	-5
-🇫🇲	micronesia flag	-6
 🇫🇴	fa luo qun dao	-5
-🇫🇴	faroe islands flag	-6
-🇫🇴	flag fo	-6
 🇫🇷	fa guo	-5
 🇫🇷	fa lan xi	-5
-🇫🇷	fa lan xi gong he guo	-5
-🇫🇷	flag fr	-6
-🇫🇷	fr	-6
-🇫🇷	france flag	-6
-🇬🇦	flag ga	-6
-🇬🇦	gabon flag	-6
 🇬🇦	jia peng	-5
-🇬🇧	da bu lie dian ji bei ai er lan lian he wang guo	-5
-🇬🇧	flag gb	-6
-🇬🇧	gb	-6
-🇬🇧	uk	-6
-🇬🇧	united kingdom flag	-6
 🇬🇧	ying guo	-5
 🇬🇧	ying lun	-5
-🇬🇩	flag gd	-6
 🇬🇩	ge lin na da	-5
-🇬🇩	grenada flag	-6
-🇬🇪	flag ge	-6
 🇬🇪	ge lu ji ya	-5
-🇬🇪	georgia flag	-6
-🇬🇫	fa shu gui ya na	-5
-🇬🇫	flag gf	-6
-🇬🇫	french guiana flag	-6
-🇬🇬	flag gg	-6
 🇬🇬	gen xi dao	-5
-🇬🇬	guernsey flag	-6
-🇬🇭	flag gh	-6
-🇬🇭	ghana flag	-6
 🇬🇭	jia na	-5
-🇬🇭	jia na gong he guo	-5
-🇬🇮	flag gi	-6
-🇬🇮	gibraltar flag	-6
 🇬🇮	zhi bu luo tuo	-5
-🇬🇱	flag gl	-6
 🇬🇱	ge ling lan	-5
-🇬🇱	greenland flag	-6
-🇬🇲	flag gm	-6
-🇬🇲	gambia flag	-6
 🇬🇲	gang bi ya	-5
-🇬🇲	gang bi ya gong he guo	-5
-🇬🇳	flag gn	-6
-🇬🇳	guinea flag	-6
 🇬🇳	ji nei ya	-5
-🇬🇳	ji nei ya gong he guo	-5
-🇬🇵	flag gp	-6
 🇬🇵	gua de luo pu	-5
-🇬🇵	guadeloupe flag	-6
-🇬🇶	chi dao ji nei ya	-5
-🇬🇶	equatorial guinea flag	-6
-🇬🇶	flag gq	-6
-🇬🇷	flag gr	-6
-🇬🇷	greece flag	-6
 🇬🇷	xi la	-5
-🇬🇷	xi la gong he guo	-5
-🇬🇸	flag gs	-6
-🇬🇸	nan qiao zhi ya he nan sang wei qi qun dao	-5
-🇬🇹	flag gt	-6
-🇬🇹	guatemala flag	-6
 🇬🇹	wei di ma la	-5
-🇬🇺	flag gu	-6
-🇬🇺	guam flag	-6
 🇬🇺	guan dao	-5
-🇬🇼	flag gw	-6
-🇬🇼	guinea bissau flag	-6
-🇬🇼	ji nei ya bi shao	-5
-🇬🇼	ji nei ya bi shao gong he guo	-5
-🇬🇾	flag gy	-6
 🇬🇾	gui ya na	-5
-🇬🇾	gui ya na he zuo gong he guo	-5
-🇬🇾	guyana flag	-6
-🇭🇰	flag hk	-6
 🇭🇰	guo qi	-5
-🇭🇰	hong kong sar china flag	-6
 🇭🇰	xiang gang	-5
-🇭🇰	xiang gang te bie xing zheng qu	-5
 🇭🇰	zhong guo xiang gang	-5
-🇭🇰	zhong guo xiang gang te bie xing zheng qu	-5
-🇭🇲	flag hm	-6
-🇭🇲	he de dao he mai ke tang na qun dao	-5
-🇭🇲	heard mcdonald islands flag	-6
-🇭🇳	flag hn	-6
-🇭🇳	honduras flag	-6
 🇭🇳	hong du la si	-5
-🇭🇳	hong du la si gong he guo	-5
-🇭🇷	croatia flag	-6
-🇭🇷	flag hr	-6
 🇭🇷	ke luo di ya	-5
-🇭🇷	ke luo di ya gong he guo	-5
-🇭🇹	flag ht	-6
 🇭🇹	hai di	-5
-🇭🇹	hai di gong he guo	-5
-🇭🇹	haiti flag	-6
-🇭🇺	flag hu	-6
-🇭🇺	hungary flag	-6
 🇭🇺	xiong ya li	-5
-🇮🇨	canary islands flag	-6
-🇮🇨	flag ic	-6
-🇮🇨	jia na li qun dao	-5
-🇮🇩	flag id	-6
-🇮🇩	indonesia flag	-6
-🇮🇩	yin du ni xi ya	-5
-🇮🇩	yin du ni xi ya gong he guo	-5
 🇮🇪	ai er lan	-5
-🇮🇪	ai er lan gong he guo	-5
-🇮🇪	flag ie	-6
-🇮🇪	ireland flag	-6
-🇮🇱	flag il	-6
-🇮🇱	israel flag	-6
 🇮🇱	yi se lie	-5
 🇮🇱	yi se lie guo	-5
-🇮🇲	flag im	-6
-🇮🇲	isle of man flag	-6
 🇮🇲	ma en dao	-5
-🇮🇳	flag in	-6
-🇮🇳	india flag	-6
 🇮🇳	yin du	-5
-🇮🇳	yin du gong he guo	-5
-🇮🇴	british indian ocean territory flag	-6
-🇮🇴	flag io	-6
-🇮🇴	ying shu yin du yang ling di	-5
-🇮🇶	flag iq	-6
-🇮🇶	iraq flag	-6
 🇮🇶	yi la ke	-5
-🇮🇶	yi la ke gong he guo	-5
-🇮🇷	flag ir	-6
-🇮🇷	iran flag	-6
 🇮🇷	yi lang	-5
-🇮🇷	yi lang yi si lan gong he guo	-5
 🇮🇸	bing dao	-5
-🇮🇸	flag is	-6
-🇮🇸	iceland flag	-6
-🇮🇹	flag it	-6
-🇮🇹	it	-6
-🇮🇹	italy flag	-6
 🇮🇹	yi da li	-5
-🇮🇹	yi da li gong he guo	-5
-🇯🇪	flag je	-6
-🇯🇪	jersey flag	-6
 🇯🇪	ze xi	-5
 🇯🇪	ze xi dao	-5
-🇯🇲	flag jm	-6
-🇯🇲	jamaica flag	-6
 🇯🇲	ya mai jia	-5
-🇯🇴	flag jo	-6
-🇯🇴	jordan flag	-6
 🇯🇴	yue dan	-5
-🇯🇴	yue dan ha xi mu wang guo	-5
-🇯🇵	flag jp	-6
 🇯🇵	guo qi	-5
-🇯🇵	japan flag	-6
-🇯🇵	jp	-6
 🇯🇵	ri ben	-5
 🇯🇵	ri ben guo	-5
-🇰🇪	flag ke	-6
 🇰🇪	ken ni ya	-5
-🇰🇪	ken ni ya gong he guo	-5
-🇰🇪	kenya flag	-6
-🇰🇬	flag kg	-6
-🇰🇬	ji er ji si gong he guo	-5
-🇰🇬	ji er ji si si tan	-5
-🇰🇬	kyrgyzstan flag	-6
-🇰🇭	cambodia flag	-6
-🇰🇭	flag kh	-6
 🇰🇭	jian pu zhai	-5
-🇰🇭	jian pu zhai wang guo	-5
-🇰🇮	flag ki	-6
 🇰🇮	ji li ba si	-5
-🇰🇮	ji li ba si gong he guo	-5
-🇰🇮	kiribati flag	-6
-🇰🇲	comoros flag	-6
-🇰🇲	flag km	-6
 🇰🇲	ke mo luo	-5
-🇰🇲	ke mo luo lian meng	-5
-🇰🇳	flag kn	-6
-🇰🇳	sheng ji ci he ni wei si	-5
-🇰🇳	st kitts nevis flag	-6
 🇰🇵	bei chao xian	-5
 🇰🇵	bei han	-5
 🇰🇵	chao xian	-5
-🇰🇵	flag kp	-6
-🇰🇵	north korea flag	-6
-🇰🇷	flag kr	-6
 🇰🇷	han guo	-5
-🇰🇷	kr	-6
 🇰🇷	nan chao xian	-5
 🇰🇷	nan han	-5
-🇰🇷	south korea flag	-6
-🇰🇼	flag kw	-6
 🇰🇼	ke wei te	-5
 🇰🇼	ke wei te guo	-5
-🇰🇼	kuwait flag	-6
-🇰🇾	cayman islands flag	-6
-🇰🇾	flag ky	-6
 🇰🇾	kai man qun dao	-5
-🇰🇿	flag kz	-6
-🇰🇿	ha sa ke si tan	-5
-🇰🇿	ha sa ke si tan gong he guo	-5
-🇰🇿	kazakhstan flag	-6
-🇱🇦	flag la	-6
 🇱🇦	lao wo	-5
-🇱🇦	lao wo ren min min zhu gong he guo	-5
-🇱🇦	laos flag	-6
-🇱🇧	flag lb	-6
-🇱🇧	lebanon flag	-6
 🇱🇧	li ba nen	-5
-🇱🇧	li ba nen gong he guo	-5
-🇱🇨	flag lc	-6
 🇱🇨	sheng lu xi ya	-5
-🇱🇨	st lucia flag	-6
-🇱🇮	flag li	-6
-🇱🇮	lie zhi dun shi deng	-5
-🇱🇮	lie zhi dun shi deng gong guo	-5
-🇱🇮	liechtenstein flag	-6
-🇱🇰	flag lk	-6
 🇱🇰	si li lan ka	-5
-🇱🇰	si li lan ka min zhu she hui zhu yi gong he guo	-5
-🇱🇰	sri lanka flag	-6
-🇱🇷	flag lr	-6
 🇱🇷	li bi li ya	-5
-🇱🇷	li bi li ya gong he guo	-5
-🇱🇷	liberia flag	-6
-🇱🇸	flag ls	-6
 🇱🇸	lai suo tuo	-5
-🇱🇸	lai suo tuo wang guo	-5
-🇱🇸	lesotho flag	-6
-🇱🇹	flag lt	-6
 🇱🇹	li tao wan	-5
-🇱🇹	li tao wan gong he guo	-5
-🇱🇹	lithuania flag	-6
-🇱🇺	flag lu	-6
 🇱🇺	lu sen bao	-5
-🇱🇺	lu sen bao da gong guo	-5
-🇱🇺	luxembourg flag	-6
-🇱🇻	flag lv	-6
 🇱🇻	la tuo wei ya	-5
-🇱🇻	la tuo wei ya gong he guo	-5
-🇱🇻	latvia flag	-6
-🇱🇾	flag ly	-6
 🇱🇾	li bi ya	-5
 🇱🇾	li bi ya guo	-5
-🇱🇾	libya flag	-6
-🇲🇦	flag ma	-6
 🇲🇦	mo luo ge	-5
-🇲🇦	mo luo ge wang guo	-5
-🇲🇦	morocco flag	-6
-🇲🇨	flag mc	-6
 🇲🇨	mo na ge	-5
-🇲🇨	mo na ge gong guo	-5
-🇲🇨	monaco flag	-6
-🇲🇩	flag md	-6
 🇲🇩	mo er duo wa	-5
-🇲🇩	mo er duo wa gong he guo	-5
-🇲🇩	moldova flag	-6
-🇲🇪	flag me	-6
 🇲🇪	hei shan	-5
-🇲🇪	montenegro flag	-6
-🇲🇫	fa shu sheng ma ding	-5
-🇲🇫	flag mf	-6
-🇲🇫	st martin flag	-6
-🇲🇬	flag mg	-6
-🇲🇬	ma da jia si jia	-5
-🇲🇬	ma da jia si jia gong he guo	-5
-🇲🇬	madagascar flag	-6
-🇲🇭	flag mh	-6
-🇲🇭	ma shao er qun dao	-5
-🇲🇭	marshall islands flag	-6
 🇲🇰	bei ma qi dun	-5
-🇲🇰	bei ma qi dun gong he guo	-5
-🇲🇰	flag mk	-6
-🇲🇰	north macedonia flag	-6
-🇲🇱	flag ml	-6
 🇲🇱	ma li	-5
-🇲🇱	ma li gong he guo	-5
-🇲🇱	mali flag	-6
-🇲🇲	flag mm	-6
 🇲🇲	mian dian	-5
 🇲🇲	mian dian lian bang	-5
-🇲🇲	mian dian lian bang gong he guo	-5
-🇲🇲	myanmar burma flag	-6
-🇲🇳	flag mn	-6
 🇲🇳	meng gu	-5
 🇲🇳	meng gu guo	-5
-🇲🇳	mongolia flag	-6
 🇲🇴	ao men	-5
-🇲🇴	ao men te bie xing zheng qu	-5
-🇲🇴	flag mo	-6
-🇲🇴	macao sar china flag	-6
 🇲🇴	zhong guo ao men	-5
-🇲🇴	zhong guo ao men te bie xing zheng qu	-5
-🇲🇵	bei ma li ya na qun dao	-5
-🇲🇵	flag mp	-6
-🇲🇵	northern mariana islands flag	-6
-🇲🇶	flag mq	-6
 🇲🇶	ma ti ni ke	-5
-🇲🇶	martinique flag	-6
-🇲🇷	flag mr	-6
-🇲🇷	mao li ta ni ya	-5
-🇲🇷	mao li ta ni ya yi si lan gong he guo	-5
-🇲🇷	mauritania flag	-6
-🇲🇸	flag ms	-6
-🇲🇸	meng te sai la te	-5
-🇲🇸	montserrat flag	-6
-🇲🇹	flag mt	-6
 🇲🇹	ma er ta	-5
-🇲🇹	ma er ta gong he guo	-5
-🇲🇹	malta flag	-6
-🇲🇺	flag mu	-6
 🇲🇺	mao li qiu si	-5
-🇲🇺	mao li qiu si gong he guo	-5
-🇲🇺	mauritius flag	-6
-🇲🇻	flag mv	-6
 🇲🇻	ma er dai fu	-5
-🇲🇻	ma er dai fu gong he guo	-5
-🇲🇻	maldives flag	-6
-🇲🇼	flag mw	-6
 🇲🇼	ma la wei	-5
-🇲🇼	ma la wei gong he guo	-5
-🇲🇼	malawi flag	-6
-🇲🇽	flag mx	-6
-🇲🇽	mexico flag	-6
 🇲🇽	mo xi ge	-5
-🇲🇽	mo xi ge he zhong guo	-5
-🇲🇾	flag my	-6
 🇲🇾	ma lai xi ya	-5
-🇲🇾	malaysia flag	-6
-🇲🇿	flag mz	-6
 🇲🇿	mo sang bi ke	-5
-🇲🇿	mo sang bi ke gong he guo	-5
-🇲🇿	mozambique flag	-6
-🇳🇦	flag na	-6
 🇳🇦	na mi bi ya	-5
-🇳🇦	na mi bi ya gong he guo	-5
-🇳🇦	namibia flag	-6
-🇳🇨	flag nc	-6
-🇳🇨	new caledonia flag	-6
-🇳🇨	xin ka li duo ni ya	-5
-🇳🇪	flag ne	-6
 🇳🇪	ni ri er	-5
-🇳🇪	ni ri er gong he guo	-5
-🇳🇪	niger flag	-6
-🇳🇫	flag nf	-6
-🇳🇫	norfolk island flag	-6
 🇳🇫	nuo fu ke dao	-5
-🇳🇬	flag ng	-6
 🇳🇬	ni ri li ya	-5
-🇳🇬	ni ri li ya lian bang	-5
-🇳🇬	ni ri li ya lian bang gong he guo	-5
-🇳🇬	nigeria flag	-6
-🇳🇮	flag ni	-6
 🇳🇮	ni jia la gua	-5
-🇳🇮	ni jia la gua gong he guo	-5
-🇳🇮	nicaragua flag	-6
-🇳🇱	flag nl	-6
 🇳🇱	he lan	-5
-🇳🇱	netherlands flag	-6
 🇳🇱	ni de lan	-5
-🇳🇴	flag no	-6
-🇳🇴	norway flag	-6
 🇳🇴	nuo wei	-5
 🇳🇴	nuo wei wang guo	-5
-🇳🇵	flag np	-6
-🇳🇵	nepal flag	-6
 🇳🇵	ni bo er	-5
-🇳🇷	flag nr	-6
 🇳🇷	nao lu	-5
-🇳🇷	nao lu gong he guo	-5
-🇳🇷	nauru flag	-6
-🇳🇺	flag nu	-6
 🇳🇺	niu ai	-5
-🇳🇺	niue flag	-6
-🇳🇿	flag nz	-6
 🇳🇿	guo qi	-5
-🇳🇿	new zealand flag	-6
 🇳🇿	xin xi lan	-5
 🇴🇲	a man	-5
-🇴🇲	a man su dan guo	-5
-🇴🇲	flag om	-6
-🇴🇲	oman flag	-6
 🇵🇦	ba na ma	-5
-🇵🇦	ba na ma gong he guo	-5
-🇵🇦	flag pa	-6
-🇵🇦	panama flag	-6
 🇵🇪	bi lu	-5
-🇵🇪	bi lu gong he guo	-5
-🇵🇪	flag pe	-6
-🇵🇪	peru flag	-6
-🇵🇫	fa shu bo li ni xi ya	-5
-🇵🇫	flag pf	-6
-🇵🇫	french polynesia flag	-6
-🇵🇬	ba bu ya xin ji nei ya	-5
-🇵🇬	ba bu ya xin ji nei ya du li guo	-5
-🇵🇬	flag pg	-6
-🇵🇬	papua new guinea flag	-6
 🇵🇭	fei lv bin	-5
-🇵🇭	fei lv bin gong he guo	-5
-🇵🇭	flag ph	-6
-🇵🇭	philippines flag	-6
 🇵🇰	ba ji si tan	-5
-🇵🇰	ba ji si tan yi si lan gong he guo	-5
-🇵🇰	flag pk	-6
-🇵🇰	pakistan flag	-6
 🇵🇱	bo lan	-5
-🇵🇱	bo lan gong he guo	-5
-🇵🇱	flag pl	-6
-🇵🇱	poland flag	-6
-🇵🇲	flag pm	-6
-🇵🇲	sheng pi ai er he mi ke long qun dao	-5
-🇵🇲	st pierre miquelon flag	-6
-🇵🇳	flag pn	-6
-🇵🇳	pi te kai en qun dao	-5
-🇵🇳	pitcairn islands flag	-6
 🇵🇷	bo duo li ge	-5
-🇵🇷	flag pr	-6
-🇵🇷	puerto rico flag	-6
-🇵🇸	ba le si tan ling tu	-5
-🇵🇸	flag ps	-6
-🇵🇸	palestinian territories flag	-6
-🇵🇹	flag pt	-6
-🇵🇹	portugal flag	-6
 🇵🇹	pu tao ya	-5
-🇵🇹	pu tao ya gong he guo	-5
-🇵🇼	flag pw	-6
 🇵🇼	pa lao	-5
-🇵🇼	pa lao gong he guo	-5
-🇵🇼	palau flag	-6
 🇵🇾	ba la gui	-5
-🇵🇾	ba la gui gong he guo	-5
-🇵🇾	flag py	-6
-🇵🇾	paraguay flag	-6
-🇶🇦	flag qa	-6
 🇶🇦	ka ta er	-5
 🇶🇦	ka ta er guo	-5
-🇶🇦	qatar flag	-6
-🇷🇪	flag re	-6
 🇷🇪	liu ni wang	-5
-🇷🇪	r union flag	-6
-🇷🇴	flag ro	-6
 🇷🇴	luo ma ni ya	-5
-🇷🇴	romania flag	-6
-🇷🇸	flag rs	-6
 🇷🇸	sai er wei ya	-5
-🇷🇸	sai er wei ya gong he guo	-5
-🇷🇸	serbia flag	-6
 🇷🇺	e guo	-5
 🇷🇺	e luo si	-5
-🇷🇺	e luo si lian bang	-5
-🇷🇺	flag ru	-6
-🇷🇺	ru	-6
-🇷🇺	russia flag	-6
-🇷🇼	flag rw	-6
 🇷🇼	lu wang da	-5
-🇷🇼	lu wang da gong he guo	-5
-🇷🇼	rwanda flag	-6
-🇸🇦	flag sa	-6
-🇸🇦	saudi arabia flag	-6
 🇸🇦	sha te	-5
-🇸🇦	sha te a la bo	-5
-🇸🇦	sha te a la bo wang guo	-5
-🇸🇧	flag sb	-6
-🇸🇧	solomon islands flag	-6
-🇸🇧	suo luo men qun dao	-5
-🇸🇨	flag sc	-6
 🇸🇨	sai she er	-5
-🇸🇨	sai she er gong he guo	-5
-🇸🇨	seychelles flag	-6
-🇸🇩	flag sd	-6
 🇸🇩	su dan	-5
-🇸🇩	su dan gong he guo	-5
-🇸🇩	sudan flag	-6
-🇸🇪	flag se	-6
 🇸🇪	rui dian	-5
 🇸🇪	rui dian wang guo	-5
-🇸🇪	sweden flag	-6
-🇸🇬	flag sg	-6
-🇸🇬	singapore flag	-6
 🇸🇬	xin jia po	-5
-🇸🇬	xin jia po gong he guo	-5
-🇸🇭	flag sh	-6
 🇸🇭	sheng he le na	-5
-🇸🇭	st helena flag	-6
-🇸🇮	flag si	-6
-🇸🇮	si luo wen ni ya	-5
-🇸🇮	si luo wen ni ya gong he guo	-5
-🇸🇮	slovenia flag	-6
-🇸🇯	flag sj	-6
-🇸🇯	si wa er ba he yang ma yan	-5
-🇸🇯	svalbard jan mayen flag	-6
-🇸🇰	flag sk	-6
 🇸🇰	si luo fa ke	-5
-🇸🇰	si luo fa ke gong he guo	-5
-🇸🇰	slovakia flag	-6
-🇸🇱	flag sl	-6
 🇸🇱	sai la li ang	-5
-🇸🇱	sai la li ang gong he guo	-5
-🇸🇱	sierra leone flag	-6
-🇸🇲	flag sm	-6
-🇸🇲	san marino flag	-6
 🇸🇲	sheng ma li nuo	-5
-🇸🇲	sheng ma li nuo gong he guo	-5
-🇸🇳	flag sn	-6
 🇸🇳	sai nei jia er	-5
-🇸🇳	sai nei jia er gong he guo	-5
-🇸🇳	senegal flag	-6
-🇸🇴	flag so	-6
-🇸🇴	somalia flag	-6
 🇸🇴	suo ma li	-5
-🇸🇴	suo ma li lian bang	-5
-🇸🇴	suo ma li lian bang gong he guo	-5
-🇸🇷	flag sr	-6
 🇸🇷	su li nan	-5
-🇸🇷	su li nan gong he guo	-5
-🇸🇷	suriname flag	-6
-🇸🇸	flag ss	-6
 🇸🇸	nan su dan	-5
-🇸🇸	nan su dan gong he guo	-5
-🇸🇸	south sudan flag	-6
-🇸🇹	flag st	-6
-🇸🇹	s o tom pr ncipe flag	-6
-🇸🇹	sheng duo mei he pu lin xi bi	-5
-🇸🇹	sheng duo mei he pu lin xi bi min zhu gong he guo	-5
-🇸🇻	el salvador flag	-6
-🇸🇻	flag sv	-6
 🇸🇻	sa er wa duo	-5
-🇸🇻	sa er wa duo gong he guo	-5
-🇸🇽	flag sx	-6
-🇸🇽	he shu sheng ma ding	-5
 🇸🇽	sheng ma ding	-5
-🇸🇽	sint maarten flag	-6
-🇸🇾	a la bo xu li ya gong he guo	-5
-🇸🇾	flag sy	-6
-🇸🇾	syria flag	-6
 🇸🇾	xu li ya	-5
-🇸🇾	xu li ya gong he guo	-5
-🇸🇿	eswatini flag	-6
-🇸🇿	flag sz	-6
 🇸🇿	si wei shi lan	-5
-🇸🇿	si wei shi lan wang guo	-5
-🇹🇦	flag ta	-6
-🇹🇦	te li si tan da ku ni ya	-5
-🇹🇦	te li si tan da ku ni ya qun dao	-5
-🇹🇦	tristan da cunha flag	-6
-🇹🇨	flag tc	-6
-🇹🇨	te ke si he kai ke si qun dao	-5
-🇹🇨	turks caicos islands flag	-6
-🇹🇩	chad flag	-6
-🇹🇩	flag td	-6
 🇹🇩	zha de	-5
-🇹🇩	zha de gong he guo	-5
-🇹🇫	fa shu nan bu ling di	-5
-🇹🇫	flag tf	-6
-🇹🇫	french southern territories flag	-6
 🇹🇬	duo ge	-5
-🇹🇬	duo ge gong he guo	-5
-🇹🇬	flag tg	-6
-🇹🇬	togo flag	-6
-🇹🇭	flag th	-6
 🇹🇭	tai guo	-5
 🇹🇭	tai wang guo	-5
-🇹🇭	thailand flag	-6
 🇹🇭	xian luo	-5
-🇹🇯	flag tj	-6
-🇹🇯	ta ji ke si tan	-5
-🇹🇯	ta ji ke si tan gong he guo	-5
-🇹🇯	tajikistan flag	-6
-🇹🇰	flag tk	-6
-🇹🇰	tokelau flag	-6
 🇹🇰	tuo ke lao	-5
 🇹🇱	dong di wen	-5
-🇹🇱	dong di wen min zhu gong he guo	-5
-🇹🇱	flag tl	-6
-🇹🇱	timor leste flag	-6
-🇹🇲	flag tm	-6
-🇹🇲	tu ku man si tan	-5
-🇹🇲	turkmenistan flag	-6
-🇹🇳	flag tn	-6
 🇹🇳	tu ni si	-5
-🇹🇳	tu ni si gong he guo	-5
-🇹🇳	tunisia flag	-6
-🇹🇴	flag to	-6
 🇹🇴	tang jia	-5
 🇹🇴	tang jia wang guo	-5
-🇹🇴	tonga flag	-6
-🇹🇷	flag tr	-6
-🇹🇷	t rkiye flag	-6
 🇹🇷	tu er qi	-5
-🇹🇷	tu er qi gong he guo	-5
-🇹🇹	flag tt	-6
-🇹🇹	te li ni da he duo ba ge	-5
-🇹🇹	te li ni da he duo ba ge gong he guo	-5
-🇹🇹	trinidad tobago flag	-6
-🇹🇻	flag tv	-6
 🇹🇻	tu wa lu	-5
-🇹🇻	tuvalu flag	-6
-🇹🇼	flag tw	-6
 🇹🇼	guo qi	-5
 🇹🇼	tai wan	-5
-🇹🇼	taiwan flag	-6
 🇹🇼	zhong hua min guo	-5
-🇹🇿	flag tz	-6
 🇹🇿	tan sang ni ya	-5
-🇹🇿	tan sang ni ya lian he gong he guo	-5
-🇹🇿	tanzania flag	-6
-🇺🇦	flag ua	-6
-🇺🇦	ukraine flag	-6
 🇺🇦	wu ke lan	-5
-🇺🇬	flag ug	-6
-🇺🇬	uganda flag	-6
 🇺🇬	wu gan da	-5
-🇺🇬	wu gan da gong he guo	-5
-🇺🇲	flag um	-6
-🇺🇲	mei guo ben tu wai xiao dao yu	-5
-🇺🇲	u s outlying islands flag	-6
-🇺🇳	flag un	-6
 🇺🇳	guo qi	-5
 🇺🇳	lian he guo	-5
-🇺🇳	united nations flag	-6
-🇺🇸	flag us	-6
 🇺🇸	guo qi	-5
 🇺🇸	mei guo	-5
 🇺🇸	mei li jian	-5
-🇺🇸	mei li jian he zhong guo	-5
-🇺🇸	united states flag	-6
-🇺🇸	us	-6
 🇺🇸	xing tiao qi	-5
-🇺🇾	flag uy	-6
-🇺🇾	uruguay flag	-6
 🇺🇾	wu la gui	-5
-🇺🇾	wu la gui dong an gong he guo	-5
-🇺🇿	flag uz	-6
-🇺🇿	uzbekistan flag	-6
-🇺🇿	wu zi bie ke si tan	-5
-🇺🇿	wu zi bie ke si tan gong he guo	-5
 🇻🇦	fan di gang	-5
-🇻🇦	fan di gang cheng guo	-5
-🇻🇦	flag va	-6
-🇻🇦	vatican city flag	-6
-🇻🇨	flag vc	-6
-🇻🇨	sheng wen sen te he ge lin na ding si	-5
-🇻🇨	st vincent grenadines flag	-6
-🇻🇪	flag ve	-6
-🇻🇪	venezuela flag	-6
 🇻🇪	wei nei rui la	-5
-🇻🇪	wei nei rui la bo li wa er gong he guo	-5
-🇻🇬	british virgin islands flag	-6
-🇻🇬	flag vg	-6
-🇻🇬	ying shu wei er jing qun dao	-5
-🇻🇮	flag vi	-6
-🇻🇮	mei shu wei er jing qun dao	-5
-🇻🇮	u s virgin islands flag	-6
-🇻🇳	flag vn	-6
-🇻🇳	vietnam flag	-6
 🇻🇳	yue nan	-5
-🇻🇳	yue nan she hui zhu yi gong he guo	-5
-🇻🇺	flag vu	-6
-🇻🇺	vanuatu flag	-6
 🇻🇺	wa nu a tu	-5
-🇻🇺	wa nu a tu gong he guo	-5
-🇼🇫	flag wf	-6
-🇼🇫	wa li si he fu tu na	-5
-🇼🇫	wallis futuna flag	-6
-🇼🇸	flag ws	-6
 🇼🇸	sa mo ya	-5
-🇼🇸	sa mo ya du li guo	-5
-🇼🇸	samoa flag	-6
-🇽🇰	flag xk	-6
 🇽🇰	ke suo wo	-5
-🇽🇰	ke suo wo gong he guo	-5
-🇽🇰	kosovo flag	-6
-🇾🇪	flag ye	-6
 🇾🇪	ye men	-5
-🇾🇪	ye men gong he guo	-5
-🇾🇪	yemen flag	-6
-🇾🇹	flag yt	-6
 🇾🇹	ma yue te	-5
-🇾🇹	mayotte flag	-6
-🇿🇦	flag za	-6
 🇿🇦	nan fei	-5
-🇿🇦	nan fei gong he guo	-5
-🇿🇦	south africa flag	-6
-🇿🇲	flag zm	-6
-🇿🇲	zambia flag	-6
 🇿🇲	zan bi ya	-5
-🇿🇲	zan bi ya gong he guo	-5
-🇿🇼	flag zw	-6
 🇿🇼	jin ba bu wei	-5
-🇿🇼	jin ba bu wei gong he guo	-5
-🇿🇼	zimbabwe flag	-6
-🈁	koko	-6
-🈁	squared katakana koko	-6
 🈁	zhe li	-5
 🈂️	fu wu fei	-5
-🈂️	sa	-6
-🈂️	squared katakana sa	-6
-🈚	squared cjk unified ideograph 7121	-6
-🈚	u7121	-6
 🈚️	mei you	-5
 🈚️	wu	-5
-🈯	squared cjk unified ideograph 6307	-6
-🈯	u6307	-6
 🈯	zhi	-5
 🈲	jin	-5
 🈲	jin zhi	-5
-🈲	squared cjk unified ideograph 7981	-6
-🈲	u7981	-6
 🈲	yan jin	-5
 🈳	kong	-5
 🈳	kong wei	-5
-🈳	squared cjk unified ideograph 7a7a	-6
-🈳	u7a7a	-6
 🈴	he	-5
 🈴	he ge	-5
-🈴	squared cjk unified ideograph 5408	-6
-🈴	u5408	-6
 🈵	man	-5
 🈵	man le	-5
 🈵	man zuo	-5
 🈵	mei you kong wei	-5
-🈵	squared cjk unified ideograph 6e80	-6
-🈵	u6e80	-6
 🈶	shou fei	-5
-🈶	squared cjk unified ideograph 6709	-6
-🈶	u6709	-6
 🈶	you	-5
 🈶	you liao	-5
-🈷️	squared cjk unified ideograph 6708	-6
-🈷️	u6708	-6
 🈷️	yue	-5
 🈸	shen	-5
 🈸	shen qing	-5
-🈸	squared cjk unified ideograph 7533	-6
-🈸	u7533	-6
 🈹	da zhe	-5
 🈹	ge	-5
-🈹	squared cjk unified ideograph 5272	-6
-🈹	u5272	-6
 🈺	kai men ying ye	-5
-🈺	squared cjk unified ideograph 55b6	-6
-🈺	u55b6	-6
 🈺	ying	-5
 🈺	ying ye	-5
-🉐	circled ideograph advantage	-6
 🉐	dei	-5
-🉐	ideograph advantage	-6
 🉐	tao jia huan jia	-5
-🉑	accept	-6
-🉑	circled ideograph accept	-6
 🉑	ke	-5
 🉑	ke yi	-5
-🌀	cyclone	-6
 🌀	ju feng	-5
 🌀	qi xuan	-5
 🌀	tai feng	-5
 🌀	wen xiang	-5
 🌀	xuan feng	-5
 🌀	xuan wo	-5
-🌁	foggy	-6
 🌁	jing dian	-5
 🌁	wu du	-5
 🌁	wu meng meng	-5
 🌁	wu qi	-5
-🌁	wu qi long zhao de qiao	-5
-🌂	closed umbrella	-6
 🌂	shou qi de san	-5
-🌂	shou qi de yu san	-5
 🌂	yu san	-5
 🌃	ban ye	-5
-🌃	night with stars	-6
 🌃	shen ye	-5
 🌃	wan shang	-5
-🌃	xing guang shan shan de ye wan	-5
 🌃	ye wan	-5
 🌄	da shan ri chu	-5
 🌄	ri chu	-5
 🌄	shan ding ri chu	-5
 🌄	shan zhong ri chu	-5
-🌄	sunrise over mountains	-6
 🌄	xu ri	-5
 🌄	xu ri dong sheng	-5
 🌅	ri chu	-5
-🌅	sunrise	-6
 🌅	xu ri	-5
 🌅	xu ri dong sheng	-5
 🌆	bang wan	-5
-🌆	city sunset	-6
-🌆	cityscape at dusk	-6
 🌆	huang hun	-5
 🌆	mu se	-5
-🌆	mu se zhong de cheng shi	-5
-🌇	city sunrise	-6
 🌇	da sha xi yang	-5
 🌇	luo ri	-5
 🌇	ri luo	-5
-🌇	sunset over buildings	-6
 🌇	xi yang	-5
 🌈	cai hong	-5
-🌈	rainbow	-6
-🌉	bridge at night	-6
 🌉	da qiao	-5
 🌉	jing dian	-5
 🌉	ye jian da qiao	-5
-🌉	ye jian de da qiao	-5
-🌉	ye mu xia de qiao	-5
 🌊	bo lang	-5
 🌊	da lang	-5
 🌊	da zi ran	-5
 🌊	lang	-5
 🌊	lang hua	-5
-🌊	ocean	-6
 🌊	qi xiang	-5
 🌊	tian qi	-5
-🌊	water wave	-6
 🌊	zi ran	-5
 🌋	huo shan	-5
 🌋	huo shan bao fa	-5
 🌋	huo shan pen fa	-5
-🌋	volcano	-6
-🌌	milky way	-6
 🌌	xing kong	-5
 🌌	yin he	-5
 🌌	yin he xi	-5
 🌍	di qiu	-5
 🌍	di qiu yi	-5
-🌍	earth africa	-6
-🌍	earth globe europe africa	-6
 🌍	fei zhou	-5
-🌍	fei zhou di qiu yi	-5
 🌍	fei zhou ou zhou	-5
-🌍	ou fei di qiu yi	-5
 🌍	ou zhou	-5
-🌍	ou zhou di qiu yi	-5
 🌍	ou zhou fei zhou	-5
-🌍	ou zhou fei zhou di qiu yi	-5
 🌎	di qiu	-5
 🌎	di qiu yi	-5
-🌎	earth americas	-6
-🌎	earth globe americas	-6
 🌎	mei zhou	-5
-🌎	mei zhou di qiu yi	-5
-🌏	ao ya di qiu yi	-5
 🌏	ao zhou	-5
-🌏	ao zhou di qiu yi	-5
 🌏	ao zhou ya zhou	-5
 🌏	di qiu	-5
 🌏	di qiu yi	-5
-🌏	earth asia	-6
-🌏	earth globe asia australia	-6
-🌏	ya ao di qiu yi	-5
 🌏	ya zhou	-5
 🌏	ya zhou ao zhou	-5
-🌏	ya zhou di qiu yi	-5
 🌐	di qiu	-5
-🌐	globe with meridians	-6
 🌐	jing wei xian	-5
 🌐	zi wu xian	-5
-🌑	new moon	-6
-🌑	new moon symbol	-6
 🌑	shuo yue	-5
 🌑	xin yue	-5
 🌑	yue liang	-5
 🌒	can yue	-5
 🌒	e mei yue	-5
 🌒	mei yue	-5
-🌒	waxing crescent moon	-6
-🌒	waxing crescent moon symbol	-6
 🌒	yue liang	-5
 🌒	yue shi	-5
-🌓	first quarter moon	-6
-🌓	first quarter moon symbol	-6
 🌓	shang xian yue	-5
 🌓	yue liang	-5
-🌔	moon	-6
-🌔	waxing gibbous moon	-6
-🌔	waxing gibbous moon symbol	-6
 🌔	ying tu yue	-5
 🌔	yue liang	-5
-🌕	full moon	-6
-🌕	full moon symbol	-6
 🌕	man yue	-5
 🌕	yuan yue	-5
 🌕	yue liang	-5
 🌕	yue qiu	-5
 🌖	kui tu yue	-5
-🌖	waning gibbous moon	-6
-🌖	waning gibbous moon symbol	-6
 🌖	yue liang	-5
-🌗	last quarter moon	-6
-🌗	last quarter moon symbol	-6
 🌗	xia xian yue	-5
 🌗	yue liang	-5
 🌘	can yue	-5
 🌘	e mei yue	-5
 🌘	mei yue	-5
-🌘	waning crescent moon	-6
-🌘	waning crescent moon symbol	-6
 🌘	yue liang	-5
 🌘	yue shi	-5
-🌙	crescent moon	-6
 🌙	wan yue	-5
 🌙	ye kong	-5
 🌙	ye wan	-5
 🌙	yue liang	-5
 🌙	yue ya	-5
-🌚	new moon with face	-6
 🌚	shuo yue	-5
-🌚	wei xiao de shuo yue	-5
-🌚	wei xiao de xin yue	-5
 🌚	xin yue	-5
-🌛	first quarter moon with face	-6
 🌛	shang xian yue	-5
-🌛	wei xiao de shang xian yue	-5
 🌛	ye kong	-5
 🌛	ye wan	-5
-🌜	last quarter moon with face	-6
-🌜	wei xiao de xia xian yue	-5
 🌜	xia xian yue	-5
 🌜	ye kong	-5
 🌜	ye wan	-5
-🌝	full moon with face	-6
 🌝	man yue	-5
-🌝	wei xiao de man yue	-5
-🌝	wei xiao de yue liang	-5
 🌝	yuan yue	-5
-🌞	sun with face	-6
 🌞	tai yang	-5
-🌞	wei xiao de tai yang	-5
-🌟	glowing star	-6
-🌟	shan liang de xing xing	-5
-🌟	shan yao de xing xing	-5
-🌟	star2	-6
 🌟	xing xing	-5
 🌟	ye kong	-5
 🌟	ye wan	-5
 🌠	liu xing	-5
-🌠	shooting star	-6
-🌠	stars	-6
 🌠	xu yuan	-5
 🌡	wen du ji	-5
-🌡️	thermometer	-6
 🌤	bai ri xiao yun	-5
 🌤	qing ou you yun	-5
 🌤	shao yun	-5
 🌤️	da zi ran	-5
-🌤️	mostly sunny	-6
 🌤️	qi xiang	-5
-🌤️	sun behind small cloud	-6
-🌤️	sun small cloud	-6
 🌤️	tian qi	-5
 🌤️	zi ran	-5
-🌥️	barely sunny	-6
 🌥️	da zi ran	-5
 🌥️	qi xiang	-5
-🌥️	sun behind cloud	-6
-🌥️	sun behind large cloud	-6
 🌥️	tian qi	-5
 🌥️	zi ran	-5
 🌦️	da zi ran	-5
-🌦️	partly sunny rain	-6
 🌦️	qi xiang	-5
-🌦️	sun behind rain cloud	-6
 🌦️	tian qi	-5
 🌦️	zi ran	-5
 🌧	xia yu	-5
 🌧	yu	-5
 🌧	yu yun	-5
-🌧️	cloud with rain	-6
 🌧️	da zi ran	-5
 🌧️	qi xiang	-5
-🌧️	rain cloud	-6
 🌧️	tian qi	-5
 🌧️	zi ran	-5
 🌨	xia xue	-5
 🌨	xue yun	-5
-🌨️	cloud with snow	-6
 🌨️	da zi ran	-5
 🌨️	han leng	-5
 🌨️	leng	-5
 🌨️	qi xiang	-5
-🌨️	snow cloud	-6
 🌨️	tian qi	-5
 🌨️	xue	-5
 🌨️	zi ran	-5
 🌩	da lei	-5
 🌩	lei yun	-5
-🌩️	cloud with lightning	-6
 🌩️	da zi ran	-5
-🌩️	lightning	-6
-🌩️	lightning cloud	-6
 🌩️	qi xiang	-5
 🌩️	tian qi	-5
 🌩️	zi ran	-5
@@ -2242,15 +1109,12 @@ columns:
 🌪️	da zi ran	-5
 🌪️	qi xiang	-5
 🌪️	tian qi	-5
-🌪️	tornado	-6
-🌪️	tornado cloud	-6
 🌪️	yuan su	-5
 🌪️	zi ran	-5
 🌫	mai	-5
 🌫	wu	-5
 🌫	wu mai	-5
 🌫️	da zi ran	-5
-🌫️	fog	-6
 🌫️	qi xiang	-5
 🌫️	tian qi	-5
 🌫️	zi ran	-5
@@ -2258,67 +1122,48 @@ columns:
 🌬	chui fu	-5
 🌬	chui kou qi	-5
 🌬	feng chui fu	-5
-🌬	feng chui fu de lian	-5
 🌬️	da zi ran	-5
-🌬️	wind blowing face	-6
-🌬️	wind face	-6
 🌬️	zi ran	-5
-🌭	hot dog	-6
-🌭	hotdog	-6
 🌭	kuai can	-5
 🌭	re gou	-5
 🌭	xi can	-5
 🌮	juan	-5
 🌮	juan bing	-5
-🌮	mo xi ge bo bing juan	-5
-🌮	mo xi ge juan bing	-5
-🌮	taco	-6
 🌮	xi can	-5
-🌯	burrito	-6
 🌯	jian bing	-5
 🌯	jian bing guo zi	-5
 🌯	juan	-5
 🌯	juan bing	-5
-🌯	mo xi ge juan bing	-5
 🌯	xi can	-5
-🌰	chestnut	-6
 🌰	cu liang	-5
 🌰	li zi	-5
 🌰	zhen zi	-5
 🌰️	jian guo	-5
 🌱	fa ya	-5
 🌱	nen miao	-5
-🌱	seedling	-6
 🌱	ye zi	-5
 🌱	you miao	-5
 🌱	zhi wu	-5
 🌲	chang qing shu	-5
-🌲	evergreen tree	-6
 🌲	song shu	-5
 🌲	zhi wu	-5
 🌳	da shu	-5
-🌳	deciduous tree	-6
 🌳	luo ye shu	-5
 🌳	shu	-5
 🌳	shu mu	-5
 🌳	zhi wu	-5
-🌴	palm tree	-6
 🌴	zhi wu	-5
 🌴	zong lv	-5
 🌴	zong lv shu	-5
-🌵	cactus	-6
 🌵	xian ren zhang	-5
 🌵	zhi wu	-5
 🌶	hong la jiao	-5
 🌶	la jiao	-5
 🌶️	cai	-5
-🌶️	hot pepper	-6
 🌶️	shu cai	-5
 🌷	hua	-5
 🌷	hua duo	-5
-🌷	tulip	-6
 🌷	yu jin xiang	-5
-🌸	cherry blossom	-6
 🌸	hua	-5
 🌸	hua duo	-5
 🌸	ying hua	-5
@@ -2327,23 +1172,19 @@ columns:
 🌹	hua duo	-5
 🌹	mei gui	-5
 🌹	mei gui hua	-5
-🌹	rose	-6
 🌺	fu rong	-5
 🌺	fu rong hua	-5
-🌺	hibiscus	-6
 🌺	hua	-5
 🌺	hua duo	-5
 🌺	mu jin	-5
 🌺	mu jin hua	-5
 🌻	hua	-5
 🌻	hua duo	-5
-🌻	sunflower	-6
 🌻	tai yang hua	-5
 🌻	xiang ri kui	-5
 🌻	xiang yang hua	-5
 🌻	zhu ri hua	-5
 🌻	zhui ri hua	-5
-🌼	blossom	-6
 🌼	bo si ju	-5
 🌼	chu ju	-5
 🌼	hua	-5
@@ -2351,95 +1192,70 @@ columns:
 🌼	kai hua	-5
 🌼	kai hua le	-5
 🌽	bao mi	-5
-🌽	corn	-6
 🌽	cu liang	-5
-🌽	ear of maize	-6
 🌽	yu mi	-5
 🌾	dao sui	-5
-🌾	ear of rice	-6
 🌾	shui dao	-5
 🌾	zhi wu	-5
 🌿	cao ben zhi wu	-5
 🌿	cao yao	-5
-🌿	herb	-6
 🌿	xiang cao	-5
 🌿	yao cao	-5
 🌿	ye zi	-5
 🌿	zhi wu	-5
 🌿	zhong yao	-5
-🍀	four leaf clover	-6
 🍀	si ye cao	-5
 🍀	xing yun cao	-5
 🍀	zhi wu	-5
 🍁	feng shu ye	-5
 🍁	feng ye	-5
-🍁	maple leaf	-6
 🍁	ye zi	-5
-🍂	fallen leaf	-6
 🍂	luo ye	-5
 🍂	ye zi	-5
-🍃	leaf fluttering in wind	-6
-🍃	leaves	-6
 🍃	shu ye	-5
 🍃	ye zi	-5
 🍄	mo gu	-5
-🍄	mushroom	-6
 🍄	xiao mo gu	-5
-🍄‍🟫	brown mushroom	-6
 🍅	cai	-5
 🍅	fan qie	-5
 🍅	shu cai	-5
-🍅	tomato	-6
 🍅	xi hong shi	-5
-🍆	aubergine	-6
 🍆	cai	-5
-🍆	eggplant	-6
 🍆	qie zi	-5
 🍆	shu cai	-5
-🍇	grapes	-6
 🍇	guo	-5
 🍇	pu tao	-5
 🍇	shui guo	-5
 🍇	ti zi	-5
 🍈	guo	-5
 🍈	ha mi gua	-5
-🍈	melon	-6
 🍈	shui guo	-5
 🍈	tian gua	-5
 🍈	xin jiang gua	-5
 🍉	chi gua	-5
 🍉	guo	-5
 🍉	shui guo	-5
-🍉	watermelon	-6
 🍉	xi gua	-5
 🍊	gan ju	-5
 🍊	guo	-5
 🍊	ju zi	-5
 🍊	mi ju	-5
 🍊	shui guo	-5
-🍊	tangerine	-6
 🍋	guo	-5
-🍋	lemon	-6
 🍋	ning meng	-5
 🍋	shui guo	-5
-🍋‍🟩	lime	-6
-🍌	banana	-6
 🍌	guo	-5
 🍌	shui guo	-5
 🍌	xiang jiao	-5
 🍍	bo luo	-5
 🍍	feng li	-5
 🍍	guo	-5
-🍍	pineapple	-6
 🍍	shui guo	-5
-🍎	apple	-6
 🍎	guo	-5
 🍎	hong ping guo	-5
 🍎	ping guo	-5
-🍎	red apple	-6
 🍎	shui guo	-5
 🍎	xiao ping guo	-5
-🍏	green apple	-6
 🍏	guo	-5
 🍏	lv ping guo	-5
 🍏	ping guo	-5
@@ -2449,23 +1265,18 @@ columns:
 🍐	guo	-5
 🍐	li	-5
 🍐	li zi	-5
-🍐	pear	-6
 🍐	shui guo	-5
 🍑	guo	-5
-🍑	peach	-6
 🍑	shui guo	-5
 🍑	tao	-5
 🍑	tao zi	-5
 🍑	xian tao	-5
-🍒	cherries	-6
 🍒	guo	-5
 🍒	shui guo	-5
 🍒	ying tao	-5
 🍓	cao mei	-5
 🍓	guo	-5
 🍓	shui guo	-5
-🍓	strawberry	-6
-🍔	hamburger	-6
 🍔	han bao	-5
 🍔	han bao bao	-5
 🍔	kuai can	-5
@@ -2474,12 +1285,9 @@ columns:
 🍕	bi sa bing	-5
 🍕	chi bi sa	-5
 🍕	chi bi sa bing	-5
-🍕	pizza	-6
-🍕	slice of pizza	-6
 🍕	xi can	-5
 🍖	chi rou	-5
 🍖	dai gu rou	-5
-🍖	meat on bone	-6
 🍖	pai gu	-5
 🍖	rou	-5
 🍖	rou rou	-5
@@ -2487,7 +1295,6 @@ columns:
 🍗	ji tui er	-5
 🍗	jia qin de tui	-5
 🍗	jia qin tui	-5
-🍗	poultry leg	-6
 🍗	rou	-5
 🍘	fan	-5
 🍘	mi bing	-5
@@ -2495,27 +1302,21 @@ columns:
 🍘	ri ben cai	-5
 🍘	ri liao	-5
 🍘	ri shi liao li	-5
-🍘	rice cracker	-6
 🍘	wu can	-5
 🍙	fan	-5
 🍙	fan tuan	-5
 🍙	ri ben cai	-5
 🍙	ri liao	-5
 🍙	ri shi liao li	-5
-🍙	rice ball	-6
 🍙	wu can	-5
-🍚	cooked rice	-6
 🍚	da mi	-5
 🍚	da mi fan	-5
 🍚	fan	-5
 🍚	mi fan	-5
-🍚	rice	-6
 🍚	wu can	-5
 🍚	zheng can	-5
 🍚	zhong can	-5
 🍚	zhu shu de fan	-5
-🍛	curry	-6
-🍛	curry and rice	-6
 🍛	fan	-5
 🍛	ga li	-5
 🍛	ga li fan	-5
@@ -2524,28 +1325,20 @@ columns:
 🍜	chi mian	-5
 🍜	fan	-5
 🍜	la mian	-5
-🍜	mao re qi de wan	-5
 🍜	mian tiao	-5
-🍜	ramen	-6
-🍜	steaming bowl	-6
 🍜	wan mian	-5
 🍜	wu can	-5
 🍜	yi wan mian	-5
 🍜	zheng can	-5
 🍜	zhong can	-5
 🍝	fan	-5
-🍝	spaghetti	-6
 🍝	wu can	-5
 🍝	xi can	-5
 🍝	yi da li mian	-5
-🍝	yi da li mian tiao	-5
 🍝	yi fen	-5
 🍝	yi mian	-5
 🍝	zheng can	-5
-🍞	bread	-6
 🍞	mian bao	-5
-🍟	french fries	-6
-🍟	fries	-6
 🍟	kuai can	-5
 🍟	shu tiao	-5
 🍟	xi can	-5
@@ -2558,29 +1351,20 @@ columns:
 🍠	kao fan shu	-5
 🍠	kao gan shu	-5
 🍠	kao hong shu	-5
-🍠	roasted sweet potato	-6
-🍠	sweet potato	-6
 🍡	chuan chuan	-5
-🍡	dango	-6
 🍡	nuo mi tuan	-5
 🍡	tuan zi	-5
 🍢	chuan chuan	-5
 🍢	guan dong zhu	-5
-🍢	oden	-6
 🍣	fan	-5
 🍣	ri ben cai	-5
 🍣	ri liao	-5
 🍣	ri shi liao li	-5
 🍣	shou si	-5
-🍣	sushi	-6
 🍣	wu can	-5
-🍤	fried shrimp	-6
 🍤	rou	-5
 🍤	tian fu luo	-5
 🍤	zha xia	-5
-🍥	fish cake	-6
-🍥	fish cake with swirl design	-6
-🍥	pan rao shi zha yu bing	-5
 🍥	ri ben cai	-5
 🍥	ri liao	-5
 🍥	ri shi liao li	-5
@@ -2589,27 +1373,20 @@ columns:
 🍦	bing ji ling	-5
 🍦	bing qi lin	-5
 🍦	dian xin	-5
-🍦	icecream	-6
 🍦	ruan bing ji ling	-5
 🍦	ruan bing qi lin	-5
-🍦	soft ice cream	-6
 🍦	tian dian	-5
 🍦	tian shi	-5
 🍦	tian tong	-5
-🍦	yuan tong bing ji ling	-5
-🍦	yuan tong bing qi lin	-5
 🍧	bao bing	-5
 🍧	bing sha	-5
 🍧	dian xin	-5
-🍧	shaved ice	-6
 🍧	tian dian	-5
 🍨	bing ji ling	-5
 🍨	bing qi lin	-5
 🍨	dian xin	-5
-🍨	ice cream	-6
 🍨	tian dian	-5
 🍩	dian xin	-5
-🍩	doughnut	-6
 🍩	ling shi	-5
 🍩	mian bao	-5
 🍩	tian dian	-5
@@ -2617,7 +1394,7 @@ columns:
 🍩	tian tian quan	-5
 🍩	you zha mian quan	-5
 🍪	bing gan	-5
-🍪	cookie	-6
+🍪	cookie	-5
 🍪	cookies	-5
 🍪	dian xin	-5
 🍪	ling shi	-5
@@ -2625,14 +1402,12 @@ columns:
 🍪	qu qi bing gan	-5
 🍪	tian dian	-5
 🍪	tian shi	-5
-🍫	chocolate bar	-6
 🍫	ling shi	-5
 🍫	qiao ke li	-5
 🍫	qiao ke li bang	-5
 🍫	tian shi	-5
 🍫	zhu gu li	-5
 🍫	zhu gu li bang	-5
-🍬	candy	-6
 🍬	chi tang	-5
 🍬	ling shi	-5
 🍬	tang	-5
@@ -2640,30 +1415,23 @@ columns:
 🍬	tian shi	-5
 🍭	bang bang tang	-5
 🍭	ling shi	-5
-🍭	lollipop	-6
 🍭	tian shi	-5
 🍮	bu ding	-5
-🍮	custard	-6
 🍮	dan nai gao	-5
 🍮	dian xin	-5
 🍮	tian dian	-5
 🍮	tian pin	-5
 🍮	tian shi	-5
 🍯	feng mi	-5
-🍯	honey pot	-6
 🍯	mi guan	-5
 🍯	tian shi	-5
 🍯	zao can	-5
 🍯	zao dian	-5
-🍰	cake	-6
 🍰	dan gao	-5
 🍰	dian xin	-5
-🍰	shortcake	-6
 🍰	shui guo dan gao	-5
 🍰	tian dian	-5
 🍰	tian shi	-5
-🍱	bento	-6
-🍱	bento box	-6
 🍱	bian dang	-5
 🍱	bian dang he	-5
 🍱	fan	-5
@@ -2678,15 +1446,11 @@ columns:
 🍱	zheng can	-5
 🍲	fan	-5
 🍲	huo guo	-5
-🍲	pot of food	-6
 🍲	shi wu	-5
-🍲	stew	-6
 🍲	wu can	-5
 🍲	yi guo shi wu	-5
 🍲	zheng can	-5
 🍲	zhong can	-5
-🍳	cooking	-6
-🍳	fried egg	-6
 🍳	jian dan	-5
 🍳	peng ren	-5
 🍳	ping di guo	-5
@@ -2694,147 +1458,98 @@ columns:
 🍳	zao dian	-5
 🍴	can ju	-5
 🍴	dao cha	-5
-🍴	fork and knife	-6
 🍵	cha	-5
 🍵	cha bei	-5
 🍵	cha shui	-5
 🍵	he cha	-5
 🍵	pao cha	-5
 🍵	re yin	-5
-🍵	tea	-6
-🍵	teacup without handle	-6
 🍵	yin liao	-5
 🍶	jiu	-5
 🍶	qing jiu	-5
-🍶	sake	-6
-🍶	sake bottle and cup	-6
 🍶	yin liao	-5
 🍷	jiu	-5
 🍷	jiu bei	-5
 🍷	pu tao jiu	-5
-🍷	wine glass	-6
 🍷	yin liao	-5
-🍸	cocktail	-6
-🍸	cocktail glass	-6
 🍸	ji wei jiu	-5
 🍸	jiu	-5
 🍸	yin liao	-5
 🍹	guo yin	-5
 🍹	leng yin	-5
-🍹	re dai shui guo yin liao	-5
 🍹	re dai yin liao	-5
 🍹	shui guo yin liao	-5
-🍹	tropical drink	-6
 🍹	yin liao	-5
-🍺	beer	-6
-🍺	beer mug	-6
 🍺	jiu	-5
 🍺	pi jiu	-5
 🍺	yin liao	-5
-🍻	beers	-6
-🍻	clinking beer mugs	-6
 🍻	gan bei	-5
 🍻	peng bei	-5
 🍻	yin liao	-5
-🍼	baby bottle	-6
 🍼	he nai	-5
 🍼	nai ping	-5
 🍽	can ju	-5
 🍽️	can ju	-5
-🍽️	fork and knife with plate	-6
-🍽️	knife fork plate	-6
-🍾	bottle with popping cork	-6
-🍾	champagne	-6
 🍾	jiu	-5
 🍾	kai xiang bin	-5
 🍾	xiang bin	-5
 🍾	yin liao	-5
 🍿	bao mi hua	-5
 🍿	ling shi	-5
-🍿	popcorn	-6
 🎀	hu die jie	-5
-🎀	ribbon	-6
 🎁	bao zhuang	-5
 🎁	bao zhuang he	-5
-🎁	gift	-6
 🎁	jie ri	-5
 🎁	li pin	-5
 🎁	li pin he	-5
 🎁	li wu	-5
 🎁	li wu he	-5
-🎁	wrapped present	-6
-🎂	birthday	-6
-🎂	birthday cake	-6
 🎂	dan gao	-5
 🎂	sheng ri dan gao	-5
 🎂	tian shi	-5
-🎃	jack o lantern	-6
 🎃	nan gua deng	-5
 🎃	nan gua tou	-5
 🎃	wan sheng jie	-5
-🎄	christmas tree	-6
 🎄	jie ri	-5
 🎄	sheng dan shu	-5
 🎄	zhi wu	-5
-🎅	father christmas	-6
-🎅	santa	-6
 🎅	sheng dan lao ren	-5
-🎆	fireworks	-6
 🎆	jie ri	-5
 🎆	li hua	-5
 🎆	yan hua	-5
 🎆	yan huo	-5
-🎇	firework sparkler	-6
 🎇	jie ri	-5
 🎇	li hua	-5
-🎇	sparkler	-6
 🎇	yan hua	-5
 🎇	yan huo	-5
-🎈	balloon	-6
 🎈	qi qiu	-5
 🎈	qing dian	-5
 🎉	gong xi	-5
 🎉	jie ri	-5
 🎉	li bin hua	-5
 🎉	pai dui	-5
-🎉	pai dui li bin hua	-5
-🎉	party popper	-6
 🎉	qing zhu	-5
-🎉	tada	-6
 🎉	zhu he	-5
 🎊	cai se sui zhi	-5
-🎊	confetti ball	-6
 🎊	jie ri	-5
 🎊	sui hua cai qiu	-5
 🎊	tang guo qiu	-5
-🎊	wu cai zhi xie qiu	-5
 🎋	qi xi	-5
 🎋	qi xi jie	-5
 🎋	qi xi shu	-5
-🎋	tanabata tree	-6
-🎌	crossed flags	-6
 🎌	jiao cha qi	-5
-🎍	bamboo	-6
 🎍	men song	-5
-🎍	pine decoration	-6
 🎍	zhi wu	-5
-🎎	dolls	-6
-🎎	japanese dolls	-6
 🎎	jie ri	-5
 🎎	ri ben ren ou	-5
 🎎	ri ben ren xing	-5
 🎎	ri ben wa wa	-5
-🎏	carp streamer	-6
-🎏	flags	-6
 🎏	jie ri	-5
 🎏	li yu qi	-5
 🎐	feng ling	-5
 🎐	jie ri	-5
-🎐	wind chime	-6
 🎑	guan yue	-5
 🎑	jie ri	-5
-🎑	moon viewing ceremony	-6
-🎑	rice scene	-6
 🎑	shang yue	-5
 🎑	zhong qiu	-5
 🎑	zhong qiu jia jie	-5
@@ -2842,14 +1557,11 @@ columns:
 🎒	bao	-5
 🎒	bei bao	-5
 🎒	bei nang	-5
-🎒	school satchel	-6
 🎒	shu bao	-5
 🎒	shuang jian bao	-5
 🎓	bi ye mao	-5
-🎓	graduation cap	-6
 🎓	mao	-5
 🎓	mao zi	-5
-🎓	mortar board	-6
 🎓	si fang mao	-5
 🎓	xue shi mao	-5
 🎖	ju gong xun zhang	-5
@@ -2858,65 +1570,42 @@ columns:
 🎖️	jiang	-5
 🎖️	jiang pai	-5
 🎖️	jiang xiang	-5
-🎖️	medal	-6
-🎖️	military medal	-6
 🎗	huang si dai	-5
 🎗	si dai	-5
-🎗️	reminder ribbon	-6
-🎙	lu yin mai ke feng	-5
-🎙	lu yin shi mai ke feng	-5
 🎙	mai ke feng	-5
 🎙️	duo mei ti	-5
-🎙️	studio microphone	-6
 🎚	dian ping hua kuai	-5
 🎚	hua kuai	-5
-🎚️	level slider	-6
 🎛	kong zhi xuan niu	-5
 🎛	xuan niu	-5
-🎛️	control knobs	-6
 🎞	dian ying	-5
 🎞	dian ying jiao pian	-5
 🎞	fei lin	-5
 🎞	jiao juan	-5
 🎞	jiao pian	-5
-🎞️	film frames	-6
 🎟	ru chang quan	-5
-🎟️	admission tickets	-6
 🎟️	yu le	-5
-🎠	carousel horse	-6
 🎠	xuan zhuan mu ma	-5
 🎠	you le yuan	-5
-🎡	ferris wheel	-6
 🎡	mo tian lun	-5
 🎡	you le yuan	-5
 🎢	guo shan che	-5
 🎢	ju	-5
 🎢	qi che	-5
-🎢	roller coaster	-6
 🎢	you le yuan	-5
 🎣	diao gan	-5
 🎣	diao yu	-5
 🎣	diao yu gan	-5
-🎣	fishing pole and fish	-6
 🎣	yu gan	-5
 🎤	mai ke feng	-5
-🎤	microphone	-6
 🎤️	yu le	-5
-🎥	dian ying she ying ji	-5
 🎥	duo mei ti	-5
-🎥	movie camera	-6
 🎥	she lu ji	-5
 🎥	she xiang ji	-5
 🎥	she ying ji	-5
-🎦	cinema	-6
 🎦	dian ying yuan	-5
 🎧	er ji	-5
-🎧	headphone	-6
-🎧	headphones	-6
-🎧	tou dai shi er ji	-5
 🎧	yu le	-5
-🎨	art	-6
-🎨	artist palette	-6
 🎨	hua hua	-5
 🎨	mei shu	-5
 🎨	tiao se ban	-5
@@ -2926,326 +1615,212 @@ columns:
 🎩	li mao	-5
 🎩	mao	-5
 🎩	mao zi	-5
-🎩	top hat	-6
-🎩	tophat	-6
-🎪	circus tent	-6
 🎪	ma xi	-5
 🎪	ma xi tuan	-5
-🎪	ma xi tuan zhang peng	-5
 🎪	yu le	-5
 🎫	men piao	-5
-🎫	ticket	-6
 🎫	yu le	-5
 🎬	action	-5
 🎬	chang ji	-5
 🎬	chang ji ban	-5
-🎬	clapper	-6
-🎬	clapper board	-6
 🎬	da ban	-5
 🎬	pai dian ying	-5
 🎭	biao yan yi shu	-5
 🎭	mian ju	-5
-🎭	performing arts	-6
-🎮	dian zi you xi shou bing	-5
-🎮	shi pin you xi shou bing	-5
 🎮	shou bing	-5
-🎮	video game	-6
 🎮	you xi shou bing	-5
 🎮	yu le	-5
 🎯	ba xin	-5
-🎯	dart	-6
-🎯	direct hit	-6
 🎯	fei biao	-5
 🎯	ming zhong	-5
 🎯	yu le	-5
-🎯	zheng zhong ba xin de fei biao	-5
 🎰	du bo	-5
 🎰	du chang	-5
 🎰	lao hu ji	-5
-🎰	slot machine	-6
 🎰	yu le	-5
-🎱	8ball	-6
-🎱	billiards	-6
 🎱	hei ba	-5
 🎱	qiu	-5
 🎱	tai qiu	-5
 🎱	yun dong	-5
 🎲	du bo	-5
-🎲	game die	-6
 🎲	jiu zhuo you xi	-5
 🎲	shai zi	-5
 🎲	tou zi	-5
 🎲	yu le	-5
 🎳	bao ling qiu	-5
 🎳	bao ling qiu ping	-5
-🎳	bowling	-6
 🎳	yu le	-5
 🎳	yun dong	-5
-🎴	flower playing cards	-6
 🎴	hua pu ke pai	-5
 🎴	pu ke pai	-5
-🎵	musical note	-6
 🎵	yin fu	-5
 🎵	yin yue	-5
-🎶	multiple musical notes	-6
-🎶	notes	-6
 🎶	yin fu	-5
 🎶	yin yue	-5
 🎷	guan xian yue qi	-5
 🎷	sa ke si	-5
 🎷	sa ke si feng	-5
 🎷	sa ke si guan	-5
-🎷	saxophone	-6
 🎷	yue qi	-5
 🎸	dian ji ta	-5
-🎸	guitar	-6
 🎸	ji ta	-5
 🎸	yue qi	-5
 🎹	gang qin	-5
 🎹	gang qin an jian	-5
 🎹	gang qin jian	-5
-🎹	musical keyboard	-6
 🎹	qin jian	-5
 🎹	yin yue jian pan	-5
 🎹	yue qi	-5
-🎺	trumpet	-6
 🎺	xiao hao	-5
 🎺	yue qi	-5
 🎻	ti qin	-5
-🎻	violin	-6
 🎻	xiao ti qin	-5
 🎻	yue qi	-5
-🎼	musical score	-6
 🎼	wu xian pu	-5
 🎼	yue pu	-5
-🎽	running shirt with sash	-6
 🎽	yun dong bei xin	-5
 🎾	qiu	-5
-🎾	tennis	-6
-🎾	tennis racquet and ball	-6
 🎾	wang qiu	-5
 🎾	yun dong	-5
 🎿	hua xue qiao	-5
 🎿	hua xue zhuang bei	-5
-🎿	ski	-6
-🎿	ski and ski boot	-6
 🎿	yun dong	-5
-🏀	basketball	-6
-🏀	basketball and hoop	-6
 🏀	lan qiu	-5
 🏀	qiu	-5
 🏀	yun dong	-5
-🏁	checkered flag	-6
-🏁	chequered flag	-6
 🏁	ge zi qi	-5
 🏁	guo qi	-5
 🏁	zhong dian	-5
 🏁	zhong dian qi	-5
 🏂	dan ban hua xue	-5
 🏂	hua xue ban	-5
-🏂	snowboarder	-6
 🏂🏻	yun dong yuan	-5
-🏃	runner	-6
-🏃	running	-6
 🏃‍♀️	ma la song	-5
 🏃‍♀️	pao bu	-5
 🏃‍♀️	pao bu zhe	-5
-🏃‍♀️	woman running	-6
-🏃‍♀️‍➡️	woman running facing right	-6
 🏃‍♂️	ma la song	-5
-🏃‍♂️	man running	-6
 🏃‍♂️	pao bu	-5
 🏃‍♂️	pao bu zhe	-5
-🏃‍♂️‍➡️	man running facing right	-6
-🏃‍➡️	person running facing right	-6
-🏄	surfer	-6
 🏄‍♀️	chong lang	-5
 🏄‍♀️	chong lang zhe	-5
 🏄‍♀️	nv sheng chong lang	-5
-🏄‍♀️	woman surfing	-6
 🏄‍♂️	chong lang	-5
 🏄‍♂️	chong lang zhe	-5
-🏄‍♂️	man surfing	-6
 🏄‍♂️	nan sheng chong lang	-5
 🏄🏻	yun dong yuan	-5
 🏅	jiang	-5
 🏅	jiang pai	-5
 🏅	jiang xiang	-5
-🏅	sports medal	-6
-🏅	yun dong hui jiang pai	-5
 🏆	guan jun	-5
 🏆	jiang	-5
 🏆	jiang bei	-5
 🏆	jiang pai	-5
 🏆	jiang xiang	-5
-🏆	trophy	-6
-🏇	horse racing	-6
 🏇	qi ma	-5
 🏇	sai ma	-5
 🏇	sai ma qi shi	-5
 🏇🏻	yun dong yuan	-5
-🏈	american football	-6
-🏈	football	-6
 🏈	gan lan qiu	-5
-🏈	mei shi gan lan qiu	-5
 🏈	mei shi zu qiu	-5
 🏈	qiu	-5
 🏈	yun dong	-5
 🏉	gan lan qiu	-5
 🏉	qiu	-5
-🏉	rugby football	-6
-🏉	ying shi gan lan qiu	-5
 🏉	yun dong	-5
-🏊	swimmer	-6
 🏊‍♀️	nv sheng you yong	-5
-🏊‍♀️	woman swimming	-6
 🏊‍♀️	yong ke	-5
 🏊‍♀️	you yong	-5
 🏊‍♀️	you yong zhe	-5
-🏊‍♂️	man swimming	-6
 🏊‍♂️	nan sheng you yong	-5
 🏊‍♂️	yong ke	-5
 🏊‍♂️	you yong	-5
 🏊‍♂️	you yong zhe	-5
 🏊🏻	yun dong yuan	-5
-🏋️	person lifting weights	-6
-🏋️	weight lifter	-6
 🏋️‍♀️	ju zhong	-5
-🏋️‍♀️	ju zhong yun dong yuan	-5
-🏋️‍♀️	nv ju zhong yun dong yuan	-5
 🏋️‍♀️	nv sheng ju zhong	-5
-🏋️‍♀️	woman lifting weights	-6
 🏋️‍♂️	ju zhong	-5
-🏋️‍♂️	ju zhong yun dong yuan	-5
-🏋️‍♂️	man lifting weights	-6
-🏋️‍♂️	nan ju zhong yun dong yuan	-5
 🏋️‍♂️	nan sheng ju zhong	-5
 🏋🏻	yun dong yuan	-5
-🏌️	golfer	-6
-🏌️	person golfing	-6
 🏌️‍♀️	da gao er fu	-5
-🏌️‍♀️	da gao er fu de ren	-5
 🏌️‍♀️	gao er fu	-5
-🏌️‍♀️	gao er fu qiu shou	-5
-🏌️‍♀️	woman golfing	-6
 🏌️‍♂️	da gao er fu	-5
-🏌️‍♂️	da gao er fu de ren	-5
 🏌️‍♂️	gao er fu	-5
-🏌️‍♂️	gao er fu qiu shou	-5
-🏌️‍♂️	man golfing	-6
 🏌🏻	yun dong yuan	-5
 🏍	mo tuo	-5
 🏍	mo tuo che	-5
-🏍️	motorcycle	-6
-🏍️	racing motorcycle	-6
-🏎	fang cheng shi sai che	-5
 🏎	sai che	-5
 🏎️	ju	-5
 🏎️	qi che	-5
-🏎️	racing car	-6
 🏏	ban qiu	-5
 🏏	ban qiu pai	-5
-🏏	cricket bat and ball	-6
 🏏	qiu	-5
 🏏	yun dong	-5
 🏐	pai qiu	-5
 🏐	qiu	-5
-🏐	volleyball	-6
 🏐	yun dong	-5
-🏑	field hockey stick and ball	-6
 🏑	qiu	-5
 🏑	qu gun qiu	-5
 🏑	yun dong	-5
 🏒	bing qiu	-5
-🏒	ice hockey stick and puck	-6
 🏒	qiu	-5
 🏒	yun dong	-5
 🏓	ping pang qiu	-5
 🏓	ping pang qiu pai	-5
 🏓	qiu	-5
-🏓	table tennis paddle and ball	-6
 🏓	yun dong	-5
 🏔	gao shan	-5
 🏔	xue shan	-5
-🏔️	snow capped mountain	-6
 🏕	lu ying	-5
 🏕	ye ying	-5
-🏕️	camping	-6
 🏖	du jia	-5
 🏖	sha tan san	-5
 🏖	tai yang san	-5
-🏖️	beach with umbrella	-6
 🏖️	jing dian	-5
 🏗	jian zhu shi gong	-5
 🏗	qi zhong ji	-5
 🏗	shi gong	-5
-🏗️	building construction	-6
 🏘	fang wu qun	-5
 🏘	ju min qu	-5
-🏘️	house buildings	-6
-🏘️	houses	-6
 🏙	cheng shi	-5
 🏙	cheng shi feng guang	-5
 🏙	cheng shi jing guan	-5
 🏙	du shi	-5
 🏙	du shi feng guang	-5
 🏙	du shi jing guan	-5
-🏙️	cityscape	-6
-🏚	fei qi de fang wu	-5
 🏚	huang zhai	-5
 🏚	wei lou	-5
-🏚️	derelict house	-6
-🏚️	derelict house building	-6
 🏛	bo wu guan	-5
 🏛	gu dian jian zhu	-5
 🏛	gu jian zhu	-5
-🏛️	classical building	-6
 🏜	huang mo	-5
 🏜	sha mo	-5
-🏜️	desert	-6
 🏝	huang dao	-5
 🏝	wu ren dao	-5
 🏝	wu ren huang dao	-5
-🏝️	desert island	-6
 🏝️	jing dian	-5
 🏞	guo jia gong yuan	-5
 🏞️	jing dian	-5
-🏞️	national park	-6
 🏟	ti yu chang	-5
 🏟	ti yu guan	-5
 🏟	zu qiu chang	-5
-🏟️	stadium	-6
 🏟️	you le yuan	-5
 🏠	fang wu	-5
 🏠	fang zi	-5
-🏠	house	-6
-🏠	house building	-6
 🏠	jia	-5
 🏠	zhu zhai lou	-5
 🏡	bie shu	-5
-🏡	dai hua yuan de lou fang	-5
-🏡	house with garden	-6
 🏢	ban gong lou	-5
-🏢	office	-6
-🏢	office building	-6
 🏢	xie zi lou	-5
-🏣	japanese post office	-6
-🏣	post office	-6
 🏣	ri ben you ju	-5
 🏣	you ju	-5
-🏤	european post office	-6
 🏤	ou zhou you ju	-5
 🏤	you ju	-5
-🏥	hospital	-6
 🏥	yi yuan	-5
-🏦	bank	-6
 🏦	yin hang	-5
-🏧	atm	-6
-🏧	automated teller machine	-6
+🏧	atm	-5
 🏧	qu kuan ji	-5
 🏧	ti kuan ji	-5
 🏨	bin guan	-5
-🏨	hotel	-6
 🏨	jiu dian	-5
 🏨	lv dian	-5
 🏨	lv guan	-5
@@ -3253,7 +1828,6 @@ columns:
 🏩	ai qing jiu dian	-5
 🏩	ai qing lv dian	-5
 🏩	ai qing lv guan	-5
-🏩	love hotel	-6
 🏩	qing lv bin guan	-5
 🏩	qing lv jiu dian	-5
 🏩	qing lv lv dian	-5
@@ -3264,35 +1838,25 @@ columns:
 🏩	qing ren lv guan	-5
 🏪	bian li dian	-5
 🏪	bian li shang dian	-5
-🏪	convenience store	-6
 🏪	shang dian	-5
 🏪	xiao shang dian	-5
 🏫	jiao xue lou	-5
-🏫	school	-6
 🏫	xue xiao	-5
 🏬	bai huo shang dian	-5
 🏬	chao shi	-5
-🏬	department store	-6
 🏬	shang chang	-5
 🏬	shang chao	-5
-🏭	factory	-6
 🏭	gong chang	-5
 🏮	da hong deng long	-5
-🏮	da hong deng long gao gao gua	-5
 🏮	deng long	-5
 🏮	hong deng long	-5
-🏮	izakaya lantern	-6
 🏮	jie ri	-5
 🏮	ju jiu wu	-5
-🏮	ju jiu wu deng long	-5
-🏮	lantern	-6
 🏯	cheng bao	-5
-🏯	japanese castle	-6
 🏯	jing dian	-5
 🏯	ri ben cheng bao	-5
 🏯	ri shi cheng bao	-5
 🏰	cheng bao	-5
-🏰	european castle	-6
 🏰	jing dian	-5
 🏰	ou shi cheng bao	-5
 🏰	ou zhou cheng bao	-5
@@ -3304,15 +1868,11 @@ columns:
 🏳	ren shu le	-5
 🏳	tou xiang	-5
 🏳️	guo qi	-5
-🏳️	waving white flag	-6
-🏳️	white flag	-6
 🏳️‍⚧️	guo qi	-5
 🏳️‍⚧️	kua xing bie	-5
 🏳️‍⚧️	kua xing bie qi	-5
-🏳️‍⚧️	transgender flag	-6
 🏳️‍🌈	cai hong qi	-5
 🏳️‍🌈	guo qi	-5
-🏳️‍🌈	rainbow flag	-6
 🏳️‍🌈	tong xing qi	-5
 🏴	guo qi	-5
 🏴	hei qi	-5
@@ -3320,78 +1880,49 @@ columns:
 🏴	hei se qi zhi	-5
 🏴	hei se qi zi	-5
 🏴	ju hei qi	-5
-🏴	waving black flag	-6
 🏴‍☠️	guo qi	-5
 🏴‍☠️	hai dao	-5
 🏴‍☠️	hai dao qi	-5
 🏴‍☠️	hai zei	-5
 🏴‍☠️	hai zei qi	-5
-🏴‍☠️	pirate flag	-6
-🏴󠁧󠁢󠁥󠁮󠁧󠁿	england flag	-6
-🏴󠁧󠁢󠁥󠁮󠁧󠁿	flag england	-6
 🏴󠁧󠁢󠁥󠁮󠁧󠁿	ying ge lan	-5
-🏴󠁧󠁢󠁳󠁣󠁴󠁿	flag scotland	-6
-🏴󠁧󠁢󠁳󠁣󠁴󠁿	scotland flag	-6
 🏴󠁧󠁢󠁳󠁣󠁴󠁿	su ge lan	-5
-🏴󠁧󠁢󠁷󠁬󠁳󠁿	flag wales	-6
-🏴󠁧󠁢󠁷󠁬󠁳󠁿	wales flag	-6
 🏴󠁧󠁢󠁷󠁬󠁳󠁿	wei er shi	-5
 🏵	hua jie	-5
 🏵	mei gui hua jie	-5
-🏵️	rosette	-6
 🏷	biao qian	-5
 🏷	diao pai	-5
-🏷️	label	-6
-🏸	badminton racquet and shuttlecock	-6
 🏸	qiu	-5
 🏸	qiu pai	-5
 🏸	yu mao qiu	-5
 🏸	yu mao qiu pai	-5
 🏸	yun dong	-5
-🏹	bow and arrow	-6
 🏹	gong he jian	-5
 🏹	gong jian	-5
 🏹	yun dong	-5
-🏺	amphora	-6
 🏺	shuang er ping	-5
-🏻	emoji modifier fitzpatrick type 1 2	-6
 🏻	fu se	-5
 🏻	qian fu se	-5
-🏻	skin tone 2	-6
-🏼	emoji modifier fitzpatrick type 3	-6
 🏼	fu se	-5
 🏼	jiao qian fu se	-5
-🏼	skin tone 3	-6
-🏼	zhong deng qian fu se	-5
-🏽	emoji modifier fitzpatrick type 4	-6
 🏽	fu se	-5
-🏽	skin tone 4	-6
 🏽	zhong deng fu se	-5
-🏾	emoji modifier fitzpatrick type 5	-6
 🏾	fu se	-5
 🏾	jiao shen fu se	-5
-🏾	skin tone 5	-6
-🏾	zhong deng shen fu se	-5
-🏿	emoji modifier fitzpatrick type 6	-6
 🏿	fu se	-5
 🏿	shen fu se	-5
-🏿	skin tone 6	-6
 🐀	dong wu	-5
 🐀	hao zi	-5
 🐀	lao shu	-5
-🐀	rat	-6
 🐀	sheng xiao	-5
 🐁	bai shu	-5
 🐁	dong wu	-5
-🐁	mouse	-6
-🐁	mouse2	-6
 🐁	sheng xiao	-5
 🐁	xiao bai shu	-5
 🐁	xiao lao shu	-5
 🐂	chu sheng	-5
 🐂	dong wu	-5
 🐂	gong niu	-5
-🐂	ox	-6
 🐂	sheng chu	-5
 🐂	sheng xiao	-5
 🐃	chu sheng	-5
@@ -3399,10 +1930,7 @@ columns:
 🐃	sheng chu	-5
 🐃	sheng xiao	-5
 🐃	shui niu	-5
-🐃	water buffalo	-6
 🐄	chu sheng	-5
-🐄	cow	-6
-🐄	cow2	-6
 🐄	dong wu	-5
 🐄	nai niu	-5
 🐄	sheng chu	-5
@@ -3410,28 +1938,21 @@ columns:
 🐅	dong wu	-5
 🐅	lao hu	-5
 🐅	sheng xiao	-5
-🐅	tiger	-6
-🐅	tiger2	-6
 🐅	ye sheng dong wu	-5
 🐅	ye wei	-5
 🐆	bao	-5
 🐆	bao zi	-5
 🐆	dong wu	-5
-🐆	leopard	-6
 🐆	lie bao	-5
 🐆	sheng xiao	-5
 🐆	ye sheng dong wu	-5
 🐆	ye wei	-5
 🐇	da bai tu	-5
 🐇	dong wu	-5
-🐇	rabbit	-6
-🐇	rabbit2	-6
 🐇	sheng xiao	-5
 🐇	tu zi	-5
 🐇	xiao bai tu	-5
 🐇	xiao tu zi	-5
-🐈	cat	-6
-🐈	cat2	-6
 🐈	chu sheng	-5
 🐈	dong wu	-5
 🐈	ju mao	-5
@@ -3439,69 +1960,57 @@ columns:
 🐈	sheng chu	-5
 🐈	xiao mao	-5
 🐈	xiao mao mi	-5
-🐈‍⬛	black cat	-6
 🐈‍⬛	hei mao	-5
 🐈‍⬛	xiao hei mao	-5
 🐈‍⬛️	chu sheng	-5
 🐈‍⬛️	dong wu	-5
 🐈‍⬛️	sheng chu	-5
 🐉	dong wu	-5
-🐉	dragon	-6
 🐉	ju long	-5
 🐉	long	-5
 🐉	shen long	-5
 🐉	sheng xiao	-5
 🐉	yi tiao long	-5
-🐊	crocodile	-6
 🐊	dong wu	-5
 🐊	e yu	-5
 🐊	ye sheng dong wu	-5
 🐊	ye wei	-5
 🐋	dong wu	-5
 🐋	jing yu	-5
-🐋	whale	-6
-🐋	whale2	-6
 🐋	ye sheng dong wu	-5
 🐋	ye wei	-5
 🐋	yu	-5
 🐌	chong	-5
 🐌	dong wu	-5
-🐌	snail	-6
 🐌	wo niu	-5
 🐍	dong wu	-5
 🐍	python	-5
 🐍	she	-5
 🐍	she she	-5
 🐍	sheng xiao	-5
-🐍	snake	-6
 🐍	xiao she	-5
 🐍	ye sheng dong wu	-5
 🐍	ye wei	-5
 🐍	yi tiao she	-5
 🐎	dong wu	-5
-🐎	horse	-6
 🐎	jun ma	-5
 🐎	ma	-5
 🐎	ma er	-5
-🐎	racehorse	-6
 🐎	sheng xiao	-5
 🐎	xiao ma	-5
 🐏	chu sheng	-5
 🐏	dong wu	-5
 🐏	gong yang	-5
-🐏	ram	-6
 🐏	sheng chu	-5
 🐏	sheng xiao	-5
 🐐	chu sheng	-5
 🐐	dong wu	-5
-🐐	goat	-6
 🐐	shan yang	-5
 🐐	sheng chu	-5
 🐐	sheng xiao	-5
 🐑	chu sheng	-5
 🐑	dong wu	-5
 🐑	mian yang	-5
-🐑	sheep	-6
 🐑	sheng chu	-5
 🐑	sheng xiao	-5
 🐑	xiao yang	-5
@@ -3511,7 +2020,6 @@ columns:
 🐒	hou	-5
 🐒	hou zi	-5
 🐒	ma liu	-5
-🐒	monkey	-6
 🐒	sheng xiao	-5
 🐓	da gong ji	-5
 🐓	da mu ji	-5
@@ -3520,17 +2028,13 @@ columns:
 🐓	jia qin	-5
 🐓	mu ji	-5
 🐓	niao	-5
-🐓	rooster	-6
 🐓	sheng xiao	-5
-🐔	chicken	-6
 🐔	dong wu	-5
 🐔	ji	-5
 🐔	ji ba	-5
 🐔	ji tou	-5
 🐔	jia qin	-5
 🐕	chu sheng	-5
-🐕	dog	-6
-🐕	dog2	-6
 🐕	dong wu	-5
 🐕	gou	-5
 🐕	gou gou	-5
@@ -3542,18 +2046,14 @@ columns:
 🐕‍🦺	chu sheng	-5
 🐕‍🦺	fu wu quan	-5
 🐕‍🦺	gong zuo quan	-5
-🐕‍🦺	service dog	-6
 🐕‍🦺	sheng chu	-5
 🐕‍🦺	sheng xiao	-5
 🐖	chu sheng	-5
 🐖	dong wu	-5
-🐖	pig	-6
-🐖	pig2	-6
 🐖	sheng chu	-5
 🐖	sheng xiao	-5
 🐖	zhu	-5
 🐖	zhu zhu	-5
-🐗	boar	-6
 🐗	dong wu	-5
 🐗	sheng xiao	-5
 🐗	ye sheng dong wu	-5
@@ -3561,50 +2061,38 @@ columns:
 🐗	ye zhu	-5
 🐘	da xiang	-5
 🐘	dong wu	-5
-🐘	elephant	-6
 🐘	ye sheng dong wu	-5
 🐘	ye wei	-5
 🐙	dong wu	-5
-🐙	octopus	-6
 🐙	zhang yu	-5
 🐚	bei ke	-5
 🐚	dong wu	-5
 🐚	hai luo	-5
-🐚	shell	-6
-🐚	spiral shell	-6
-🐛	bug	-6
+🐛	bug	-5
 🐛	chong	-5
 🐛	chong zi	-5
 🐛	dong wu	-5
 🐛	mao chong	-5
 🐛	mao mao chong	-5
-🐜	ant	-6
 🐜	chong	-5
 🐜	dong wu	-5
 🐜	ma yi	-5
-🐝	bee	-6
 🐝	chong	-5
 🐝	dong wu	-5
-🐝	honeybee	-6
 🐝	mi feng	-5
 🐝	xiao mi feng	-5
 🐞	chong	-5
 🐞	dong wu	-5
-🐞	lady beetle	-6
-🐞	ladybug	-6
 🐞	piao chong	-5
 🐞	qi xing piao chong	-5
 🐟	dong wu	-5
-🐟	fish	-6
 🐟	xiao yu	-5
 🐟	xiao yu er	-5
 🐟	yu	-5
 🐟	yu er	-5
 🐠	dong wu	-5
 🐠	re dai yu	-5
-🐠	tropical fish	-6
 🐠	yu	-5
-🐡	blowfish	-6
 🐡	dong wu	-5
 🐡	he tun	-5
 🐡	ye sheng dong wu	-5
@@ -3613,69 +2101,53 @@ columns:
 🐢	dong wu	-5
 🐢	hai gui	-5
 🐢	qiu	-5
-🐢	turtle	-6
 🐢	wu gui	-5
 🐢	ye sheng dong wu	-5
 🐢	ye wei	-5
 🐣	chu sheng	-5
 🐣	dong wu	-5
 🐣	fu hua xiao ji	-5
-🐣	hatching chick	-6
 🐣	jia qin	-5
 🐣	po ke	-5
 🐣	xiao ji	-5
 🐣	xiao ji po ke	-5
-🐤	baby chick	-6
 🐤	dong wu	-5
 🐤	jia qin	-5
 🐤	xiao ji	-5
 🐤	xiao ji tou	-5
 🐥	dong wu	-5
-🐥	front facing baby chick	-6
-🐥	hatched chick	-6
 🐥	jia qin	-5
 🐥	xiao ji	-5
 🐥	xiao ji ji	-5
-🐦	bird	-6
 🐦	dong wu	-5
 🐦	niao	-5
 🐦	niao tou	-5
 🐦	xiao niao	-5
-🐦‍⬛	black bird	-6
 🐦‍⬛	dong wu	-5
 🐦‍⬛	hei niao	-5
 🐦‍⬛	hei se xiao niao	-5
 🐦‍⬛	niao	-5
 🐦‍⬛	wu ya	-5
-🐦‍🔥	phoenix	-6
 🐧	dong wu	-5
 🐧	niao	-5
-🐧	penguin	-6
 🐧	qi e	-5
 🐧	qi e tou	-5
 🐨	dong wu	-5
 🐨	kao la	-5
-🐨	koala	-6
 🐨	shu dai xiong	-5
 🐨	wu wei xiong	-5
 🐩	chu sheng	-5
 🐩	dong wu	-5
 🐩	gui bin quan	-5
 🐩	juan mao gou	-5
-🐩	poodle	-6
 🐩	sheng chu	-5
 🐪	dan feng luo tuo	-5
 🐪	dong wu	-5
-🐪	dromedary camel	-6
 🐪	luo tuo	-5
-🐫	bactrian camel	-6
-🐫	camel	-6
 🐫	dong wu	-5
 🐫	luo tuo	-5
 🐫	shuang feng luo tuo	-5
-🐬	dolphin	-6
 🐬	dong wu	-5
-🐬	flipper	-6
 🐬	hai tun	-5
 🐬	ye sheng dong wu	-5
 🐬	ye wei	-5
@@ -3685,13 +2157,9 @@ columns:
 🐭	lao shu	-5
 🐭	lao shu lian	-5
 🐭	lao shu tou	-5
-🐭	mouse	-6
-🐭	mouse face	-6
 🐭	shu	-5
 🐭	shu lian	-5
 🐭	shu tou	-5
-🐮	cow	-6
-🐮	cow face	-6
 🐮	dong wu	-5
 🐮	niu	-5
 🐮	niu lian	-5
@@ -3705,19 +2173,13 @@ columns:
 🐯	lao hu	-5
 🐯	lao hu lian	-5
 🐯	lao hu tou	-5
-🐯	tiger	-6
-🐯	tiger face	-6
 🐰	dong wu	-5
-🐰	rabbit	-6
-🐰	rabbit face	-6
 🐰	tu	-5
 🐰	tu lian	-5
 🐰	tu tou	-5
 🐰	tu zi	-5
 🐰	tu zi lian	-5
 🐰	tu zi tou	-5
-🐱	cat	-6
-🐱	cat face	-6
 🐱	dong wu	-5
 🐱	mao	-5
 🐱	mao lian	-5
@@ -3729,7 +2191,6 @@ columns:
 🐱	miao miao miao	-5
 🐱	xiao mao	-5
 🐱	xiao mao mi	-5
-🐲	dragon face	-6
 🐲	long	-5
 🐲	long tou	-5
 🐲	long wang	-5
@@ -3738,15 +2199,10 @@ columns:
 🐳	jing yu	-5
 🐳	pen shui	-5
 🐳	pen shui de jing	-5
-🐳	pen shui de jing yu	-5
-🐳	spouting whale	-6
-🐳	whale	-6
 🐳	ye sheng dong wu	-5
 🐳	ye wei	-5
 🐳	yu	-5
 🐴	dong wu	-5
-🐴	horse	-6
-🐴	horse face	-6
 🐴	ma	-5
 🐴	ma er	-5
 🐴	ma lian	-5
@@ -3755,9 +2211,6 @@ columns:
 🐵	hou	-5
 🐵	hou lian	-5
 🐵	hou tou	-5
-🐵	monkey face	-6
-🐶	dog	-6
-🐶	dog face	-6
 🐶	doge	-5
 🐶	dong wu	-5
 🐶	gou	-5
@@ -3769,16 +2222,12 @@ columns:
 🐶	xiao gou	-5
 🐷	dong wu	-5
 🐷	lan zhu	-5
-🐷	pig	-6
-🐷	pig face	-6
 🐷	xiao zhu	-5
 🐷	zhu	-5
 🐷	zhu lian	-5
 🐷	zhu tou	-5
 🐷	zhu zhu	-5
 🐸	dong wu	-5
-🐸	frog	-6
-🐸	frog face	-6
 🐸	ha	-5
 🐸	ha ha	-5
 🐸	ha ma	-5
@@ -3789,18 +2238,12 @@ columns:
 🐹	cang shu lian	-5
 🐹	cang shu tou	-5
 🐹	dong wu	-5
-🐹	hamster	-6
-🐹	hamster face	-6
 🐺	dong wu	-5
 🐺	lang	-5
 🐺	lang lian	-5
 🐺	lang tou	-5
-🐺	wolf	-6
-🐺	wolf face	-6
 🐺	ye sheng dong wu	-5
 🐺	ye wei	-5
-🐻	bear	-6
-🐻	bear face	-6
 🐻	dong wu	-5
 🐻	xiao xiong	-5
 🐻	xiong	-5
@@ -3809,35 +2252,28 @@ columns:
 🐻‍❄️	bei ji xiong	-5
 🐻‍❄️	bei ji xiong lian	-5
 🐻‍❄️	bei ji xiong tou	-5
-🐻‍❄️	polar bear	-6
 🐼	da xiong mao	-5
 🐼	dong wu	-5
 🐼	guo bao	-5
 🐼	mao xiong	-5
 🐼	panda	-5
-🐼	panda face	-6
 🐼	pang da	-5
 🐼	xiong mao	-5
 🐼	xiong mao lian	-5
 🐼	xiong mao ren	-5
 🐼	xiong mao tou	-5
 🐽	dong wu	-5
-🐽	pig nose	-6
 🐽	zhu bi	-5
 🐽	zhu bi zi	-5
 🐾	dong wu jiao yin	-5
-🐾	feet	-6
-🐾	paw prints	-6
 🐾	zhang yin	-5
 🐾	zhua yin	-5
 🐿	dong wu	-5
 🐿	hua li shu	-5
 🐿	song shu	-5
-🐿️	chipmunk	-6
 🐿️	dong wu	-5
 🐿️	ye sheng dong wu	-5
 🐿️	ye wei	-5
-👀	eyes	-6
 👀	guan cha	-5
 👀	kan	-5
 👀	kan kan	-5
@@ -3850,12 +2286,9 @@ columns:
 👁	yan jing	-5
 👁	yi zhi yan	-5
 👁	yi zhi yan jing	-5
-👁️	eye	-6
 👁️	qi guan	-5
-👁️‍🗨️	eye in speech bubble	-6
 👁️‍🗨️	wo shi zheng ren	-5
 👁️‍🗨️	zheng ren	-5
-👂	ear	-6
 👂	er	-5
 👂	er duo	-5
 👂	ting	-5
@@ -3863,15 +2296,12 @@ columns:
 👃	bi	-5
 👃	bi zi	-5
 👃	hu xi	-5
-👃	nose	-6
 👃	wen	-5
 👃	xiu	-5
 👃🏻	qi guan	-5
 👄	chun	-5
 👄	hong chun	-5
 👄	kou	-5
-👄	lips	-6
-👄	mouth	-6
 👄	qi guan	-5
 👄	zui	-5
 👄	zui ba	-5
@@ -3879,43 +2309,30 @@ columns:
 👅	qi guan	-5
 👅	she	-5
 👅	she tou	-5
-👅	tongue	-6
-👆	fan shou shi zhi xiang shang zhi	-5
-👆	point up 2	-6
 👆	shang bian	-5
 👆	shang mian	-5
 👆	shou shi	-5
 👆	wang shang	-5
 👆	wang shang zhi	-5
-👆	white up pointing backhand index	-6
 👆	xiang shang	-5
 👆	xiang shang zhi	-5
-👇	fan shou shi zhi xiang xia zhi	-5
-👇	point down	-6
 👇	shou shi	-5
 👇	wang xia	-5
 👇	wang xia zhi	-5
-👇	white down pointing backhand index	-6
 👇	xia bian	-5
 👇	xia mian	-5
 👇	xiang xia	-5
 👇	xiang xia zhi	-5
-👈	fan shou shi zhi xiang zuo zhi	-5
-👈	point left	-6
 👈	shou shi	-5
 👈	wang zuo	-5
 👈	wang zuo zhi	-5
-👈	white left pointing backhand index	-6
 👈	xiang zuo	-5
 👈	xiang zuo zhi	-5
 👈	zuo bian	-5
 👈	zuo mian	-5
-👉	fan shou shi zhi xiang you zhi	-5
-👉	point right	-6
 👉	shou shi	-5
 👉	wang you	-5
 👉	wang you zhi	-5
-👉	white right pointing backhand index	-6
 👉	xiang you	-5
 👉	xiang you zhi	-5
 👉	you bian	-5
@@ -3923,13 +2340,9 @@ columns:
 👊	chu quan	-5
 👊	da ji	-5
 👊	da ni	-5
-👊	facepunch	-6
-👊	fisted hand sign	-6
 👊	gan ni	-5
-👊	punch	-6
 👊	quan tou	-5
 👊	shou shi	-5
-👊	wo jin de quan tou	-5
 👊	zhong quan chu ji	-5
 👊	zou ni	-5
 👋	bai bai	-5
@@ -3937,8 +2350,6 @@ columns:
 👋	hui shou	-5
 👋	ni hao	-5
 👋	shou shi	-5
-👋	wave	-6
-👋	waving hand sign	-6
 👋	zai jian	-5
 👌	chang yong	-5
 👌	hao	-5
@@ -3946,10 +2357,7 @@ columns:
 👌	hao de	-5
 👌	mei wen ti	-5
 👌	ok	-5
-👌	ok hand	-6
-👌	ok hand sign	-6
 👌	shou shi	-5
-👍	1	-6
 👍	bang	-5
 👍	bang a	-5
 👍	bang bang	-5
@@ -3959,8 +2367,6 @@ columns:
 👍	bu cuo	-5
 👍	chang yong	-5
 👍	da mu zhi	-5
-👍	da mu zhi chao shang	-5
-👍	da mu zhi xiang shang	-5
 👍	dian zan	-5
 👍	fei chang bang	-5
 👍	gan de hao	-5
@@ -3980,18 +2386,13 @@ columns:
 👍	tai bang la	-5
 👍	tai bang le	-5
 👍	te bang	-5
-👍	thumbs up sign	-6
-👍	thumbsup	-6
 👍	zan	-5
 👍	zhen bang	-5
-👎	1	-6
 👎	bu bang	-5
 👎	bu hao	-5
 👎	bu qiang	-5
 👎	cha jin	-5
 👎	da mu zhi	-5
-👎	da mu zhi chao xia	-5
-👎	da mu zhi xiang xia	-5
 👎	mu zhi	-5
 👎	mu zhi chao xia	-5
 👎	mu zhi xiang shang	-5
@@ -3999,31 +2400,21 @@ columns:
 👎	tai cha	-5
 👎	tai cha la	-5
 👎	tai cha le	-5
-👎	thumbs down sign	-6
-👎	thumbsdown	-6
-👏	clap	-6
-👏	clapping hands sign	-6
 👏	gu zhang	-5
 👏	pa pa pa	-5
 👏	pai shou	-5
 👏	pai zhang	-5
 👏	shou shi	-5
-👐	open hands	-6
-👐	open hands sign	-6
 👐	shou shi	-5
 👐	shuang shou zhang kai	-5
 👐	zhang kai shuang shou	-5
-👑	crown	-6
 👑	huang guan	-5
 👑	huang zu	-5
 👑	wang guan	-5
-👒	dai hu die jie de mao zi	-5
 👒	kuan yan mao	-5
 👒	mao	-5
 👒	mao zi	-5
 👒	nv mao	-5
-👒	womans hat	-6
-👓	eyeglasses	-6
 👓	jin shi	-5
 👓	jin shi yan	-5
 👓	yan jing	-5
@@ -4031,7 +2422,6 @@ columns:
 👔	fu shi	-5
 👔	fu zhuang	-5
 👔	ling dai	-5
-👔	necktie	-6
 👔	yi fu	-5
 👕	chen shan	-5
 👕	duan xiu	-5
@@ -4041,20 +2431,15 @@ columns:
 👕	nan chen shan	-5
 👕	nan shi chen shan	-5
 👕	shang yi	-5
-👕	shirt	-6
 👕	t	-5
-👕	t shirt	-6
-👕	tshirt	-6
 👕	xu shan	-5
 👕	yi fu	-5
 👖	fu shi	-5
 👖	fu zhuang	-5
-👖	jeans	-6
 👖	ku zi	-5
 👖	niu zai ku	-5
 👖	yi fu	-5
 👗	chang qun	-5
-👗	dress	-6
 👗	fu shi	-5
 👗	fu zhuang	-5
 👗	lian yi qun	-5
@@ -4063,11 +2448,9 @@ columns:
 👘	fu shi	-5
 👘	fu zhuang	-5
 👘	he fu	-5
-👘	kimono	-6
 👘	yi fu	-5
 👘	yu yi	-5
 👙	bi ji ni	-5
-👙	bikini	-6
 👙	fu shi	-5
 👙	fu zhuang	-5
 👙	nei yi	-5
@@ -4079,31 +2462,24 @@ columns:
 👚	nv chen shan	-5
 👚	nv shi chen shan	-5
 👚	nv zhuang	-5
-👚	womans clothes	-6
 👚	yi fu	-5
 👛	bao	-5
 👛	ling qian bao	-5
 👛	nv shi qian bao	-5
-👛	purse	-6
 👛	qian bao	-5
 👜	bao	-5
 👜	bao bao	-5
-👜	handbag	-6
 👜	kua bao	-5
 👜	nv bao	-5
 👜	shou ti bao	-5
 👝	bao	-5
 👝	he bao	-5
 👝	pi bao	-5
-👝	pouch	-6
 👝	shou na bao	-5
-👞	mans shoe	-6
 👞	nan xie	-5
 👞	pi xie	-5
-👞	shoe	-6
 👞	xie	-5
 👞	xie zi	-5
-👟	athletic shoe	-6
 👟	ban er xie	-5
 👟	ban xie	-5
 👟	pao xie	-5
@@ -4115,46 +2491,34 @@ columns:
 👠	gao gen er	-5
 👠	gao gen er xie	-5
 👠	gao gen xie	-5
-👠	high heel	-6
-👠	high heeled shoe	-6
 👠	nv xie	-5
 👠	xie	-5
 👠	xie zi	-5
-👡	gao gen er liang xie	-5
 👡	gao gen liang xie	-5
 👡	liang xie	-5
 👡	nv shi liang xie	-5
-👡	sandal	-6
-👡	womans sandal	-6
 👡	xie	-5
 👡	xie zi	-5
-👢	boot	-6
 👢	chang xue	-5
 👢	gao gen er xue	-5
 👢	gao gen xue	-5
 👢	nv xue	-5
-👢	womans boots	-6
 👢	xie	-5
 👢	xie zi	-5
 👢	xue zi	-5
-👣	footprints	-6
 👣	jiao yin	-5
 👣	zu ji	-5
 👤	ban shen xiang	-5
-👤	bust in silhouette	-6
 👤	jian ying	-5
 👤	ren wu jian ying	-5
 👤	tou xiang	-5
 👥	ban shen xiang	-5
-👥	busts in silhouette	-6
 👥	jian ying	-5
 👥	shuang ren	-5
 👥	shuang ren xiang	-5
-👦	boy	-6
 👦	er zi	-5
 👦	nan hai	-5
 👦	xiao nan hai	-5
-👧	girl	-6
 👧	nv er	-5
 👧	nv hai	-5
 👧	xiao nv hai	-5
@@ -4163,65 +2527,39 @@ columns:
 👨	cheng nian nan xing	-5
 👨	fu qin	-5
 👨	lao die	-5
-👨	man	-6
 👨	nan ren	-5
 👨‍⚕️	dai fu	-5
-👨‍⚕️	male doctor	-6
-👨‍⚕️	man health worker	-6
 👨‍⚕️	nan dai fu	-5
-👨‍⚕️	nan yi hu ren yuan	-5
 👨‍⚕️	nan yi sheng	-5
 👨‍⚕️	yi hu ren yuan	-5
 👨‍⚕️	yi sheng	-5
 👨‍⚖️	fa guan	-5
-👨‍⚖️	male judge	-6
-👨‍⚖️	man judge	-6
 👨‍⚖️	nan fa guan	-5
 👨‍✈️	fei xing yuan	-5
-👨‍✈️	male pilot	-6
-👨‍✈️	man pilot	-6
 👨‍✈️	nan fei xing yuan	-5
 👨‍❤️‍👨	bo li	-5
-👨‍❤️‍👨	couple with heart man man	-6
-👨‍❤️‍👨	man heart man	-6
 👨‍❤️‍👨	nan tong	-5
 👨‍❤️‍👨	nan tong xing lian	-5
 👨‍❤️‍👨	tong xing lian	-5
-👨‍❤️‍💋‍👨	kiss man man	-6
-👨‍❤️‍💋‍👨	man kiss man	-6
-👨‍🌾	male farmer	-6
-👨‍🌾	man farmer	-6
 👨‍🌾	nong fu	-5
 👨‍🌾	nong min	-5
 👨‍🍳	chu shi	-5
 👨‍🍳	da chu	-5
-👨‍🍳	male cook	-6
-👨‍🍳	man cook	-6
 👨‍🍳	nan chu shi	-5
 👨‍🍳	xia chu	-5
 👨‍🍳	zuo fan	-5
-👨‍🍼	bu ru de nan ren	-5
-👨‍🍼	man feeding baby	-6
 👨‍🍼	nai ba	-5
 👨‍🎓	ben ke sheng	-5
 👨‍🎓	bi ye	-5
 👨‍🎓	da xue sheng	-5
-👨‍🎓	male student	-6
-👨‍🎓	man student	-6
 👨‍🎓	nan xue sheng	-5
 👨‍🎓	xue sheng	-5
 👨‍🎤	ge shou	-5
-👨‍🎤	male singer	-6
-👨‍🎤	man singer	-6
 👨‍🎤	nan ge shou	-5
-👨‍🎤	nan yao gun ge shou	-5
 👨‍🎤	peng ke	-5
 👨‍🎤	yao gun ge shou	-5
-👨‍🎤	yao gun nan ge shou	-5
 👨‍🎤	zhong jin shu	-5
 👨‍🎨	hua jia	-5
-👨‍🎨	male artist	-6
-👨‍🎨	man artist	-6
 👨‍🎨	man hua jia	-5
 👨‍🎨	nan hua jia	-5
 👨‍🎨	nan man hua jia	-5
@@ -4229,58 +2567,23 @@ columns:
 👨‍🎨	yi shu jia	-5
 👨‍🏫	jiao shi	-5
 👨‍🏫	lao shi	-5
-👨‍🏫	male teacher	-6
-👨‍🏫	man teacher	-6
 👨‍🏫	nan jiao shi	-5
 👨‍🏫	nan lao shi	-5
 👨‍🏭	gong chang gong ren	-5
-👨‍🏭	male factory worker	-6
-👨‍🏭	man factory worker	-6
-👨‍🏭	nan gong chang gong ren	-5
-👨‍👦	family man boy	-6
 👨‍👦	fu zi	-5
-👨‍👦	man boy	-6
-👨‍👦‍👦	family man boy boy	-6
-👨‍👦‍👦	man boy boy	-6
-👨‍👧	family man girl	-6
 👨‍👧	fu nv	-5
-👨‍👧	man girl	-6
-👨‍👧‍👦	family man girl boy	-6
-👨‍👧‍👦	man girl boy	-6
-👨‍👧‍👧	family man girl girl	-6
-👨‍👧‍👧	man girl girl	-6
-👨‍👨‍👦	family man man boy	-6
-👨‍👨‍👦	man man boy	-6
-👨‍👨‍👦‍👦	family man man boy boy	-6
-👨‍👨‍👦‍👦	man man boy boy	-6
-👨‍👨‍👧	family man man girl	-6
-👨‍👨‍👧	man man girl	-6
-👨‍👨‍👧‍👦	family man man girl boy	-6
-👨‍👨‍👧‍👦	man man girl boy	-6
-👨‍👨‍👧‍👧	family man man girl girl	-6
-👨‍👨‍👧‍👧	man man girl girl	-6
-👨‍👩‍👦	family man woman boy	-6
-👨‍👩‍👦	man woman boy	-6
 👨‍👩‍👦	san kou zhi jia	-5
 👨‍👩‍👦	yi jia ren	-5
 👨‍👩‍👦	yi jia san kou	-5
-👨‍👩‍👦‍👦	family man woman boy boy	-6
-👨‍👩‍👦‍👦	man woman boy boy	-6
 👨‍👩‍👦‍👦	si kou zhi jia	-5
 👨‍👩‍👦‍👦	yi jia ren	-5
 👨‍👩‍👦‍👦	yi jia si kou	-5
-👨‍👩‍👧	family man woman girl	-6
-👨‍👩‍👧	man woman girl	-6
 👨‍👩‍👧	san kou zhi jia	-5
 👨‍👩‍👧	yi jia ren	-5
 👨‍👩‍👧	yi jia san kou	-5
-👨‍👩‍👧‍👦	family man woman girl boy	-6
-👨‍👩‍👧‍👦	man woman girl boy	-6
 👨‍👩‍👧‍👦	si kou zhi jia	-5
 👨‍👩‍👧‍👦	yi jia ren	-5
 👨‍👩‍👧‍👦	yi jia si kou	-5
-👨‍👩‍👧‍👧	family man woman girl girl	-6
-👨‍👩‍👧‍👧	man woman girl girl	-6
 👨‍👩‍👧‍👧	si kou zhi jia	-5
 👨‍👩‍👧‍👧	yi jia ren	-5
 👨‍👩‍👧‍👧	yi jia si kou	-5
@@ -4289,25 +2592,16 @@ columns:
 👨‍💻	kai fa ren yuan	-5
 👨‍💻	ma chu	-5
 👨‍💻	ma nong	-5
-👨‍💻	male technologist	-6
-👨‍💻	man technologist	-6
 👨‍💻	nan cheng xu yuan	-5
 👨‍💻	nan ji shu yuan	-5
-👨‍💻	nan kai fa ren yuan	-5
 👨‍💻	nan ma chu	-5
 👨‍💻	nan ma nong	-5
 👨‍💼	bai ling	-5
-👨‍💼	ban gong shi zhi yuan	-5
-👨‍💼	male office worker	-6
-👨‍💼	man office worker	-6
 👨‍💼	nan bai ling	-5
-👨‍💼	nan ban gong shi zhi yuan	-5
 👨‍💼	nan zhi yuan	-5
 👨‍💼	zhi yuan	-5
 👨‍🔧	dian gong	-5
 👨‍🔧	ji gong	-5
-👨‍🔧	male mechanic	-6
-👨‍🔧	man mechanic	-6
 👨‍🔧	nan dian gong	-5
 👨‍🔧	nan ji gong	-5
 👨‍🔧	nan shui guan gong	-5
@@ -4316,43 +2610,26 @@ columns:
 👨‍🔧	xiu li gong	-5
 👨‍🔬	hua xue jia	-5
 👨‍🔬	ke xue jia	-5
-👨‍🔬	male scientist	-6
-👨‍🔬	man scientist	-6
 👨‍🔬	nan hua xue jia	-5
 👨‍🔬	nan ke xue jia	-5
-👨‍🚀	male astronaut	-6
-👨‍🚀	man astronaut	-6
 👨‍🚀	nan yu hang yuan	-5
 👨‍🚀	yu hang yuan	-5
-👨‍🚒	male firefighter	-6
-👨‍🚒	man firefighter	-6
 👨‍🚒	nan xiao fang yuan	-5
 👨‍🚒	xiao fang yuan	-5
-👨‍🦯	man with probing cane	-6
-👨‍🦯	man with white cane	-6
-👨‍🦯	na zhe bai shou zhang de ren	-5
-👨‍🦯	zhu mang zhang de ren	-5
-👨‍🦯‍➡️	man with white cane facing right	-6
 👨‍🦰	hong fa	-5
 👨‍🦰	hong fa nan	-5
 👨‍🦰	hong fa nan ren	-5
 👨‍🦰	hong fa nan zi	-5
 👨‍🦰	hong se tou fa	-5
-👨‍🦰	man red hair	-6
-👨‍🦰	red haired man	-6
-👨‍🦱	curly haired man	-6
 👨‍🦱	hong fa nan	-5
 👨‍🦱	hong fa nan ren	-5
 👨‍🦱	hong fa nan zi	-5
 👨‍🦱	juan fa	-5
-👨‍🦱	man curly hair	-6
-👨‍🦲	bald man	-6
 👨‍🦲	guang tou	-5
 👨‍🦲	guang tou nan	-5
 👨‍🦲	guang tou nan ren	-5
 👨‍🦲	guang tou nan zi	-5
 👨‍🦲	he shang	-5
-👨‍🦲	man bald	-6
 👨‍🦲	tou tu	-5
 👨‍🦲	tu ding	-5
 👨‍🦲	tu tou	-5
@@ -4362,193 +2639,103 @@ columns:
 👨‍🦳	bai fa nan ren	-5
 👨‍🦳	bai fa nan zi	-5
 👨‍🦳	bai se tou fa	-5
-👨‍🦳	man white hair	-6
-👨‍🦳	white haired man	-6
 👨‍🦼	dian dong lun yi	-5
-👨‍🦼	man in motorized wheelchair	-6
-👨‍🦼	zuo dian dong lun yi de nan ren	-5
-👨‍🦼	zuo dian dong lun yi de ren	-5
-👨‍🦼‍➡️	man in motorized wheelchair facing right	-6
-👨‍🦽	man in manual wheelchair	-6
 👨‍🦽	shou dong lun yi	-5
-👨‍🦽	zuo shou dong lun yi de nan ren	-5
-👨‍🦽	zuo shou dong lun yi de ren	-5
-👨‍🦽‍➡️	man in manual wheelchair facing right	-6
 👩	cheng nian nv ren	-5
 👩	cheng nian nv xing	-5
 👩	lao ma	-5
 👩	ma ma	-5
 👩	mu qin	-5
 👩	nv ren	-5
-👩	woman	-6
 👩‍⚕️	dai fu	-5
-👩‍⚕️	female doctor	-6
 👩‍⚕️	nv dai fu	-5
-👩‍⚕️	nv yi hu ren yuan	-5
 👩‍⚕️	nv yi sheng	-5
-👩‍⚕️	woman health worker	-6
 👩‍⚕️	yi hu ren yuan	-5
 👩‍⚕️	yi sheng	-5
 👩‍⚖️	fa guan	-5
-👩‍⚖️	female judge	-6
 👩‍⚖️	nv fa guan	-5
-👩‍⚖️	woman judge	-6
 👩‍✈️	fei xing yuan	-5
-👩‍✈️	female pilot	-6
 👩‍✈️	nv fei xing yuan	-5
-👩‍✈️	woman pilot	-6
 👩‍❤️‍👨	ai qing	-5
-👩‍❤️‍👨	couple with heart woman man	-6
 👩‍❤️‍👨	lian ai	-5
 👩‍❤️‍👨	love	-5
 👩‍❤️‍👨	tan lian ai	-5
-👩‍❤️‍👨	woman heart man	-6
 👩‍❤️‍👨	xiang ai	-5
-👩‍❤️‍👩	couple with heart woman woman	-6
 👩‍❤️‍👩	la la	-5
 👩‍❤️‍👩	nv tong	-5
 👩‍❤️‍👩	nv tong xing lian	-5
 👩‍❤️‍👩	tong xing lian	-5
-👩‍❤️‍👩	woman heart woman	-6
-👩‍❤️‍💋‍👨	kiss woman man	-6
-👩‍❤️‍💋‍👨	woman kiss man	-6
-👩‍❤️‍💋‍👩	kiss woman woman	-6
-👩‍❤️‍💋‍👩	woman kiss woman	-6
-👩‍🌾	female farmer	-6
 👩‍🌾	nong fu	-5
 👩‍🌾	nong min	-5
-👩‍🌾	woman farmer	-6
 👩‍🍳	chu shi	-5
 👩‍🍳	da chu	-5
-👩‍🍳	female cook	-6
 👩‍🍳	nv chu shi	-5
-👩‍🍳	woman cook	-6
 👩‍🍳	xia chu	-5
 👩‍🍳	zuo fan	-5
 👩‍🍼	bu ru	-5
-👩‍🍼	bu ru de nv ren	-5
 👩‍🍼	nai ma	-5
-👩‍🍼	woman feeding baby	-6
 👩‍🎓	ben ke sheng	-5
 👩‍🎓	bi ye	-5
 👩‍🎓	da xue sheng	-5
-👩‍🎓	female student	-6
 👩‍🎓	nv xue sheng	-5
-👩‍🎓	woman student	-6
 👩‍🎓	xue sheng	-5
-👩‍🎤	female singer	-6
 👩‍🎤	ge shou	-5
 👩‍🎤	nv ge shou	-5
-👩‍🎤	nv yao gun ge shou	-5
 👩‍🎤	peng ke	-5
-👩‍🎤	woman singer	-6
 👩‍🎤	yao gun ge shou	-5
-👩‍🎤	yao gun nv ge shou	-5
 👩‍🎤	zhong jin shu	-5
-👩‍🎨	female artist	-6
 👩‍🎨	hua jia	-5
 👩‍🎨	man hua jia	-5
 👩‍🎨	nv hua jia	-5
 👩‍🎨	nv man hua jia	-5
 👩‍🎨	nv yi shu jia	-5
-👩‍🎨	woman artist	-6
 👩‍🎨	yi shu jia	-5
-👩‍🏫	female teacher	-6
 👩‍🏫	jiao shi	-5
 👩‍🏫	lao shi	-5
 👩‍🏫	nv jiao shi	-5
 👩‍🏫	nv lao shi	-5
-👩‍🏫	woman teacher	-6
-👩‍🏭	female factory worker	-6
 👩‍🏭	gong chang gong ren	-5
-👩‍🏭	nv gong chang gong ren	-5
-👩‍🏭	woman factory worker	-6
-👩‍👦	family woman boy	-6
 👩‍👦	mu zi	-5
-👩‍👦	woman boy	-6
-👩‍👦‍👦	family woman boy boy	-6
-👩‍👦‍👦	woman boy boy	-6
-👩‍👧	family woman girl	-6
 👩‍👧	mu nv	-5
-👩‍👧	woman girl	-6
-👩‍👧‍👦	family woman girl boy	-6
-👩‍👧‍👦	woman girl boy	-6
-👩‍👧‍👧	family woman girl girl	-6
-👩‍👧‍👧	woman girl girl	-6
-👩‍👩‍👦	family woman woman boy	-6
-👩‍👩‍👦	woman woman boy	-6
-👩‍👩‍👦‍👦	family woman woman boy boy	-6
-👩‍👩‍👦‍👦	woman woman boy boy	-6
-👩‍👩‍👧	family woman woman girl	-6
-👩‍👩‍👧	woman woman girl	-6
-👩‍👩‍👧‍👦	family woman woman girl boy	-6
-👩‍👩‍👧‍👦	woman woman girl boy	-6
-👩‍👩‍👧‍👧	family woman woman girl girl	-6
-👩‍👩‍👧‍👧	woman woman girl girl	-6
 👩‍💻	cheng xu yuan	-5
-👩‍💻	female technologist	-6
 👩‍💻	ji shu yuan	-5
 👩‍💻	kai fa ren yuan	-5
 👩‍💻	ma chu	-5
 👩‍💻	ma nong	-5
 👩‍💻	nv cheng xu yuan	-5
 👩‍💻	nv ji shu yuan	-5
-👩‍💻	nv kai fa ren yuan	-5
 👩‍💻	nv ma chu	-5
 👩‍💻	nv ma nong	-5
-👩‍💻	woman technologist	-6
 👩‍💼	bai ling	-5
-👩‍💼	ban gong shi zhi yuan	-5
-👩‍💼	female office worker	-6
 👩‍💼	nv bai ling	-5
-👩‍💼	nv ban gong shi zhi yuan	-5
 👩‍💼	nv zhi yuan	-5
-👩‍💼	woman office worker	-6
 👩‍💼	zhi yuan	-5
 👩‍🔧	dian gong	-5
-👩‍🔧	female mechanic	-6
 👩‍🔧	ji gong	-5
 👩‍🔧	nv dian gong	-5
 👩‍🔧	nv ji gong	-5
 👩‍🔧	nv shui guan gong	-5
 👩‍🔧	nv xiu li gong	-5
 👩‍🔧	shui guan gong	-5
-👩‍🔧	woman mechanic	-6
 👩‍🔧	xiu li gong	-5
-👩‍🔬	female scientist	-6
 👩‍🔬	hua xue jia	-5
 👩‍🔬	ke xue jia	-5
 👩‍🔬	nv hua xue jia	-5
 👩‍🔬	nv ke xue jia	-5
-👩‍🔬	woman scientist	-6
-👩‍🚀	female astronaut	-6
 👩‍🚀	nv yu hang yuan	-5
-👩‍🚀	woman astronaut	-6
 👩‍🚀	yu hang yuan	-5
-👩‍🚒	female firefighter	-6
 👩‍🚒	nv xiao fang yuan	-5
-👩‍🚒	woman firefighter	-6
 👩‍🚒	xiao fang yuan	-5
-👩‍🦯	na zhe bai shou zhang de ren	-5
-👩‍🦯	woman with probing cane	-6
-👩‍🦯	woman with white cane	-6
-👩‍🦯	zhu mang zhang de ren	-5
-👩‍🦯‍➡️	woman with white cane facing right	-6
 👩‍🦰	hong fa	-5
 👩‍🦰	hong fa nv	-5
 👩‍🦰	hong fa nv ren	-5
 👩‍🦰	hong fa nv zi	-5
 👩‍🦰	hong se tou fa	-5
 👩‍🦰	hong tou fa	-5
-👩‍🦰	red haired woman	-6
-👩‍🦰	woman red hair	-6
-👩‍🦱	curly haired woman	-6
 👩‍🦱	juan fa	-5
 👩‍🦱	juan fa nv	-5
 👩‍🦱	juan fa nv ren	-5
 👩‍🦱	juan fa nv zi	-5
-👩‍🦱	woman curly hair	-6
-👩‍🦲	bald woman	-6
 👩‍🦲	guang tou	-5
 👩‍🦲	guang tou nv	-5
 👩‍🦲	guang tou nv ren	-5
@@ -4558,112 +2745,61 @@ columns:
 👩‍🦲	tu ding	-5
 👩‍🦲	tu tou	-5
 👩‍🦲	tuo fa	-5
-👩‍🦲	woman bald	-6
 👩‍🦳	bai fa	-5
 👩‍🦳	bai fa nv	-5
 👩‍🦳	bai fa nv ren	-5
 👩‍🦳	bai fa nv zi	-5
 👩‍🦳	bai se tou fa	-5
-👩‍🦳	white haired woman	-6
-👩‍🦳	woman white hair	-6
 👩‍🦼	dian dong lun yi	-5
-👩‍🦼	woman in motorized wheelchair	-6
-👩‍🦼	zuo dian dong lun yi de nv ren	-5
-👩‍🦼	zuo dian dong lun yi de ren	-5
 👩‍🦽	shou dong lun yi	-5
-👩‍🦽	woman in manual wheelchair	-6
-👩‍🦽	zuo shou dong lun yi de nv ren	-5
-👩‍🦽	zuo shou dong lun yi de ren	-5
-👩‍🦽‍➡️	woman in manual wheelchair facing right	-6
-👪	family	-6
-👫	couple	-6
-👫	man and woman holding hands	-6
-👫	qian shou de qing lv	-5
 👫	qing lv	-5
-👫	shou la shou de qing lv	-5
-👫	woman and man holding hands	-6
 👬	hao ji you	-5
 👬	hao xiong di	-5
 👬	ji you	-5
 👬	liang ge nan ren	-5
-👬	liang ge qian shou de nan ren	-5
-👬	men holding hands	-6
-👬	two men holding hands	-6
 👬	xiong di	-5
 👭	gui mi	-5
 👭	liang ge nv ren	-5
-👭	liang ge qian shou de nv ren	-5
-👭	two women holding hands	-6
-👭	women holding hands	-6
-👮	cop	-6
-👮	police officer	-6
-👮‍♀️	female police officer	-6
 👮‍♀️	jing cha	-5
 👮‍♀️	jing guan	-5
 👮‍♀️	nv jing cha	-5
 👮‍♀️	nv jing guan	-5
-👮‍♀️	woman police officer	-6
 👮‍♂️	jing cha	-5
 👮‍♂️	jing guan	-5
-👮‍♂️	male police officer	-6
-👮‍♂️	man police officer	-6
 👮‍♂️	nan jing cha	-5
 👮‍♂️	nan jing guan	-5
-👯	dancers	-6
-👯	woman with bunny ears	-6
 👯‍♀️	tu er duo	-5
 👯‍♀️	tu nv lang	-5
-👯‍♀️	woman with bunny ears partying	-6
-👯‍♀️	women with bunny ears	-6
-👯‍♀️	women with bunny ears partying	-6
-👯‍♂️	man with bunny ears partying	-6
-👯‍♂️	men with bunny ears	-6
-👯‍♂️	men with bunny ears partying	-6
 👯‍♂️	tu er duo	-5
 👯‍♂️	tu xian sheng	-5
-👰	bride with veil	-6
-👰‍♀️	dai tou sha de ren	-5
 👰‍♀️	hun sha	-5
 👰‍♀️	tou sha	-5
-👰‍♀️	woman with veil	-6
 👰‍♀️	xin niang	-5
 👰‍♀️	xin niang zi	-5
-👰‍♂️	man with veil	-6
 👰‍♂️	nan xin niang	-5
 👱	jin fa	-5
 👱	jin fa nv	-5
 👱	jin fa nv ren	-5
 👱	jin fa nv zi	-5
 👱	jin se tou fa	-5
-👱	person with blond hair	-6
-👱‍♀️	blond haired woman	-6
 👱‍♀️	jin fa	-5
 👱‍♀️	jin fa nv	-5
 👱‍♀️	jin fa nv ren	-5
 👱‍♀️	jin fa nv zi	-5
 👱‍♀️	jin se tou fa	-5
-👱‍♀️	woman blond hair	-6
-👱‍♂️	blond haired man	-6
 👱‍♂️	jin fa	-5
 👱‍♂️	jin fa nan	-5
 👱‍♂️	jin fa nan ren	-5
 👱‍♂️	jin fa nan zi	-5
 👱‍♂️	jin se tou fa	-5
-👱‍♂️	man blond hair	-6
 👱🏼	bai ren	-5
 👱🏼	bai zhong ren	-5
 👲	di zhu	-5
 👲	gua pi mao	-5
-👲	man with gua pi mao	-6
 👲	zhong guo mao	-5
-👳	man with turban	-6
 👳‍♀️	dai tou jin	-5
-👳‍♀️	dai tou jin de ren	-5
 👳‍♀️	tou jin	-5
-👳‍♀️	woman wearing turban	-6
 👳‍♂️	dai tou jin	-5
-👳‍♂️	dai tou jin de ren	-5
-👳‍♂️	man wearing turban	-6
 👳‍♂️	tou jin	-5
 👳🏽	a la bo	-5
 👳🏽	a la bo ren	-5
@@ -4673,7 +2809,6 @@ columns:
 👴	lao tou er	-5
 👴	lao ye	-5
 👴	lao ye ye	-5
-👴	older man	-6
 👴	wai gong	-5
 👴	ye ye	-5
 👴	zu fu	-5
@@ -4682,10 +2817,9 @@ columns:
 👵	lao ren	-5
 👵	lao tai tai	-5
 👵	nai nai	-5
-👵	older woman	-6
 👵	wai po	-5
 👵	zu mu	-5
-👶	baby	-6
+👶	baby	-5
 👶	bao bao	-5
 👶	guai bao	-5
 👶	guai bao bao	-5
@@ -4701,119 +2835,81 @@ columns:
 👶🏽	la mei	-5
 👶🏽	zong se ren zhong	-5
 👶🏿	hei ren	-5
-👷	construction worker	-6
-👷‍♀️	female construction worker	-6
 👷‍♀️	gong ren	-5
 👷‍♀️	jian zhu gong	-5
 👷‍♀️	jian zhu gong ren	-5
 👷‍♀️	nong min gong	-5
 👷‍♀️	nv gong ren	-5
 👷‍♀️	nv jian zhu gong	-5
-👷‍♀️	nv jian zhu gong ren	-5
 👷‍♀️	nv nong min gong	-5
-👷‍♀️	woman construction worker	-6
 👷‍♂️	gong ren	-5
 👷‍♂️	jian zhu gong	-5
 👷‍♂️	jian zhu gong ren	-5
-👷‍♂️	male construction worker	-6
-👷‍♂️	man construction worker	-6
 👷‍♂️	nan gong ren	-5
 👷‍♂️	nan jian zhu gong	-5
-👷‍♂️	nan jian zhu gong ren	-5
 👷‍♂️	nan nong min gong	-5
 👷‍♂️	nong min gong	-5
 👸	gong zhu	-5
 👸	nv huang	-5
 👸	nv wang	-5
-👸	princess	-6
 👸	xiao gong zhu	-5
 👹	guai wu	-5
-👹	japanese ogre	-6
 👺	guai wu	-5
-👺	japanese goblin	-6
 👺	yao guai	-5
 👻	biao qing	-5
-👻	ghost	-6
 👻	gui	-5
 👻	gui hun	-5
 👻	you ling	-5
-👼	angel	-6
-👼	baby angel	-6
 👼	tian shi	-5
 👼	tian shi bao bao	-5
 👼	xiao tian shi	-5
-👽	alien	-6
 👽	biao qing	-5
-👽	extraterrestrial alien	-6
 👽	wai xing ren	-5
-👾	alien monster	-6
 👾	guai shou	-5
 👾	guai wu	-5
-👾	space invader	-6
 👾	wai xing guai wu	-5
 👾	yi xing guai shou	-5
 👿	biao qing	-5
 👿	e mo	-5
 👿	e mo sheng qi	-5
-👿	imp	-6
 👿	mo gui	-5
-👿	sheng qi de e mo	-5
 👿	sheng qi e mo	-5
 💀	biao qing	-5
 💀	ku lou	-5
 💀	ku lou tou	-5
 💀	si wang	-5
-💀	skull	-6
 💀	tou gu	-5
-💁	information desk person	-6
 💁‍♀️	fu wu sheng	-5
 💁‍♀️	fu wu yuan	-5
 💁‍♀️	nv fu wu sheng	-5
 💁‍♀️	nv fu wu yuan	-5
-💁‍♀️	woman tipping hand	-6
 💁‍♂️	fu wu sheng	-5
 💁‍♂️	fu wu yuan	-5
-💁‍♂️	man tipping hand	-6
 💁‍♂️	nan fu wu sheng	-5
 💁‍♂️	nan fu wu yuan	-5
-💂	guardsman	-6
-💂‍♀️	female guard	-6
 💂‍♀️	nv wei bing	-5
 💂‍♀️	nv wei shi	-5
 💂‍♀️	wei bing	-5
 💂‍♀️	wei shi	-5
-💂‍♀️	woman guard	-6
-💂‍♂️	male guard	-6
-💂‍♂️	man guard	-6
 💂‍♂️	nan wei bing	-5
 💂‍♂️	nan wei shi	-5
 💂‍♂️	wei bing	-5
 💂‍♂️	wei shi	-5
-💃	dancer	-6
 💃	tiao wu	-5
-💃	tiao wu de nv ren	-5
 💃	wu nv	-5
 💄	chun gao	-5
 💄	kou hong	-5
-💄	lipstick	-6
 💄	ri yong	-5
 💅	mei jia	-5
-💅	nail care	-6
-💅	nail polish	-6
 💅	shou shi	-5
 💅	tu zhi jia you	-5
 💅	zhi jia you	-5
 💅	zuo mei jia	-5
 💅	zuo zhi jia	-5
-💆	face massage	-6
-💆	massage	-6
 💆‍♀️	an mo	-5
 💆‍♀️	mei rong	-5
-💆‍♀️	woman getting massage	-6
 💆‍♂️	an mo	-5
-💆‍♂️	man getting massage	-6
 💆‍♂️	mei rong	-5
-💇	haircut	-6
 💇‍♀️	jian fa	-5
 💇‍♀️	jian tou	-5
 💇‍♀️	jian tou fa	-5
@@ -4821,7 +2917,6 @@ columns:
 💇‍♀️	li tou	-5
 💇‍♀️	li tou fa	-5
 💇‍♀️	mei rong mei fa	-5
-💇‍♀️	woman getting haircut	-6
 💇‍♀️	zuo zao xing	-5
 💇‍♂️	jian fa	-5
 💇‍♂️	jian tou	-5
@@ -4829,24 +2924,17 @@ columns:
 💇‍♂️	li fa	-5
 💇‍♂️	li tou	-5
 💇‍♂️	li tou fa	-5
-💇‍♂️	man getting haircut	-6
 💇‍♂️	mei rong mei fa	-5
 💇‍♂️	zuo zao xing	-5
-💈	barber	-6
-💈	barber pole	-6
 💈	li fa dian	-5
-💈	li fa dian zhao pai	-5
 💉	da zhen	-5
-💉	syringe	-6
 💉	zhu she qi	-5
 💊	jiao nang	-5
-💊	pill	-6
 💊	yao wan	-5
 💋	chun	-5
 💋	chun yin	-5
 💋	hong chun	-5
-💋	kiss	-6
-💋	kiss mark	-6
+💋	kiss	-5
 💋	me me	-5
 💋	me me da	-5
 💋	qin wen	-5
@@ -4854,37 +2942,25 @@ columns:
 💋	qing	-5
 💋	wen	-5
 💋	wen hen	-5
-💌	love letter	-6
 💌	qing shu	-5
 💍	ding hun jie	-5
 💍	jie zhi	-5
 💍	qiu hun jie	-5
-💍	ring	-6
 💍	xing zuan	-5
 💍	zuan jie	-5
 💎	bao shi	-5
-💎	gem	-6
-💎	gem stone	-6
 💎	zuan shi	-5
-💏	couplekiss	-6
-💏	kiss	-6
-💐	bouquet	-6
 💐	hua	-5
 💐	hua duo	-5
 💐	hua shu	-5
 💐	peng hua	-5
 💐	xian hua	-5
-💑	couple with heart	-6
 💒	hun li	-5
 💒	jiao tang	-5
-💒	wedding	-6
 💓	ai qing	-5
-💓	beating heart	-6
-💓	heartbeat	-6
 💓	love	-5
 💓	xin dong	-5
 💓	xin tiao	-5
-💔	broken heart	-6
 💔	shang xin	-5
 💔	shi lian	-5
 💔	xin sui	-5
@@ -4892,27 +2968,18 @@ columns:
 💕	fen se de xin	-5
 💕	liang ke xin	-5
 💕	love	-5
-💕	two hearts	-6
 💖	ai xin	-5
 💖	shan liang de xin	-5
-💖	sparkling heart	-6
 💗	bo dong de xin	-5
-💗	growing heart	-6
-💗	heartpulse	-6
-💗	peng zhang de ai xin	-5
 💗	peng zhang de xin	-5
-💘	cupid	-6
-💘	heart with arrow	-6
 💘	qiu bi te	-5
 💘	xin zhong jian le	-5
 💘	yi jian chuan xin	-5
-💙	blue heart	-6
 💙	lan se de xin	-5
 💙	lan se xin	-5
 💙	lan xin	-5
 💙	xin xin	-5
 💙	yan se	-5
-💚	green heart	-6
 💚	lv se de xin	-5
 💚	lv se xin	-5
 💚	lv xin	-5
@@ -4923,37 +2990,23 @@ columns:
 💛	huang xin	-5
 💛	xin xin	-5
 💛	yan se	-5
-💛	yellow heart	-6
-💜	purple heart	-6
 💜	xin xin	-5
 💜	yan se	-5
 💜	zi se de xin	-5
 💜	zi se xin	-5
 💜	zi xin	-5
 💝	ai de li wu	-5
-💝	gift heart	-6
-💝	heart with ribbon	-6
-💝	shi yi si dai de xin	-5
-💝	song ni yi ke xin	-5
-💝	xi you duan dai de xin	-5
-💞	revolving hearts	-6
 💞	wu dong de xin	-5
 💞	xin lian xin	-5
 💞	xuan zhuan de xin	-5
-💟	heart decoration	-6
 💟	xin xing	-5
 💟	xin xing zhuang shi	-5
-💠	diamond shape with a dot inside	-6
 💡	bai chi deng	-5
-💡	bulb	-6
 💡	deng	-5
 💡	deng pao	-5
 💡	dian deng	-5
 💡	dian deng pao	-5
 💡	dian qi	-5
-💡	electric light bulb	-6
-💢	anger	-6
-💢	anger symbol	-6
 💢	angry	-5
 💢	fen nu	-5
 💢	huo da	-5
@@ -4961,7 +3014,6 @@ columns:
 💢	qing jin	-5
 💢	sheng qi	-5
 💢	sheng qi fu hao	-5
-💣	bomb	-6
 💣	boom	-5
 💣	zha dan	-5
 💤	shui jiao	-5
@@ -4970,18 +3022,11 @@ columns:
 💤	shui mian fu hao	-5
 💤	shui zhao le	-5
 💤	shui zhe	-5
-💤	sleeping symbol	-6
-💤	zzz	-6
+💤	zzz	-5
 💥	bao zha	-5
-💥	boom	-6
-💥	collision	-6
-💥	collision symbol	-6
 💦	shui di	-5
 💦	shui zhu	-5
-💦	splashing sweat symbol	-6
-💦	sweat drops	-6
 💧	da zi ran	-5
-💧	droplet	-6
 💧	han di	-5
 💧	shui di	-5
 💧	shui zhu	-5
@@ -4990,8 +3035,6 @@ columns:
 💧	yuan su	-5
 💧	zi ran	-5
 💨	da zi ran	-5
-💨	dash	-6
-💨	dash symbol	-6
 💨	qi xiang	-5
 💨	tian qi	-5
 💨	zhen feng	-5
@@ -5000,46 +3043,32 @@ columns:
 💩	biao qing	-5
 💩	chang yong	-5
 💩	da bian	-5
-💩	hankey	-6
 💩	la ba ba	-5
 💩	la bian bian	-5
 💩	la da bian	-5
 💩	la shi	-5
 💩	pian pian	-5
-💩	pile of poo	-6
-💩	poop	-6
 💩	shi	-5
-💩	shit	-6
 💪	er tou ji	-5
 💪	fen dou	-5
-💪	flexed biceps	-6
 💪	gong er tou	-5
 💪	gong er tou ji	-5
 💪	ji rou	-5
 💪	jia you	-5
 💪	jian shen	-5
-💪	muscle	-6
 💪	nu li	-5
 💪	qiang zhuang	-5
 💪	shou shi	-5
 💪	xiu ji rou	-5
-💫	dizzy	-6
-💫	dizzy symbol	-6
 💫	tou yun mu xuan	-5
 💫	ye kong	-5
 💫	ye wan	-5
 💬	dui hua kuang	-5
 💬	dui hua qi pao	-5
-💬	speech balloon	-6
 💭	dui hua kuang	-5
-💭	nei xin huo dong qi pao	-5
 💭	si kao qi pao	-5
-💭	thought balloon	-6
 💮	bai hua	-5
 💮	bai se de hua	-5
-💮	white flower	-6
-💯	100	-6
-💯	hundred points symbol	-6
 💯	man fen	-5
 💯	yi bai	-5
 💯	yi bai fen	-5
@@ -5047,81 +3076,57 @@ columns:
 💰	jiang jin	-5
 💰	jin qian	-5
 💰	money	-5
-💰	money bag	-6
-💰	moneybag	-6
 💰	qian	-5
 💰	qian dai	-5
 💱	chu guo	-5
-💱	currency exchange	-6
 💱	dui huan	-5
 💱	huan hui	-5
 💱	hui lv	-5
 💱	huo bi dui huan	-5
 💱	liu tong	-5
 💱	wai hui	-5
-💲	cu mei yuan fu hao	-5
-💲	heavy dollar sign	-6
 💲	huo bi	-5
 💲	jia qian	-5
 💲	jin qian	-5
 💲	mei yuan	-5
-💳	credit card	-6
 💳	dai ji ka	-5
 💳	jie ji ka	-5
 💳	xin yong ka	-5
 💳	yin hang ka	-5
-💴	banknote with yen sign	-6
 💴	chao piao	-5
 💴	huo bi	-5
 💴	ri yuan	-5
 💴	ri yuan chao piao	-5
 💴	wai hui	-5
-💴	yen	-6
 💴	zhi bi	-5
-💵	banknote with dollar sign	-6
 💵	chao piao	-5
-💵	dollar	-6
 💵	huo bi	-5
 💵	mei yuan	-5
 💵	mei yuan chao piao	-5
 💵	wai hui	-5
 💵	zhi bi	-5
-💶	banknote with euro sign	-6
 💶	chao piao	-5
-💶	euro	-6
 💶	huo bi	-5
 💶	ou yuan	-5
 💶	ou yuan chao piao	-5
 💶	wai hui	-5
 💶	zhi bi	-5
-💷	banknote with pound sign	-6
 💷	chao piao	-5
 💷	huo bi	-5
-💷	pound	-6
 💷	wai hui	-5
 💷	ying bang	-5
 💷	ying bang chao piao	-5
 💷	zhi bi	-5
 💸	chi bang qian	-5
 💸	hua qian	-5
-💸	money with wings	-6
 💸	qian fei le	-5
-💸	zhang chi bang de qian	-5
-💸	zhang le chi bang de qian	-5
-💹	chart	-6
-💹	chart with upwards trend and yen sign	-6
-💺	seat	-6
 💺	zuo wei	-5
 💻	bi dian	-5
-💻	bi ji ben dian nao	-5
-💻	computer	-6
 💻	dian zi	-5
 💻	ge ren dian nao	-5
-💻	personal computer	-6
 💻	shou ti dian nao	-5
 💻	shu ma	-5
 💼	bao	-5
-💼	briefcase	-6
 💼	gong shi bao	-5
 💼	gong wen bao	-5
 💼	gong zuo	-5
@@ -5132,105 +3137,73 @@ columns:
 💽	guang pan	-5
 💽	mi ni guang die	-5
 💽	mi ni guang pan	-5
-💽	minidisc	-6
 💽	shu ma	-5
 💾	dian zi	-5
-💾	floppy disk	-6
 💾	ruan pan	-5
 💾	shu ma	-5
-💿	cd	-6
+💿	cd	-5
 💿	dian zi	-5
-💿	optical disc	-6
 💿	shu ma	-5
 📀	dian zi	-5
-📀	dvd	-6
+📀	dvd	-5
 📀	shu ma	-5
-📁	file folder	-6
 📁	wen jian jia	-5
-📂	open file folder	-6
 📂	wen jian jia	-5
-📃	dai juan bian de zhi	-5
 📃	juan bian de zhi	-5
-📃	page with curl	-6
-📄	page facing up	-6
 📄	wen jian	-5
 📄	wen shu	-5
 📄	zhi	-5
-📅	calendar	-6
-📅	date	-6
 📅	ri li	-5
-📆	calendar	-6
 📆	shou si ri li	-5
-📆	tear off calendar	-6
-📇	card index	-6
 📇	ka pai suo yin	-5
 📇	ka pian suo yin	-5
 📈	bao zhang	-5
-📈	chart with upwards trend	-6
 📈	shang sheng	-5
 📈	shang zhang	-5
 📉	bao die	-5
-📉	chart with downwards trend	-6
 📉	xia die	-5
 📉	xia jiang	-5
-📊	bar chart	-6
 📊	tiao xing tu	-5
 📊	tu biao	-5
 📊	zhu xing tu	-5
 📊	zhu zhuang tu	-5
-📋	clipboard	-6
 📋	jian tie ban	-5
 📋	xie zi ban	-5
-📌	pushpin	-6
 📌	tu ding	-5
 📍	da tou zhen	-5
-📍	round pushpin	-6
 📍	yuan tu ding	-5
 📎	hui xing zhen	-5
-📎	paperclip	-6
 📎	qu bie zhen	-5
 📏	chi zi	-5
-📏	straight ruler	-6
 📏	zhi chi	-5
 📐	san jiao ban	-5
 📐	san jiao chi	-5
-📐	triangular ruler	-6
 📑	biao qian ye	-5
-📑	bookmark tabs	-6
 📑	shu qian biao qian	-5
 📑	ye qian	-5
 📒	bi ji ben	-5
 📒	ji shi ben	-5
-📒	ledger	-6
 📒	ri ji ben	-5
 📒	zhang bu	-5
 📓	bi ji ben	-5
 📓	ji shi ben	-5
-📓	notebook	-6
 📓	ri ji ben	-5
 📔	bi ji ben	-5
 📔	ji shi ben	-5
-📔	notebook with decorative cover	-6
 📔	ri ji ben	-5
-📕	closed book	-6
 📕	di yi juan	-5
 📕	hong se de shu	-5
 📕	hong se shu ben	-5
 📕	xiao hong shu	-5
-📖	book	-6
 📖	da kai de shu	-5
-📖	da kai de shu ben	-5
-📖	open book	-6
 📖	shu	-5
 📖	shu ben	-5
 📖	shu ji	-5
 📖	tu shu	-5
 📗	di er juan	-5
-📗	green book	-6
 📗	jiao ke shu	-5
 📗	lv se de shu	-5
 📗	lv se shu ben	-5
-📘	blue book	-6
 📘	di san juan	-5
 📘	lan se de shu	-5
 📘	lan se shu ben	-5
@@ -5239,57 +3212,40 @@ columns:
 📙	di si juan	-5
 📙	ju se de shu	-5
 📙	ju se shu ben	-5
-📙	orange book	-6
-📚	books	-6
 📚	shu	-5
 📚	shu ben	-5
 📚	shu ji	-5
 📚	tu shu	-5
-📛	name badge	-6
 📛	xing ming pai	-5
 📜	juan zhou	-5
-📜	scroll	-6
 📝	bei wang	-5
 📝	bei wang lu	-5
 📝	bian jian	-5
-📝	memo	-6
-📝	pencil	-6
 📞	dian hua ting tong	-5
 📞	dian hua tong	-5
 📞	dian qi	-5
-📞	telephone receiver	-6
 📟	chuan hu ji	-5
 📟	dian qi	-5
 📟	hu ji	-5
-📟	pager	-6
 📟	xun hu ji	-5
 📠	chuan zhen	-5
 📠	chuan zhen ji	-5
 📠	dian qi	-5
 📠	fa chuan zhen	-5
-📠	fax	-6
-📠	fax machine	-6
 📡	dian qi	-5
 📡	duo mei ti	-5
 📡	jie shou tian xian	-5
-📡	satellite antenna	-6
 📡	tian xian	-5
 📡	wei xing tian xian	-5
 📢	gong gong guang bo	-5
 📢	la ba	-5
-📢	loudspeaker	-6
-📢	public address loudspeaker	-6
-📣	cheering megaphone	-6
 📣	da la ba	-5
 📣	la ba	-5
 📣	la ba tong	-5
-📣	mega	-6
 📤	fa jian	-5
 📤	fa jian xiang	-5
 📤	fa xin	-5
 📤	fa you jian	-5
-📤	outbox tray	-6
-📥	inbox tray	-6
 📥	shou dao you jian	-5
 📥	shou jian	-5
 📥	shou jian xiang	-5
@@ -5299,150 +3255,85 @@ columns:
 📦	da bao	-5
 📦	he zi	-5
 📦	kuai di	-5
-📦	package	-6
 📦	xiang zi	-5
 📦	zhi xiang	-5
 📦	zhi xiang zi	-5
 📧	dian zi you jian	-5
-📧	e mail	-6
-📧	e mail symbol	-6
 📧	email	-5
 📧	you jian	-5
-📨	incoming envelope	-6
 📨	lai xin	-5
 📨	shou dao lai xin	-5
 📨	shou dao you jian	-5
 📨	xin you jian	-5
-📩	envelope with arrow	-6
-📩	envelope with downwards arrow above	-6
-📪	closed mailbox with lowered flag	-6
-📪	mailbox closed	-6
 📪	xin xiang	-5
-📫	closed mailbox with raised flag	-6
-📫	mailbox	-6
-📬	mailbox with mail	-6
-📬	open mailbox with raised flag	-6
-📭	mailbox with no mail	-6
-📭	open mailbox with lowered flag	-6
-📮	postbox	-6
 📮	you tong	-5
 📮	you xiang	-5
-📯	postal horn	-6
 📯	you zheng la ba	-5
 📰	bao zhi	-5
-📰	newspaper	-6
 📰	xin wen	-5
 📱	dian zi	-5
-📱	iphone	-6
-📱	mobile phone	-6
 📱	shou ji	-5
 📱	shu ma	-5
 📱	yi dong dian hua	-5
 📱	zhi neng shou ji	-5
-📲	calling	-6
 📲	lai dian	-5
 📲	shou ji lai dian	-5
-📳	vibration mode	-6
 📳	zhen dong	-5
 📳	zhen dong mo shi	-5
 📴	guan bi shou ji	-5
 📴	guan ji	-5
-📴	mobile phone off	-6
 📴	shou ji guan ji	-5
-📵	jin zhi da dian hua	-5
-📵	jin zhi shi yong shou ji	-5
-📵	no mobile phones	-6
-📶	antenna with bars	-6
 📶	shou ji xin hao	-5
-📶	signal strength	-6
 📶	xin hao	-5
 📶	xin hao qiang du	-5
-📶	xin hao qiang du tiao	-5
-📷	camera	-6
 📷	dian zi	-5
 📷	duo mei ti	-5
 📷	ka pian xiang ji	-5
 📷	shu ma	-5
 📷	xiang ji	-5
 📷	zhao xiang ji	-5
-📸	camera with flash	-6
-📸	kai shan guang deng de xiang ji	-5
 📸	pai zhao	-5
 📸	shan guang deng	-5
-📸	shan guang deng da kai	-5
 📹	dian zi	-5
 📹	duo mei ti	-5
 📹	she xiang ji	-5
 📹	shu ma	-5
-📹	video camera	-6
 📺	dian qi	-5
 📺	dian shi	-5
 📺	dian shi ji	-5
-📺	television	-6
-📺	tv	-6
+📺	tv	-5
 📻	dian qi	-5
 📻	dian tai	-5
-📻	radio	-6
 📻	shou yin ji	-5
 📻	wu xian dian	-5
 📼	ci dai	-5
 📼	lu xiang dai	-5
 📼	lu ying dai	-5
-📼	vhs	-6
-📼	videocassette	-6
-📽	dian ying fang ying ji	-5
 📽	fang ying ji	-5
 📽	shang ying	-5
 📽️	duo mei ti	-5
-📽️	film projector	-6
 📿	nian zhu	-5
-📿	prayer beads	-6
 🔀	jiao cha jian tou	-5
 🔀	sui ji	-5
 🔀	sui ji bo fang	-5
-🔀	twisted rightwards arrows	-6
-🔁	repeat	-6
 🔁	xun huan bo fang	-5
 🔂	dan qu xun huan	-5
-🔂	repeat one	-6
-🔃	arrows clockwise	-6
 🔃	chong xin zai ru	-5
 🔃	shun shi zhen	-5
-🔃	shun shi zhen chui zhi jian tou	-5
-🔃	shun shi zhen fang xiang	-5
-🔄	arrows counterclockwise	-6
 🔄	ni shi zhen	-5
-🔄	ni shi zhen chui zhi jian tou	-5
-🔄	ni shi zhen fang xiang	-5
 🔅	di liang du	-5
 🔅	liang du	-5
 🔅	liang du di	-5
-🔅	low brightness	-6
-🔅	low brightness symbol	-6
 🔆	gao liang du	-5
-🔆	high brightness	-6
-🔆	high brightness symbol	-6
 🔆	liang du	-5
 🔆	liang du gao	-5
 🔇	jing yin	-5
-🔇	mute	-6
-🔇	speaker with cancellation stroke	-6
-🔇	yang sheng qi guan bi	-5
-🔇	yi jing yin de yang sheng qi	-5
-🔈	speaker	-6
 🔈	yang sheng qi	-5
-🔉	sound	-6
-🔉	speaker with one sound wave	-6
 🔉	yang sheng qi	-5
 🔉	zhong deng yin liang	-5
-🔉	zhong deng yin liang de yang sheng qi	-5
 🔊	da yin liang	-5
 🔊	gao yin liang	-5
-🔊	gao yin liang de yang sheng qi	-5
-🔊	loud sound	-6
-🔊	speaker with three sound waves	-6
 🔊	yang sheng qi	-5
-🔋	battery	-6
 🔋	dian chi	-5
 🔋	dian liang	-5
 🔋	dian yuan	-5
@@ -5451,24 +3342,13 @@ columns:
 🔌	dian cha tou	-5
 🔌	dian yuan	-5
 🔌	dian yuan cha tou	-5
-🔌	electric plug	-6
 🔍	fang da jing	-5
-🔍	left pointing magnifying glass	-6
-🔍	mag	-6
 🔎	fang da jing	-5
-🔎	mag right	-6
-🔎	right pointing magnifying glass	-6
-🔏	dai mo shui bi de suo	-5
-🔏	lock with ink pen	-6
 🔏	yin mi	-5
-🔐	closed lock with key	-6
 🔐	jie suo	-5
 🔐	mi yue	-5
-🔐	yi suo shang dan gua zhe yao shi de suo	-5
-🔑	key	-6
 🔑	yao shi	-5
 🔒	he shang de suo	-5
-🔒	lock	-6
 🔒	men suo	-5
 🔒	shang suo	-5
 🔒	suo	-5
@@ -5479,78 +3359,53 @@ columns:
 🔓	jie suo	-5
 🔓	kai suo	-5
 🔓	men suo	-5
-🔓	open lock	-6
 🔓	suo	-5
 🔓	suo tou	-5
-🔓	unlock	-6
-🔔	bell	-6
 🔔	ling dang	-5
-🔕	bell with cancellation stroke	-6
 🔕	jin zhi xiang ling	-5
 🔕	jing yin ling dang	-5
-🔕	no bell	-6
 🔕	xiang ling guan bi	-5
-🔖	bookmark	-6
 🔖	shu qian	-5
 🔗	lian jie	-5
-🔗	link	-6
-🔗	link symbol	-6
+🔗	link	-5
 🔘	an niu	-5
 🔘	dan xuan	-5
 🔘	dan xuan an niu	-5
 🔘	dan xuan kuang	-5
-🔘	radio button	-6
-🔙	back	-6
-🔙	back with leftwards arrow above	-6
+🔙	back	-5
 🔙	tui hui	-5
-🔚	end	-6
-🔚	end with leftwards arrow above	-6
+🔚	end	-5
 🔚	jie shu	-5
 🔛	kai qi	-5
-🔛	on	-6
+🔛	on	-5
 🔜	ma shang	-5
-🔜	soon	-6
-🔜	soon with rightwards arrow above	-6
-🔝	top	-6
-🔝	top with upwards arrow above	-6
+🔜	soon	-5
+🔝	top	-5
 🔞	cheng ren	-5
-🔞	no one under eighteen symbol	-6
 🔞	shi ba jin	-5
-🔞	underage	-6
 🔞	wei cheng nian	-5
-🔞	wei cheng nian bu yi	-5
-🔟	keycap ten	-6
 🔟	shi	-5
 🔠	abcd	-5
-🔠	capital abcd	-6
 🔠	da xie	-5
 🔠	da xie zi mu	-5
-🔠	input symbol for latin capital letters	-6
 🔠	la ding wen	-5
 🔠	ying wen	-5
 🔠	ying wen da xie	-5
 🔠	ying yu	-5
-🔡	abcd	-6
-🔡	input symbol for latin small letters	-6
+🔡	abcd	-5
 🔡	la ding wen	-5
 🔡	xiao xie	-5
 🔡	xiao xie zi mu	-5
 🔡	ying wen	-5
 🔡	ying wen xiao xie	-5
 🔡	ying yu	-5
-🔢	1234	-6
-🔢	input symbol for numbers	-6
 🔢	shu zi	-5
 🔢	yi er san si	-5
 🔣	fu hao	-5
-🔣	input symbol for symbols	-6
-🔣	symbols	-6
 🔣	zi fu	-5
-🔤	abc	-6
-🔤	input symbol for latin letters	-6
+🔤	abc	-5
 🔥	da zi ran	-5
 🔥	dian ran	-5
-🔥	fire	-6
 🔥	huo	-5
 🔥	huo le	-5
 🔥	huo yan	-5
@@ -5561,8 +3416,6 @@ columns:
 🔥	zi ran	-5
 🔦	dian qi	-5
 🔦	dian tong	-5
-🔦	electric torch	-6
-🔦	flashlight	-6
 🔦	shou dian	-5
 🔦	shou dian tong	-5
 🔦	zhao ming	-5
@@ -5570,340 +3423,184 @@ columns:
 🔧	gong ju	-5
 🔧	ji xie	-5
 🔧	luo si ban shou	-5
-🔧	wrench	-6
 🔨	chui zi	-5
 🔨	gong ju	-5
-🔨	hammer	-6
 🔨	ji xie	-5
 🔨	tie chui	-5
 🔩	gong ju	-5
 🔩	ji xie	-5
-🔩	luo mu he luo shuan	-5
-🔩	luo mu ji luo shuan	-5
 🔩	luo mu luo shuan	-5
-🔩	luo mu yu luo shuan	-5
-🔩	nut and bolt	-6
 🔪	cai dao	-5
 🔪	dao	-5
-🔪	hocho	-6
-🔪	knife	-6
 🔪	shui guo dao	-5
 🔪	wu qi	-5
 🔪	xiao dao	-5
-🔫	gun	-6
-🔫	pistol	-6
 🔫	shui qiang	-5
 🔫	wan ju qiang	-5
 🔫	wu qi	-5
 🔫	zi shui qiang	-5
 🔬	ke xue	-5
-🔬	microscope	-6
 🔬	xian wei jing	-5
 🔭	ke xue	-5
-🔭	telescope	-6
 🔭	wang yuan jing	-5
-🔮	crystal ball	-6
 🔮	shui jing qiu	-5
 🔮	zhan bu	-5
 🔯	liu jiao xing	-5
 🔯	liu mang xing	-5
 🔯	mo fa zhen	-5
-🔯	six pointed star	-6
-🔯	six pointed star with middle dot	-6
 🔯	zong jiao	-5
-🔰	beginner	-6
-🔰	japanese symbol for beginner	-6
-🔰	ri ben chu xue zhe biao zhi	-5
-🔰	ri ben xin shou jia shi biao zhi	-5
 🔱	san cha ji	-5
-🔱	san cha ji biao zhi	-5
-🔱	trident	-6
-🔱	trident emblem	-6
-🔲	black square button	-6
 🔲	fang xing an niu	-5
-🔲	hei bian xian fang xing an niu	-5
-🔲	hei bian xian zheng fang xing an niu	-5
-🔲	hei se fang xing an niu	-5
-🔲	hei se zheng fang xing an niu	-5
-🔲	hei xian fang xing an niu	-5
-🔲	hei xian zheng fang xing an niu	-5
-🔳	bai bian xian fang xing an niu	-5
-🔳	bai bian xian zheng fang xing an niu	-5
-🔳	bai se fang xing an niu	-5
-🔳	bai se zheng fang xing an niu	-5
-🔳	bai xian fang xing an niu	-5
-🔳	bai xian zheng fang xing an niu	-5
 🔳	fang xing an niu	-5
-🔳	white square button	-6
 🔴	hong se	-5
-🔴	large red circle	-6
-🔴	red circle	-6
 🔴	yan se	-5
 🔴	yuan xing	-5
 🔵	lan se	-5
-🔵	large blue circle	-6
 🔵	yan se	-5
 🔵	yuan xing	-5
-🔶	cheng se da ling xing	-5
 🔶	cheng se ling xing	-5
 🔶	da ling xing	-5
-🔶	ju huang se da ling xing	-5
-🔶	ju huang se ling xing	-5
-🔶	ju se da ling xing	-5
 🔶	ju se ling xing	-5
-🔶	large orange diamond	-6
 🔶	ling xing	-5
 🔷	da ling xing	-5
-🔷	lan se da ling xing	-5
 🔷	lan se ling xing	-5
-🔷	large blue diamond	-6
 🔷	ling xing	-5
-🔸	cheng se xiao ling xing	-5
-🔸	ju huang se xiao ling xing	-5
-🔸	ju se xiao ling xing	-5
-🔸	small orange diamond	-6
 🔸	xiao fang pian	-5
 🔸	xiao ling xing	-5
-🔹	lan se xiao ling xing	-5
-🔹	small blue diamond	-6
 🔹	xiao fang pian	-5
 🔹	xiao ling xing	-5
-🔺	hong se zheng san jiao	-5
 🔺	san jiao	-5
 🔺	san jiao xing	-5
-🔺	small red triangle	-6
-🔺	up pointing red triangle	-6
 🔺	zheng san jiao	-5
 🔻	dao san jiao	-5
-🔻	down pointing red triangle	-6
-🔻	hong se dao san jiao	-5
 🔻	san jiao	-5
 🔻	san jiao xing	-5
-🔻	small red triangle down	-6
-🔼	arrow up small	-6
 🔼	shang san jiao	-5
 🔼	tiao gao	-5
-🔼	up pointing small red triangle	-6
-🔽	arrow down small	-6
-🔽	down pointing small red triangle	-6
 🔽	tiao di	-5
 🔽	xia san jiao	-5
 🕉	ao mu	-5
 🕉	ao mu fu hao	-5
-🕉️	om	-6
-🕉️	om symbol	-6
 🕉️	zong jiao	-5
 🕊	dong wu	-5
 🕊	ge zi	-5
-🕊	he ping de xiang zheng	-5
 🕊	he ping xiang zheng	-5
 🕊️	dong wu	-5
-🕊️	dove	-6
-🕊️	dove of peace	-6
 🕊️	niao	-5
-🕋	kaaba	-6
 🕋	ke er bai	-5
 🕋	zong jiao	-5
-🕌	mosque	-6
 🕌	qing zhen	-5
 🕌	qing zhen si	-5
 🕌	zong jiao	-5
-🕍	synagogue	-6
-🕍	you tai jiao hui tang	-5
 🕍	you tai jiao tang	-5
 🕍	zong jiao	-5
 🕎	guang ming jie	-5
-🕎	menorah with nine branches	-6
 🕎	zong jiao	-5
-🕐	clock face one oclock	-6
-🕐	clock1	-6
 🕐	shi zhong	-5
 🕐	yi dian	-5
 🕐	yi dian zhong	-5
-🕑	clock face two oclock	-6
-🕑	clock2	-6
 🕑	liang dian	-5
 🕑	liang dian zhong	-5
 🕑	shi zhong	-5
-🕒	clock face three oclock	-6
-🕒	clock3	-6
 🕒	san dian	-5
 🕒	san dian zhong	-5
 🕒	shi zhong	-5
-🕓	clock face four oclock	-6
-🕓	clock4	-6
 🕓	shi zhong	-5
 🕓	si dian	-5
 🕓	si dian zhong	-5
-🕔	clock face five oclock	-6
-🕔	clock5	-6
 🕔	shi zhong	-5
 🕔	wu dian	-5
 🕔	wu dian zhong	-5
-🕕	clock face six oclock	-6
-🕕	clock6	-6
 🕕	liu dian	-5
 🕕	liu dian zhong	-5
 🕕	shi zhong	-5
-🕖	clock face seven oclock	-6
-🕖	clock7	-6
 🕖	qi dian	-5
 🕖	qi dian zhong	-5
 🕖	shi zhong	-5
 🕗	ba dian	-5
 🕗	ba dian zhong	-5
-🕗	clock face eight oclock	-6
-🕗	clock8	-6
 🕗	shi zhong	-5
-🕘	clock face nine oclock	-6
-🕘	clock9	-6
 🕘	jiu dian	-5
 🕘	jiu dian zhong	-5
 🕘	shi zhong	-5
-🕙	clock face ten oclock	-6
-🕙	clock10	-6
 🕙	shi dian	-5
 🕙	shi dian zhong	-5
 🕙	shi zhong	-5
-🕚	clock face eleven oclock	-6
-🕚	clock11	-6
 🕚	shi yi dian	-5
 🕚	shi yi dian zhong	-5
 🕚	shi zhong	-5
-🕛	clock face twelve oclock	-6
-🕛	clock12	-6
 🕛	shi er dian	-5
 🕛	shi er dian zhong	-5
 🕛	shi zhong	-5
-🕜	clock face one thirty	-6
-🕜	clock130	-6
 🕜	shi zhong	-5
 🕜	yi dian ban	-5
-🕝	clock face two thirty	-6
-🕝	clock230	-6
 🕝	liang dian ban	-5
 🕝	shi zhong	-5
-🕞	clock face three thirty	-6
-🕞	clock330	-6
 🕞	san dian ban	-5
 🕞	shi zhong	-5
-🕟	clock face four thirty	-6
-🕟	clock430	-6
 🕟	shi zhong	-5
 🕟	si dian ban	-5
-🕠	clock face five thirty	-6
-🕠	clock530	-6
 🕠	shi zhong	-5
 🕠	wu dian ban	-5
-🕡	clock face six thirty	-6
-🕡	clock630	-6
 🕡	liu dian ban	-5
 🕡	shi zhong	-5
-🕢	clock face seven thirty	-6
-🕢	clock730	-6
 🕢	qi dian ban	-5
 🕢	shi zhong	-5
 🕣	ba dian ban	-5
-🕣	clock face eight thirty	-6
-🕣	clock830	-6
 🕣	shi zhong	-5
-🕤	clock face nine thirty	-6
-🕤	clock930	-6
 🕤	jiu dian ban	-5
 🕤	shi zhong	-5
-🕥	clock face ten thirty	-6
-🕥	clock1030	-6
 🕥	shi dian ban	-5
 🕥	shi zhong	-5
-🕦	clock face eleven thirty	-6
-🕦	clock1130	-6
 🕦	shi yi dian ban	-5
 🕦	shi zhong	-5
-🕧	clock face twelve thirty	-6
-🕧	clock1230	-6
 🕧	shi er dian ban	-5
 🕧	shi zhong	-5
 🕯	la zhu	-5
 🕯	zhu guang	-5
 🕯	zhu huo	-5
-🕯️	candle	-6
 🕰	bi lu zhong	-5
 🕰	tai zhong	-5
 🕰	zuo zhong	-5
 🕰️	dian qi	-5
-🕰️	mantelpiece clock	-6
 🕳	keng	-5
 🕳	tong	-5
 🕳	xia shui dao	-5
-🕳️	hole	-6
-🕴	fu zai di mian shang de xi zhuang nan	-5
-🕴️	man in business suit levitating	-6
-🕴️	person in suit levitating	-6
-🕵️	detective	-6
-🕵️	sleuth or spy	-6
-🕵️‍♀️	female detective	-6
 🕵️‍♀️	nv zhen tan	-5
-🕵️‍♀️	woman detective	-6
 🕵️‍♀️	zhen tan	-5
-🕵️‍♂️	male detective	-6
-🕵️‍♂️	man detective	-6
 🕵️‍♂️	nan zhen tan	-5
 🕵️‍♂️	zhen tan	-5
 🕶	mo jing	-5
 🕶	tai yang jing	-5
-🕶️	dark sunglasses	-6
-🕶️	sunglasses	-6
 🕶️	yan jing	-5
 🕷	dong wu	-5
 🕷	zhi zhu	-5
 🕷️	dong wu	-5
-🕷️	spider	-6
 🕸	zhi zhu wang	-5
 🕸	zhu wang	-5
-🕸️	spider web	-6
 🕹	cao kong gan	-5
 🕹	yao gan	-5
-🕹	you xi cao kong gan	-5
 🕹	you xi yao gan	-5
-🕹️	joystick	-6
 🕹️	yu le	-5
-🕺	man dancing	-6
 🕺	tiao wu	-5
-🕺	tiao wu de nan ren	-5
 🕺	wu zhe	-5
 🖇	hui xing zhen	-5
 🖇	qu bie zhen	-5
-🖇️	linked paperclips	-6
 🖊	yuan zhu bi	-5
-🖊️	lower left ballpoint pen	-6
-🖊️	pen	-6
 🖋	gang bi	-5
-🖋️	fountain pen	-6
-🖋️	lower left fountain pen	-6
 🖌	hua bi	-5
-🖌️	lower left paintbrush	-6
-🖌️	paintbrush	-6
 🖍	la bi	-5
-🖍️	crayon	-6
-🖍️	lower left crayon	-6
 🖐	shou zhi zhang kai	-5
-🖐	shou zhi zhang kai de shou	-5
-🖐️	hand with fingers splayed	-6
-🖐️	raised hand with fingers splayed	-6
 🖐🏻	qi guan	-5
 🖕	bi zhong zhi	-5
 🖕	ju zhong zhi	-5
-🖕	middle finger	-6
 🖕	shou shi	-5
 🖕	shu zhong zhi	-5
 🖕	zhong zhi	-5
 🖖	shou shi	-5
 🖖	si bo ke	-5
-🖖	spock hand	-6
 🖖	wa ken	-5
-🖖	wa ken ju shou li	-5
 🖖	xing ji mi hang	-5
-🖤	black heart	-6
 🖤	hei se de xin	-5
 🖤	hei se xin	-5
 🖤	hei xin	-5
@@ -5914,137 +3611,83 @@ columns:
 🖥	tai shi dian nao	-5
 🖥	xian shi ping	-5
 🖥	xian shi qi	-5
-🖥️	desktop computer	-6
 🖥️	dian zi	-5
 🖥️	shu ma	-5
 🖨	da yin ji	-5
 🖨	yin shua ji	-5
 🖨️	dian zi	-5
-🖨️	printer	-6
 🖨️	shu ma	-5
 🖱	dian nao shu biao	-5
 🖱	shu biao	-5
-🖱️	computer mouse	-6
 🖱️	dian zi	-5
 🖱️	shu ma	-5
-🖱️	three button mouse	-6
 🖲	gui ji qiu	-5
-🖲️	trackball	-6
 🖲️	yu le	-5
-🖼	dai hua kuang de tu pian	-5
 🖼	dai kuang de hua	-5
 🖼	hua kuang	-5
 🖼	yi fu hua	-5
-🖼️	frame with picture	-6
-🖼️	framed picture	-6
-🗂	ka pian suo yin fen ge ka	-5
-🗂️	card index dividers	-6
-🗃	ka pian cun dang he	-5
 🗃	ka pian he	-5
-🗃️	card file box	-6
 🗄	wen jian gui	-5
-🗄️	file cabinet	-6
 🗑	fei zhi lou	-5
 🗑	la ji	-5
 🗑	la ji lou	-5
 🗑	la ji tong	-5
-🗑️	wastebasket	-6
 🗒	xian quan ben	-5
-🗒	xian quan bi ji ben	-5
-🗒️	spiral note pad	-6
-🗒️	spiral notepad	-6
 🗓	xian quan ri li	-5
-🗓️	spiral calendar	-6
-🗓️	spiral calendar pad	-6
 🗜	jia qian	-5
-🗜️	clamp	-6
-🗜️	compression	-6
 🗝	fu gu yao shi	-5
-🗝	gu lao de yao shi	-5
 🗝	jiu yao shi	-5
 🗝	lao shi yao shi	-5
 🗝	lao yao shi	-5
 🗝	yao shi	-5
-🗝️	old key	-6
 🗞	bao zhi juan	-5
-🗞	juan qi de bao zhi	-5
-🗞️	rolled up newspaper	-6
 🗡	bi shou	-5
 🗡	duan dao	-5
 🗡	duan jian	-5
-🗡️	dagger	-6
-🗡️	dagger knife	-6
 🗡️	wu qi	-5
 🗣	jian ying	-5
 🗣	jiang hua	-5
 🗣	jiang hua zhe	-5
-🗣	jiang hua zhe de tou bu jian ying	-5
 🗣	tou bu jian ying	-5
-🗣️	speaking head	-6
-🗣️	speaking head in silhouette	-6
-🗨	chao zuo de dui hua qi pao	-5
 🗨	dui hua kuang	-5
 🗨	dui hua qi pao	-5
-🗨️	left speech bubble	-6
 🗯	dui hua kuang	-5
 🗯	dui hua qi pao	-5
-🗯	fen nu dui hua kuang	-5
-🗯	fen nu dui hua qi pao	-5
-🗯️	right anger bubble	-6
 🗳	tou piao	-5
 🗳	tou piao xiang	-5
 🗳	xuan piao	-5
-🗳️	ballot box with ballot	-6
 🗺	shi jie di tu	-5
-🗺️	world map	-6
 🗻	fu shi shan	-5
 🗻	jing dian	-5
-🗻	mount fuji	-6
 🗼	dong jing ta	-5
 🗼	jing dian	-5
-🗼	tokyo tower	-6
 🗽	jing dian	-5
-🗽	statue of liberty	-6
 🗽	zi you nv shen	-5
-🗽	zi you nv shen xiang	-5
-🗾	japan	-6
 🗾	ri ben di tu	-5
 🗾	ri ben jian ying	-5
-🗾	silhouette of japan	-6
 🗿	fu huo dao	-5
 🗿	fu huo jie dao	-5
-🗿	fu huo jie dao shi xiang	-5
 🗿	mo ai shi xiang	-5
-🗿	moyai	-6
 😀	biao qing	-5
-😀	grinning	-6
-😀	grinning face	-6
 😀	xiao lian	-5
 😁	biao qing	-5
-😁	grin	-6
-😁	grinning face with smiling eyes	-6
 😁	hei hei	-5
 😁	lie zui xiao	-5
 😁	xi xi	-5
 😂	biao qing	-5
 😂	chang yong	-5
 😂	da xiao	-5
-😂	face with tears of joy	-6
-😂	joy	-6
 😂	xiao chu yan lei	-5
 😂	xiao ku	-5
 😂	xiao ku le	-5
 😃	biao qing	-5
 😃	lu chi xiao	-5
-😃	smiley	-6
-😃	smiling face with open mouth	-6
 😄	biao qing	-5
 😄	gao xing	-5
 😄	ha	-5
 😄	ha ha	-5
 😄	han han	-5
 😄	kai xin	-5
-😄	smile	-6
 😄	xiao	-5
 😅	biao qing	-5
 😅	chang yong	-5
@@ -6053,143 +3696,96 @@ columns:
 😅	ku xiao	-5
 😅	leng han	-5
 😅	mao han	-5
-😅	sweat smile	-6
 😅	wu yu	-5
 😆	biao qing	-5
 😆	hao ye	-5
-😆	laughing	-6
 😆	mi yan xiao	-5
-😆	satisfied	-6
 😆	sha xiao	-5
 😆	xiao si	-5
 😆	xiao yun	-5
 😇	biao qing	-5
 😇	guang huan	-5
-😇	innocent	-6
-😇	smiling face with halo	-6
 😇	wei xiao tian shi	-5
 😈	biao qing	-5
 😈	e mo	-5
 😈	e mo wei xiao	-5
 😈	mo gui	-5
-😈	smiling face with horns	-6
-😈	smiling imp	-6
-😈	wei xiao de e mo	-5
 😈	wei xiao e mo	-5
 😉	biao qing	-5
 😉	mei yan	-5
 😉	pao mei yan	-5
-😉	wink	-6
-😉	winking face	-6
 😉	zha yan	-5
 😊	biao qing	-5
-😊	blush	-6
 😊	lian hong	-5
-😊	smiling face with smiling eyes	-6
 😊	wei xiao	-5
 😊	xiao	-5
 😋	biao qing	-5
-😋	face savouring delicious food	-6
 😋	hao chi	-5
 😋	jin jin you wei	-5
 😋	mei wei	-5
-😋	yum	-6
 😌	biao qing	-5
-😌	relieved	-6
-😌	relieved face	-6
 😌	ru shi zhong fu	-5
 😌	shi ran	-5
 😌	song kou qi	-5
 😌	song le kou qi	-5
-😌	song le yi kou qi	-5
 😍	biao qing	-5
-😍	heart eyes	-6
 😍	hua chi	-5
-😍	smiling face with heart shaped eyes	-6
 😍	xi huan	-5
 😎	biao qing	-5
 😎	mo jing	-5
 😎	mo jing xiao lian	-5
-😎	smiling face with sunglasses	-6
-😎	sunglasses	-6
 😎	tai yang jing	-5
 😎	zi xin	-5
 😏	biao qing	-5
 😏	de yi	-5
 😏	de yi de xiao	-5
-😏	smirk	-6
-😏	smirking face	-6
 😐	biao qing	-5
-😐	neutral face	-6
 😐	ping jing	-5
 😑	biao qing	-5
-😑	expressionless	-6
-😑	expressionless face	-6
 😑	mian wu biao qing	-5
 😒	bi shi	-5
 😒	biao qing	-5
-😒	unamused	-6
-😒	unamused face	-6
 😒	yu men	-5
 😓	biao qing	-5
 😓	dao mei	-5
-😓	face with cold sweat	-6
 😓	gan ga	-5
 😓	han	-5
 😓	leng han	-5
 😓	mao han	-5
-😓	sweat	-6
 😓	wu yu	-5
 😔	biao qing	-5
 😔	di tou you shang	-5
-😔	pensive	-6
-😔	pensive face	-6
 😔	xin shi chong chong	-5
 😔	you lv	-5
 😔	you shang	-5
 😕	biao qing	-5
 😕	bu xie	-5
-😕	confused	-6
-😕	confused face	-6
 😕	kun rao	-5
 😖	biao qing	-5
-😖	confounded	-6
-😖	confounded face	-6
 😖	jiao tou lan e	-5
 😖	jiu jie	-5
 😗	biao qing	-5
 😗	jue zui	-5
-😗	kissing	-6
-😗	kissing face	-6
 😘	biao qing	-5
 😘	bo er yi ge	-5
 😘	bo yi ge	-5
 😘	chang yong	-5
-😘	face throwing a kiss	-6
 😘	fei wen	-5
-😘	kissing heart	-6
 😘	qin qin	-5
 😘	qin yi ge	-5
 😘	qin yi xia	-5
 😙	biao qing	-5
-😙	kissing face with smiling eyes	-6
-😙	kissing smiling eyes	-6
 😙	wei xiao qin qin	-5
 😚	biao qing	-5
-😚	kissing closed eyes	-6
-😚	kissing face with closed eyes	-6
 😚	xiu se qin qin	-5
 😛	biao qing	-5
-😛	face with stuck out tongue	-6
 😛	lve lve lve	-5
-😛	stuck out tongue	-6
 😛	tu she	-5
 😛	tu she tou	-5
 😜	biao qing	-5
 😜	dan yan tu she	-5
 😜	dao dan	-5
 😜	lve lve lve	-5
-😜	stuck out tongue winking eye	-6
 😜	tiao pi	-5
 😜	tu she	-5
 😜	tu she tou	-5
@@ -6199,21 +3795,15 @@ columns:
 😝	lve lve lve	-5
 😝	mi yan	-5
 😝	mi yan tu she	-5
-😝	stuck out tongue closed eyes	-6
 😝	tu she	-5
 😝	tu she tou	-5
 😞	biao qing	-5
-😞	disappointed	-6
-😞	disappointed face	-6
 😞	nan guo	-5
 😞	shi wang	-5
 😟	biao qing	-5
 😟	dan xin	-5
 😟	dan you	-5
-😟	worried	-6
-😟	worried face	-6
-😠	angry	-6
-😠	angry face	-6
+😠	angry	-5
 😠	biao qing	-5
 😠	fen nu	-5
 😠	nu	-5
@@ -6232,53 +3822,35 @@ columns:
 😡	fen nu	-5
 😡	nu	-5
 😡	nu huo zhong shao	-5
-😡	pouting face	-6
 😡	qi ren	-5
-😡	rage	-6
 😡	sheng qi	-5
 😢	biao qing	-5
-😢	cry	-6
-😢	crying face	-6
 😢	ku	-5
 😢	ku le	-5
 😢	ku qi	-5
 😢	liu lei	-5
 😢	liu yan lei	-5
 😣	biao qing	-5
-😣	persevere	-6
-😣	persevering face	-6
 😣	ren nai	-5
 😤	ao man	-5
 😤	bi zi mao qi	-5
 😤	biao qing	-5
-😤	face with look of triumph	-6
 😤	heng	-5
 😤	heng heng	-5
-😤	triumph	-6
 😤	zhi gao qi ang	-5
 😥	biao qing	-5
-😥	disappointed but relieved face	-6
-😥	disappointed relieved	-6
-😥	nan guo dan shi ran	-5
-😥	shi wang dan ru shi zhong fu	-5
 😦	a	-5
 😦	biao qing	-5
 😦	chi jing	-5
-😦	frowning	-6
-😦	frowning face with open mouth	-6
 😦	jing ya	-5
 😦	mu deng kou dai	-5
 😦	zhen jing	-5
 😧	a	-5
-😧	anguished	-6
-😧	anguished face	-6
 😧	biao qing	-5
 😧	chi jing	-5
 😧	jing ya	-5
 😧	zhen jing	-5
 😨	biao qing	-5
-😨	fearful	-6
-😨	fearful face	-6
 😨	hai pa	-5
 😨	ke pa	-5
 😨	kong ju	-5
@@ -6289,8 +3861,6 @@ columns:
 😩	pi bei	-5
 😩	pi juan	-5
 😩	pi lao	-5
-😩	weary	-6
-😩	weary face	-6
 😪	biao qing	-5
 😪	da ke shui	-5
 😪	ke shui	-5
@@ -6299,14 +3869,9 @@ columns:
 😪	kun juan	-5
 😪	kun kun	-5
 😪	kun le	-5
-😪	sleepy	-6
-😪	sleepy face	-6
 😫	biao qing	-5
-😫	tired face	-6
 😫	zhua kuang	-5
 😬	biao qing	-5
-😬	grimacing	-6
-😬	grimacing face	-6
 😬	yao ya	-5
 😬	yao ya qie chi	-5
 😬	zi ya	-5
@@ -6320,31 +3885,22 @@ columns:
 😭	ku qi	-5
 😭	liu lei	-5
 😭	liu yan lei	-5
-😭	loudly crying face	-6
-😭	sob	-6
 😭	tong ku	-5
 😮	biao qing	-5
 😮	chang yong	-5
 😮	chi jing	-5
-😮	face with open mouth	-6
 😮	jing ya	-5
 😮	o	-5
-😮	open mouth	-6
 😮‍💨	ai	-5
-😮‍💨	face exhaling	-6
 😮‍💨	hu qi	-5
 😮‍💨	tan qi	-5
 😮‍💨	wu nai	-5
 😯	biao qing	-5
 😯	chi jing	-5
 😯	hao qi	-5
-😯	hushed	-6
-😯	hushed face	-6
 😯	jing ya	-5
 😰	biao qing	-5
 😰	chang yong	-5
-😰	cold sweat	-6
-😰	face with open mouth and cold sweat	-6
 😰	gan ga	-5
 😰	han	-5
 😰	jiao lv	-5
@@ -6355,7 +3911,6 @@ columns:
 😰	wu yu	-5
 😱	biao qing	-5
 😱	chang yong	-5
-😱	face screaming in fear	-6
 😱	hai pa	-5
 😱	jian jiao	-5
 😱	jing sheng jian jiao	-5
@@ -6364,20 +3919,15 @@ columns:
 😱	kong ju	-5
 😱	kong ju jian jiao	-5
 😱	pa	-5
-😱	scream	-6
 😱	xia ren	-5
 😱	xia si	-5
 😱	xia si le	-5
 😲	a	-5
-😲	astonished	-6
-😲	astonished face	-6
 😲	biao qing	-5
 😲	chi jing	-5
 😲	jing ya	-5
 😲	zhen jing	-5
 😳	biao qing	-5
-😳	flushed	-6
-😳	flushed face	-6
 😳	hai xiu	-5
 😳	leng zhu	-5
 😳	lian hong	-5
@@ -6388,10 +3938,7 @@ columns:
 😴	shui mian	-5
 😴	shui zhao le	-5
 😴	shui zhe	-5
-😴	sleeping	-6
-😴	sleeping face	-6
 😵	biao qing	-5
-😵	dizzy face	-6
 😵	tou yun	-5
 😵	tou yun mu xuan	-5
 😵	tou yun yan hua	-5
@@ -6400,7 +3947,6 @@ columns:
 😵	yun le	-5
 😵	yun tou	-5
 😵	yun tou zhuan xiang	-5
-😵‍💫	face with spiral eyes	-6
 😵‍💫	tou yun	-5
 😵‍💫	tou yun mu xuan	-5
 😵‍💫	tou yun yan hua	-5
@@ -6411,60 +3957,39 @@ columns:
 😵‍💫	yun tou zhuan xiang	-5
 😶	biao qing	-5
 😶	chen mo	-5
-😶	face without mouth	-6
 😶	mei you zui	-5
 😶	mei you zui ba	-5
 😶	mei zui	-5
-😶	no mouth	-6
-😶‍🌫️	face in clouds	-6
 😶‍🌫️	yun zhong	-5
 😶‍🌫️	yun zhong de lian	-5
 😷	biao qing	-5
 😷	dai kou zhao	-5
-😷	face with medical mask	-6
 😷	gan mao	-5
 😷	kou zhao	-5
-😷	mask	-6
 😷	sheng bing	-5
-😸	grinning cat face with smiling eyes	-6
-😸	smile cat	-6
 😸	wei xiao de mao	-5
 😸	wei xiao mao	-5
 😸	wei xiao mao lian	-5
-😹	cat face with tears of joy	-6
-😹	joy cat	-6
 😹	xi ji er qi	-5
-😹	xiao chu yan lei de mao	-5
 😹	xiao zhong dai lei	-5
 😺	kai xin de mao	-5
 😺	kai xin mao	-5
 😺	kai xin mao lian	-5
-😺	smiley cat	-6
-😺	smiling cat face with open mouth	-6
-😻	heart eyes cat	-6
 😻	hua chi de mao	-5
 😻	hua chi mao	-5
 😻	hua chi mao lian	-5
-😻	smiling cat face with heart shaped eyes	-6
-😼	cat face with wry smile	-6
 😼	de yi de mao	-5
 😼	de yi mao	-5
 😼	de yi mao lian	-5
-😼	smirk cat	-6
-😽	kissing cat	-6
-😽	kissing cat face with closed eyes	-6
 😽	qin qin de mao	-5
 😽	qin qin mao	-5
 😽	qin qin mao lian	-5
 😾	jue zui de mao	-5
 😾	jue zui mao	-5
 😾	jue zui mao lian	-5
-😾	pouting cat	-6
-😾	pouting cat face	-6
 😾	sheng qi de mao	-5
 😾	sheng qi mao	-5
 😾	sheng qi mao lian	-5
-😿	crying cat face	-6
 😿	ku qi de mao	-5
 😿	ku qi mao	-5
 😿	ku qi mao lian	-5
@@ -6474,36 +3999,26 @@ columns:
 🙀	kong ju de mao	-5
 🙀	kong ju mao	-5
 🙀	kong ju mao lian	-5
-🙀	scream cat	-6
-🙀	weary cat face	-6
 🙁	biao qing	-5
 🙁	bu gao xing	-5
 🙁	bu kai xin	-5
 🙁	bu man	-5
 🙁	bu yue	-5
-🙁	slightly frowning face	-6
 🙁	wei wei bu man	-5
 🙁	xin qing bu hao	-5
 🙁	yi lian bu yue	-5
 🙂	biao qing	-5
 🙂	he he	-5
-🙂	slightly smiling face	-6
-🙂‍↔️	head shaking horizontally	-6
-🙂‍↕️	head shaking vertically	-6
 🙃	biao qing	-5
 🙃	dao lian	-5
 🙃	dian dao	-5
 🙃	dian dao de lian	-5
 🙃	he he	-5
-🙃	upside down face	-6
 🙄	bai yan	-5
 🙄	bai yan er	-5
 🙄	biao qing	-5
-🙄	face with rolling eyes	-6
 🙄	fan bai yan	-5
 🙄	fan bai yan er	-5
-🙅	face with no good gesture	-6
-🙅	no good	-6
 🙅‍♀️	bu	-5
 🙅‍♀️	bu ke yi	-5
 🙅‍♀️	bu tong yi	-5
@@ -6512,7 +4027,6 @@ columns:
 🙅‍♀️	fan dui	-5
 🙅‍♀️	jin zhi shou shi	-5
 🙅‍♀️	ju jue	-5
-🙅‍♀️	woman gesturing no	-6
 🙅‍♂️	bu	-5
 🙅‍♂️	bu ke yi	-5
 🙅‍♂️	bu tong yi	-5
@@ -6521,43 +4035,32 @@ columns:
 🙅‍♂️	fan dui	-5
 🙅‍♂️	jin zhi shou shi	-5
 🙅‍♂️	ju jue	-5
-🙅‍♂️	man gesturing no	-6
-🙆	face with ok gesture	-6
-🙆	ok woman	-6
 🙆‍♀️	hao	-5
 🙆‍♀️	hao de	-5
 🙆‍♀️	ke yi	-5
 🙆‍♀️	ok	-5
 🙆‍♀️	tong yi	-5
-🙆‍♀️	woman gesturing ok	-6
 🙆‍♂️	hao	-5
 🙆‍♂️	hao de	-5
 🙆‍♂️	ke yi	-5
-🙆‍♂️	man gesturing ok	-6
 🙆‍♂️	ok	-5
 🙆‍♂️	tong yi	-5
-🙇	bow	-6
-🙇	person bowing deeply	-6
 🙇‍♀️	bu hao yi si	-5
 🙇‍♀️	dao qian	-5
 🙇‍♀️	dui bu qi	-5
 🙇‍♀️	gui qiu	-5
 🙇‍♀️	ju gong	-5
-🙇‍♀️	woman bowing	-6
 🙇‍♂️	bu hao yi si	-5
 🙇‍♂️	dao qian	-5
 🙇‍♂️	dui bu qi	-5
 🙇‍♂️	gui qiu	-5
 🙇‍♂️	ju gong	-5
-🙇‍♂️	man bowing	-6
 🙈	bu kan	-5
 🙈	dong wu	-5
 🙈	fei li wu shi	-5
 🙈	meng yan	-5
 🙈	meng yan jing	-5
 🙈	meng zhu yan jing	-5
-🙈	see no evil	-6
-🙈	see no evil monkey	-6
 🙈	wo bu kan	-5
 🙈️	biao qing	-5
 🙉	bu ting	-5
@@ -6568,8 +4071,6 @@ columns:
 🙉	du zhe er duo	-5
 🙉	du zhu er duo	-5
 🙉	fei li wu ting	-5
-🙉	hear no evil	-6
-🙉	hear no evil monkey	-6
 🙉	wo bu ting	-5
 🙉	wu er	-5
 🙉	wu er duo	-5
@@ -6579,50 +4080,30 @@ columns:
 🙊	bu shuo	-5
 🙊	dong wu	-5
 🙊	fei li wu yan	-5
-🙊	speak no evil	-6
-🙊	speak no evil monkey	-6
 🙊	wu shang zui ba	-5
 🙊	wu zhe zui ba	-5
 🙊	wu zhu zui ba	-5
 🙊	wu zui	-5
 🙊	wu zui ba	-5
-🙋	happy person raising one hand	-6
-🙋	raising hand	-6
 🙋‍♀️	ju shou	-5
 🙋‍♀️	wo zhi dao	-5
-🙋‍♀️	woman raising hand	-6
-🙋‍♀️	zhe ge wo zhi dao	-5
 🙋‍♂️	ju shou	-5
-🙋‍♂️	man raising hand	-6
 🙋‍♂️	wo zhi dao	-5
-🙋‍♂️	zhe ge wo zhi dao	-5
 🙌	ju shuang shou	-5
-🙌	person raising both hands in celebration	-6
-🙌	raised hands	-6
 🙌	shou shi	-5
 🙌	yang shou huan hu	-5
-🙍	person frowning	-6
-🙍‍♀️	woman frowning	-6
 🙍‍♀️	zhou zhe mei tou	-5
-🙍‍♀️	zhou zhe mei tou de ren	-5
-🙍‍♂️	man frowning	-6
 🙍‍♂️	zhou zhe mei tou	-5
-🙍‍♂️	zhou zhe mei tou de ren	-5
-🙎	person with pouting face	-6
 🙎‍♀️	jue zui	-5
 🙎‍♀️	jue zui de ren	-5
-🙎‍♀️	woman pouting	-6
 🙎‍♂️	jue zui	-5
 🙎‍♂️	jue zui de ren	-5
-🙎‍♂️	man pouting	-6
 🙏	bai tuo	-5
 🙏	chao du	-5
 🙏	e mi tuo fo	-5
 🙏	gan xie	-5
 🙏	he shi	-5
 🙏	he zhang	-5
-🙏	person with folded hands	-6
-🙏	pray	-6
 🙏	qi dao	-5
 🙏	qi qiu	-5
 🙏	qiu ni le	-5
@@ -6633,68 +4114,50 @@ columns:
 🙏	xie xie	-5
 🚀	fei xing qi	-5
 🚀	huo jian	-5
-🚀	rocket	-6
+🚀	rocket	-5
 🚀	wu qi	-5
 🚁	fei xing qi	-5
-🚁	helicopter	-6
 🚁	zhi sheng fei ji	-5
 🚁	zhi sheng ji	-5
 🚂	huo che	-5
-🚂	steam locomotive	-6
 🚂	zheng qi huo che	-5
 🚃	di tie	-5
 🚃	gui dao che	-5
 🚃	jiao tong	-5
-🚃	railway car	-6
-🚄	bullettrain side	-6
 🚄	dong che	-5
 🚄	gao su lie che	-5
 🚄	gao tie	-5
-🚄	high speed train	-6
 🚄	huo che	-5
 🚄	lie che	-5
 🚄	xin gan xian	-5
-🚅	bullettrain front	-6
 🚅	dong che	-5
 🚅	gao su lie che	-5
-🚅	gao su zi dan tou lie che	-5
 🚅	gao tie	-5
-🚅	high speed train with bullet nose	-6
 🚅	huo che	-5
 🚅	lie che	-5
 🚅	xin gan xian	-5
-🚅	zi dan tou gao su lie che	-5
 🚆	huo che	-5
 🚆	lv pi huo che	-5
-🚆	train	-6
-🚆	train2	-6
 🚇	di tie	-5
 🚇	di xia tie lu	-5
 🚇	gong jiao	-5
 🚇	jiao tong	-5
-🚇	metro	-6
 🚈	di tie	-5
 🚈	gong jiao	-5
 🚈	jiao tong	-5
-🚈	light rail	-6
 🚈	qing gui	-5
 🚈	qing gui dian che	-5
 🚉	che zhan	-5
 🚉	huo che	-5
 🚉	huo che zhan	-5
-🚉	station	-6
 🚉	zhan tai	-5
 🚊	di tie	-5
 🚊	gong jiao	-5
 🚊	jiao tong	-5
-🚊	tram	-6
 🚋	di tie	-5
 🚋	jiao tong	-5
-🚋	train	-6
-🚋	tram car	-6
 🚋	you gui dian che	-5
 🚌	ba shi	-5
-🚌	bus	-6
 🚌	da ba	-5
 🚌	gong che	-5
 🚌	gong gong qi che	-5
@@ -6709,146 +4172,105 @@ columns:
 🚍	gong jiao	-5
 🚍	gong jiao che	-5
 🚍	ju	-5
-🚍	oncoming bus	-6
 🚍	qi che	-5
 🚎	dian che	-5
 🚎	gong jiao	-5
 🚎	ju	-5
 🚎	qi che	-5
-🚎	trolleybus	-6
 🚎	wu gui dian che	-5
-🚏	bus stop	-6
-🚏	busstop	-6
-🚏	gong gong qi che zhan	-5
 🚏	gong jiao che zhan	-5
 🚏	gong jiao zhan	-5
 🚐	ju	-5
 🚐	mian bao che	-5
-🚐	minibus	-6
 🚐	qi che	-5
 🚐	wu ling	-5
 🚐	wu ling hong guang	-5
 🚐	xiao ba	-5
-🚑	ambulance	-6
 🚑	ji jiu che	-5
 🚑	jiu hu che	-5
 🚑	ju	-5
 🚑	qi che	-5
-🚒	fire engine	-6
 🚒	jiu huo che	-5
 🚒	ju	-5
 🚒	qi che	-5
 🚒	xiao fang che	-5
 🚓	jing che	-5
 🚓	ju	-5
-🚓	police car	-6
 🚓	qi che	-5
 🚔	bao jing	-5
 🚔	jing che	-5
 🚔	ju	-5
-🚔	oncoming police car	-6
 🚔	qi che	-5
 🚕	chu zu che	-5
 🚕	di shi	-5
 🚕	ju	-5
 🚕	qi che	-5
-🚕	taxi	-6
 🚖	chu zu che	-5
 🚖	di shi	-5
 🚖	ju	-5
-🚖	oncoming taxi	-6
 🚖	qi che	-5
-🚗	automobile	-6
-🚗	car	-6
 🚗	jiao che	-5
 🚗	ju	-5
 🚗	qi che	-5
-🚗	red car	-6
 🚗	si jia che	-5
 🚗	xiao jiao che	-5
 🚗	xiao qi che	-5
 🚘	jiao che	-5
 🚘	ju	-5
-🚘	oncoming automobile	-6
 🚘	qi che	-5
 🚘	si jia che	-5
 🚘	xiao jiao che	-5
 🚘	xiao qi che	-5
-🚙	blue car	-6
 🚙	ju	-5
 🚙	qi che	-5
-🚙	recreational vehicle	-6
 🚙	suv	-5
 🚙	xiu xian che	-5
 🚙	yue ye che	-5
-🚙	yun dong xing duo yong tu che	-5
-🚚	delivery truck	-6
 🚚	huo che	-5
 🚚	ju	-5
 🚚	qi che	-5
 🚚	song huo che	-5
-🚚	truck	-6
 🚚	wu liu	-5
-🚛	articulated lorry	-6
 🚛	da ka che	-5
 🚛	ju	-5
 🚛	ka che	-5
 🚛	qi che	-5
 🚛	tuo che	-5
-🚜	tractor	-6
 🚜	tuo la ji	-5
 🚝	dan gui	-5
 🚝	dan gui tie lu	-5
 🚝	huo che	-5
-🚝	monorail	-6
 🚞	di tie	-5
 🚞	jiao tong	-5
-🚞	mountain railway	-6
 🚞	shan qu tie lu	-5
 🚟	di tie	-5
 🚟	gao jia tie lu	-5
 🚟	jiao tong	-5
 🚟	kong gui	-5
-🚟	kong zhong gui dao lie che	-5
-🚟	suspension railway	-6
 🚠	gao shan suo dao	-5
 🚠	lan che	-5
-🚠	mountain cableway	-6
-🚡	aerial tramway	-6
 🚡	kong zhong lan che	-5
 🚡	lan che	-5
 🚢	chuan	-5
 🚢	hai yun	-5
 🚢	lun chuan	-5
-🚢	ship	-6
 🚢	you lun	-5
-🚣	rowboat	-6
 🚣‍♀️	fan zhou	-5
 🚣‍♀️	hua chuan	-5
 🚣‍♀️	hua ting	-5
-🚣‍♀️	woman rowing boat	-6
 🚣‍♂️	fan zhou	-5
 🚣‍♂️	hua chuan	-5
 🚣‍♂️	hua ting	-5
-🚣‍♂️	man rowing boat	-6
 🚣🏻	yun dong yuan	-5
 🚤	chuan	-5
 🚤	kuai ting	-5
 🚤	sai ting	-5
-🚤	speedboat	-6
 🚥	hong lv deng	-5
-🚥	horizontal traffic light	-6
 🚥	jiao tong deng	-5
-🚥	jiao tong xin hao deng	-5
-🚥	traffic light	-6
 🚥	xin hao deng	-5
 🚦	hong lv deng	-5
 🚦	jiao tong deng	-5
-🚦	jiao tong xin hao deng	-5
-🚦	vertical traffic light	-6
 🚦	xin hao deng	-5
-🚧	construction	-6
-🚧	construction sign	-6
 🚧	lu zhang	-5
 🚧	qian fang shi gong	-5
 🚧	shi gong	-5
@@ -6856,26 +4278,18 @@ columns:
 🚧	shi gong zhong	-5
 🚨	bao jing deng	-5
 🚨	jing che deng	-5
-🚨	jing che xuan zhuan deng	-5
 🚨	jing deng	-5
-🚨	police cars revolving light	-6
-🚨	rotating light	-6
 🚩	guo qi	-5
 🚩	hong se qi zhi	-5
-🚩	qi gan shang de qi zhi	-5
-🚩	qi gan shang de san jiao qi	-5
 🚩	qi zhi	-5
 🚩	qi zi	-5
 🚩	san jiao qi	-5
-🚩	triangular flag on post	-6
-🚪	door	-6
 🚪	fang men	-5
 🚪	men	-5
 🚪	men zi	-5
 🚫	bu xu	-5
 🚫	bu zhun	-5
 🚫	jin zhi	-5
-🚫	no entry sign	-6
 🚫	yan jin	-5
 🚬	chou yan	-5
 🚬	dian yan	-5
@@ -6883,8 +4297,6 @@ columns:
 🚬	kao yan	-5
 🚬	lai yi gen	-5
 🚬	lai yi gen er	-5
-🚬	smoking	-6
-🚬	smoking symbol	-6
 🚬	xi yan	-5
 🚬	xiang yan	-5
 🚬	yan	-5
@@ -6892,90 +4304,48 @@ columns:
 🚬	zhi yan	-5
 🚭	jin yan	-5
 🚭	jin zhi xi yan	-5
-🚭	no smoking	-6
-🚭	no smoking symbol	-6
 🚭	qing wu xi yan	-5
 🚮	dao la ji	-5
 🚮	diu la ji	-5
-🚮	la ji diu qi chu	-5
 🚮	la ji ru lou	-5
-🚮	la ji ru lou biao zhi	-5
-🚮	put litter in its place	-6
-🚮	put litter in its place symbol	-6
 🚮	reng la ji	-5
-🚯	do not litter	-6
-🚯	do not litter symbol	-6
 🚯	jin diu la ji	-5
-🚯	jin zhi diu la ji	-5
-🚯	jin zhi luan diu la ji	-5
-🚯	jin zhi luan reng la ji	-5
-🚯	jin zhi reng la ji	-5
-🚯	qing wu luan diu la ji	-5
-🚯	qing wu luan reng la ji	-5
 🚯	wu diu la ji	-5
 🚯	wu reng la ji	-5
-🚰	potable water	-6
-🚰	potable water symbol	-6
 🚰	shui long tou	-5
 🚰	yin shui chu	-5
 🚰	yin yong shui	-5
 🚰	zhi yin shui	-5
 🚱	fei yin yong shui	-5
-🚱	non potable water	-6
-🚱	non potable water symbol	-6
 🚱	qing wu yin yong	-5
-🚲	bicycle	-6
-🚲	bike	-6
 🚲	dan che	-5
 🚲	jiao ta che	-5
 🚲	zi xing che	-5
 🚳	jin zhi qi che	-5
 🚳	jin zhi qi xing	-5
-🚳	jin zhi zi xing che	-5
-🚳	no bicycles	-6
-🚴	bicyclist	-6
 🚴‍♀️	qi che	-5
 🚴‍♀️	qi dan che	-5
 🚴‍♀️	qi zi xing che	-5
-🚴‍♀️	woman biking	-6
-🚴‍♂️	man biking	-6
 🚴‍♂️	qi che	-5
 🚴‍♂️	qi dan che	-5
 🚴‍♂️	qi zi xing che	-5
 🚴🏻	yun dong yuan	-5
-🚵	mountain bicyclist	-6
 🚵‍♀️	qi shan di che	-5
 🚵‍♀️	shan di che	-5
-🚵‍♀️	shan di zi xing che	-5
-🚵‍♀️	woman mountain biking	-6
-🚵‍♂️	man mountain biking	-6
 🚵‍♂️	qi shan di che	-5
 🚵‍♂️	shan di che	-5
-🚵‍♂️	shan di zi xing che	-5
 🚵🏻	yun dong yuan	-5
-🚶	pedestrian	-6
-🚶	walking	-6
 🚶‍♀️	tu bu	-5
-🚶‍♀️	woman walking	-6
 🚶‍♀️	xing zou	-5
 🚶‍♀️	zou lu	-5
-🚶‍♀️‍➡️	woman walking facing right	-6
-🚶‍♂️	man walking	-6
 🚶‍♂️	tu bu	-5
 🚶‍♂️	xing zou	-5
 🚶‍♂️	zou lu	-5
-🚶‍♂️‍➡️	man walking facing right	-6
-🚶‍➡️	person walking facing right	-6
 🚷	jin zhi xing ren	-5
-🚷	jin zhi xing ren tong xing	-5
-🚷	no pedestrians	-6
-🚸	children crossing	-6
 🚸	dang xin er tong	-5
 🚸	er tong guo jie	-5
 🚸	xue tong guo jie	-5
 🚸	zhu yi er tong	-5
-🚹	mens	-6
-🚹	mens symbol	-6
 🚹	nan ce	-5
 🚹	nan ce suo	-5
 🚹	nan shi	-5
@@ -6988,97 +4358,66 @@ columns:
 🚺	nv shi biao zhi	-5
 🚺	nv shi fu hao	-5
 🚺	nv xi shou jian	-5
-🚺	womens	-6
-🚺	womens symbol	-6
 🚻	ce suo	-5
 🚻	guan xi shi	-5
-🚻	restroom	-6
 🚻	wei sheng jian	-5
 🚻	xi shou jian	-5
 🚼	baby	-5
-🚼	baby symbol	-6
 🚼	bao bao	-5
 🚼	ying er	-5
 🚼	ying er biao zhi	-5
 🚼	ying er fu hao	-5
 🚽	ma tong	-5
-🚽	toilet	-6
 🚾	ce suo	-5
-🚾	water closet	-6
-🚾	wc	-6
+🚾	wc	-5
 🚾	wei sheng jian	-5
 🚿	lin yu	-5
 🚿	pen tou	-5
-🚿	shower	-6
-🛀	bath	-6
 🛀	pao zao	-5
 🛀	pao zao de ren	-5
 🛀	xi zao	-5
 🛀	xi zao de ren	-5
-🛁	bathtub	-6
 🛁	yu gang	-5
 🛂	an jian	-5
 🛂	hu zhao jian cha	-5
-🛂	hu zhao jian cha chu	-5
 🛂	jian cha hu zhao	-5
-🛂	passport control	-6
-🛃	customs	-6
 🛃	hai guan	-5
 🛃	hai guan jian cha	-5
-🛄	baggage claim	-6
 🛄	ling qu xing li	-5
 🛄	xing li ling qu	-5
-🛄	xing li ling qu chu	-5
 🛅	ji cun xing li	-5
-🛅	left luggage	-6
 🛅	xing li ji cun	-5
-🛅	xing li ji cun chu	-5
 🛋	sha fa	-5
 🛋	sha fa he deng	-5
-🛋️	couch and lamp	-6
 🛌	chuang shang xiu xi	-5
 🛌	shui jiao	-5
 🛌	shui jiao de ren	-5
-🛌	sleeping accommodation	-6
-🛌	tang zai chuang shang de ren	-5
 🛍	gou wu dai	-5
-🛍️	shopping bags	-6
 🛎	fu wu ling	-5
-🛎️	bellhop bell	-6
 🛏	chuang	-5
-🛏️	bed	-6
 🛐	dao gao	-5
-🛐	place of worship	-6
 🛐	zong jiao	-5
 🛑	ba bian xing	-5
-🛑	octagonal sign	-6
 🛒	gou wu che	-5
-🛒	shopping trolley	-6
 🛒	shou tui che	-5
 🛕	fo si	-5
-🛕	hindu temple	-6
 🛕	miao yu	-5
 🛕	yin du miao	-5
 🛕	yin du si miao	-5
 🛕	zong jiao	-5
 🛖	cao wu	-5
-🛖	hut	-6
 🛖	meng gu bao	-5
 🛖	xiao wu	-5
 🛗	dian ti	-5
-🛗	elevator	-6
 🛗	sheng jiang ji	-5
-🛘	landslide	-6
 🛜	wang luo	-5
 🛜	wi fi	-5
 🛜	wifi	-5
-🛜	wireless	-6
-🛜	wu xian ju yu wang	-5
+🛜	wireless	-5
 🛜	wu xian wang	-5
 🛜	wu xian wang luo	-5
 🛝	hua hua ti	-5
 🛝	hua ti	-5
-🛝	playground slide	-6
 🛝	you le yuan	-5
 🛞	che gu lu	-5
 🛞	che lun	-5
@@ -7086,156 +4425,115 @@ columns:
 🛞	gu lu	-5
 🛞	lun tai	-5
 🛞	lun zi	-5
-🛞	wheel	-6
 🛟	jiu sheng	-5
 🛟	jiu sheng quan	-5
-🛟	ring buoy	-6
 🛟	yong quan	-5
 🛟	you yong quan	-5
 🛠	chui zi ban shou	-5
-🛠	chui zi he ban shou	-5
-🛠	chui zi yu ban shou	-5
 🛠	gong ju	-5
 🛠️	gong ju	-5
-🛠️	hammer and wrench	-6
 🛠️	ji xie	-5
 🛡	dun pai	-5
-🛡️	shield	-6
 🛡️	wu qi	-5
 🛢	you tong	-5
-🛢️	oil drum	-6
 🛣	gao su	-5
 🛣	gao su gong lu	-5
 🛣	gong lu	-5
-🛣️	motorway	-6
 🛤	tie gui	-5
-🛤️	railway track	-6
 🛥	mo tuo ting	-5
 🛥️	chuan	-5
-🛥️	motor boat	-6
 🛩	xiao xing fei ji	-5
 🛩️	fei xing qi	-5
-🛩️	small airplane	-6
-🛫	airplane departure	-6
 🛫	fei ji qi fei	-5
 🛫	hang ban qi fei	-5
 🛫	qi fei	-5
-🛬	airplane arriving	-6
 🛬	fei ji zhuo lu	-5
 🛬	hang ban jiang luo	-5
 🛬	jiang luo	-5
 🛬	zhuo lu	-5
 🛰	wei xing	-5
-🛰️	satellite	-6
 🛳	ke chuan	-5
 🛳	ke lun	-5
 🛳️	chuan	-5
-🛳️	passenger ship	-6
 🛴	hua ban che	-5
-🛴	scooter	-6
 🛵	dian dong che	-5
 🛵	dian ping che	-5
-🛵	motor scooter	-6
 🛵	xiao dian lv	-5
-🛵	xiao xing mo tuo che	-5
-🛶	canoe	-6
 🛶	chuan	-5
 🛶	du mu zhou	-5
 🛷	cheng xue qiao	-5
 🛷	jia xue qiao	-5
-🛷	sled	-6
 🛷	xue qiao	-5
 🛷	yun dong	-5
 🛷	zuo xue qiao	-5
-🛸	bu ming fei xing wu	-5
 🛸	fei die	-5
 🛸	fei xing qi	-5
-🛸	flying saucer	-6
 🛸	ufo	-5
 🛹	hua ban	-5
 🛹	qiu	-5
-🛹	skateboard	-6
 🛹	yun dong	-5
-🛺	auto rickshaw	-6
 🛺	du du che	-5
 🛺	ju	-5
 🛺	qi che	-5
 🛺	san beng zi	-5
 🛺	san jiao ji	-5
 🛺	san lun che	-5
-🛺	san lun mo tuo che	-5
-🛺	zi dong ren li che	-5
 🛻	ju	-5
 🛻	pi ka	-5
 🛻	pi ka che	-5
-🛻	pickup truck	-6
 🛻	qi che	-5
 🛼	han bing	-5
 🛼	han bing xie	-5
 🛼	hua han bing	-5
 🛼	lun hua	-5
 🛼	lun hua xie	-5
-🛼	roller skate	-6
-🛼	si lun hua bing xie	-5
 🛼	xie	-5
 🛼	xie zi	-5
 🛼	yun dong	-5
 🟠	cheng se	-5
 🟠	ju huang se	-5
 🟠	ju se	-5
-🟠	large orange circle	-6
 🟠	yan se	-5
 🟠	yuan xing	-5
 🟡	huang se	-5
-🟡	large yellow circle	-6
 🟡	yan se	-5
 🟡	yuan xing	-5
-🟢	large green circle	-6
 🟢	lv se	-5
 🟢	yan se	-5
 🟢	yuan xing	-5
-🟣	large purple circle	-6
 🟣	yan se	-5
 🟣	yuan xing	-5
 🟣	zi se	-5
-🟤	large brown circle	-6
 🟤	yan se	-5
 🟤	yuan xing	-5
 🟤	zong se	-5
 🟥	fang xing	-5
 🟥	hong se	-5
-🟥	large red square	-6
 🟥	yan se	-5
 🟥	zheng fang xing	-5
 🟦	fang xing	-5
 🟦	lan se	-5
-🟦	large blue square	-6
 🟦	yan se	-5
 🟦	zheng fang xing	-5
 🟧	cheng se	-5
 🟧	fang xing	-5
 🟧	ju huang se	-5
 🟧	ju se	-5
-🟧	large orange square	-6
 🟧	yan se	-5
 🟧	zheng fang xing	-5
 🟨	fang xing	-5
 🟨	huang se	-5
-🟨	large yellow square	-6
 🟨	yan se	-5
 🟨	zheng fang xing	-5
 🟩	fang xing	-5
-🟩	large green square	-6
 🟩	lv se	-5
 🟩	yan se	-5
 🟩	zheng fang xing	-5
 🟪	fang xing	-5
-🟪	large purple square	-6
 🟪	yan se	-5
 🟪	zheng fang xing	-5
 🟪	zi se	-5
 🟫	fang xing	-5
-🟫	large brown square	-6
 🟫	yan se	-5
 🟫	zheng fang xing	-5
 🟫	zong se	-5
@@ -7243,26 +4541,21 @@ columns:
 🟰	deng hao	-5
 🟰	deng yu	-5
 🟰	deng yu hao	-5
-🟰	heavy equals sign	-6
 🤌	lan hua zhi	-5
 🤌	nie he	-5
 🤌	nie shou zhi	-5
-🤌	pinched fingers	-6
 🤌	shou zhi	-5
 🤌	shou zhi nie he	-5
 🤍	bai se de xin	-5
 🤍	bai se xin	-5
 🤍	bai xin	-5
-🤍	white heart	-6
 🤍	xin xin	-5
 🤍	yan se	-5
-🤎	brown heart	-6
 🤎	xin xin	-5
 🤎	yan se	-5
 🤎	zong se de xin	-5
 🤎	zong se xin	-5
 🤎	zong xin	-5
-🤏	pinching hand	-6
 🤏	shao liang	-5
 🤏	shao xu	-5
 🤏	yi dian	-5
@@ -7279,22 +4572,18 @@ columns:
 🤐	la shang la lian	-5
 🤐	mi mi	-5
 🤐	shou mi	-5
-🤐	zipper mouth face	-6
 🤑	bai jin	-5
 🤑	biao qing	-5
 🤑	cai mi	-5
 🤑	fa cai	-5
 🤑	jian qian yan kai	-5
-🤑	money mouth face	-6
 🤑	qian yan	-5
 🤑	qian yan er	-5
 🤒	biao qing	-5
 🤒	fa shao	-5
-🤒	face with thermometer	-6
 🤒	liang ti wen	-5
 🤒	ti wen ji	-5
 🤓	biao qing	-5
-🤓	nerd face	-6
 🤓	shu dai zi	-5
 🤓	shu dai zi lian	-5
 🤔	biao qing	-5
@@ -7308,7 +4597,6 @@ columns:
 🤔	shen si	-5
 🤔	shen si de lian	-5
 🤔	si kao	-5
-🤔	thinking face	-6
 🤔	wo xiang xiang	-5
 🤔	wo zai xiang xiang	-5
 🤔	xiang xiang	-5
@@ -7319,90 +4607,64 @@ columns:
 🤕	biao qing	-5
 🤕	chan beng dai	-5
 🤕	chan man beng dai	-5
-🤕	face with head bandage	-6
 🤕	fu shang	-5
 🤕	shou shang	-5
 🤖	guai wu	-5
 🤖	ji qi ren	-5
-🤖	robot face	-6
 🤗	bao bao	-5
 🤗	biao qing	-5
-🤗	hugging face	-6
 🤗	yong bao	-5
 🤘	jin shu li	-5
 🤘	shou shi	-5
-🤘	sign of the horns	-6
-🤘	the horns	-6
 🤘	yao gun	-5
 🤘	yao gun shou shi	-5
-🤙	call me hand	-6
 🤙	da dian hua	-5
-🤙	da dian hua gei wo	-5
 🤙	da gei wo	-5
-🤙	gei wo da dian hua	-5
 🤙	hui dian hua	-5
 🤙	liu liu liu	-5
 🤙	shou shi	-5
-🤚	raised back of hand	-6
 🤚	shou bei	-5
 🤚	shou shi	-5
-🤛	chao zuo de quan tou	-5
-🤛	left facing fist	-6
 🤛	shou shi	-5
 🤛	you gou quan	-5
 🤛	you quan	-5
 🤛	zuo xiang quan	-5
-🤜	chao you de quan tou	-5
-🤜	right facing fist	-6
 🤜	shou shi	-5
 🤜	you xiang quan	-5
 🤜	zuo gou quan	-5
 🤜	zuo quan	-5
 🤝	gao ding	-5
-🤝	handshake	-6
 🤝	he zuo	-5
 🤝	he zuo yu kuai	-5
 🤝	shou shi	-5
 🤝	wo shou	-5
-🤞	crossed fingers	-6
-🤞	jiao cha de shou zhi	-5
 🤞	shou shi	-5
 🤞	shou zhi jiao cha	-5
 🤟	ai ni	-5
-🤟	ai ni de shou shi	-5
 🤟	ai ni shou shi	-5
-🤟	i love you hand sign	-6
 🤟	shou shi	-5
 🤟	wo ai ni	-5
 🤠	biao qing	-5
-🤠	face with cowboy hat	-6
 🤠	niu zai	-5
 🤠	niu zai mao	-5
 🤠	niu zai mao lian	-5
 🤡	biao qing	-5
-🤡	clown face	-6
 🤡	xiao chou	-5
 🤡	xiao chou lian	-5
 🤢	biao qing	-5
 🤢	e xin	-5
 🤢	fan wei	-5
-🤢	nauseated face	-6
 🤢	xiang tu	-5
 🤣	biao qing	-5
 🤣	da gun	-5
 🤣	da gun er	-5
 🤣	da xiao	-5
-🤣	rolling on the floor laughing	-6
 🤣	xiao chu yan lei	-5
 🤣	xiao de da gun	-5
-🤣	xiao de da gun er	-5
-🤣	xiao de man di da gun	-5
-🤣	xiao de man di da gun er	-5
 🤣	xiao ku	-5
 🤣	xiao ku le	-5
 🤤	biao qing	-5
 🤤	chui xian san chi	-5
-🤤	drooling face	-6
 🤤	kou shui	-5
 🤤	liu kou shui	-5
 🤥	biao qing	-5
@@ -7410,7 +4672,6 @@ columns:
 🤥	chang bi zi	-5
 🤥	hu shuo	-5
 🤥	luan jiang	-5
-🤥	lying face	-6
 🤥	pi nuo cao	-5
 🤥	pian ren	-5
 🤥	pian ren bu	-5
@@ -7418,24 +4679,19 @@ columns:
 🤥	sa huang	-5
 🤥	shuo huang	-5
 🤥	wu suo pu	-5
-🤦	face palm	-6
 🤦‍♀️	fu e	-5
 🤦‍♀️	fu le	-5
 🤦‍♀️	fu le ni le	-5
 🤦‍♀️	shou zhang wu lian	-5
 🤦‍♀️	wo fu le	-5
 🤦‍♀️	wo fu le ni	-5
-🤦‍♀️	wo fu le ni le	-5
-🤦‍♀️	woman facepalming	-6
 🤦‍♀️	wu lian	-5
 🤦‍♂️	fu e	-5
 🤦‍♂️	fu le	-5
 🤦‍♂️	fu le ni le	-5
-🤦‍♂️	man facepalming	-6
 🤦‍♂️	shou zhang wu lian	-5
 🤦‍♂️	wo fu le	-5
 🤦‍♂️	wo fu le ni	-5
-🤦‍♂️	wo fu le ni le	-5
 🤦‍♂️	wu lian	-5
 🤧	bi ti	-5
 🤧	bi yan	-5
@@ -7443,33 +4699,24 @@ columns:
 🤧	da pen ti	-5
 🤧	gan mao	-5
 🤧	pen ti	-5
-🤧	sneezing face	-6
 🤧	xing bi ti	-5
 🤧	xing bi zi	-5
 🤨	biao qing	-5
-🤨	face with one eyebrow raised	-6
-🤨	face with raised eyebrow	-6
 🤨	mei mao shang tiao	-5
-🤨	mei mao shang tiao de lian	-5
 🤨	tiao mei	-5
 🤩	biao qing	-5
 🤩	chong bai	-5
-🤩	grinning face with star eyes	-6
 🤩	hao chong bai	-5
 🤩	hao chong bai o	-5
-🤩	star struck	-6
 🤩	xing xing yan	-5
 🤩	yan mao xing xing	-5
 🤪	biao qing	-5
 🤪	sha gua	-5
 🤪	sha gua lian	-5
-🤪	zany face	-6
 🤫	an jing	-5
 🤫	an jing de lian	-5
 🤫	biao qing	-5
 🤫	bie shuo hua	-5
-🤫	face with finger covering closed lips	-6
-🤫	shushing face	-6
 🤫	xiao dian er sheng	-5
 🤫	xiao dian sheng	-5
 🤫	xiao sheng	-5
@@ -7479,17 +4726,14 @@ columns:
 🤬	biao qing	-5
 🤬	cao ni ma	-5
 🤬	chu kou cheng zang	-5
-🤬	face with symbols on mouth	-6
 🤬	ma ren	-5
 🤬	ni ma si le	-5
 🤬	nmsl	-5
-🤬	serious face with symbols covering mouth	-6
 🤬	sha bi	-5
 🤬	shuo zang hua	-5
 🤬	zang hua	-5
 🤬	zhou ma	-5
 🤭	biao qing	-5
-🤭	face with hand over mouth	-6
 🤭	hao xiao	-5
 🤭	wu shang zui ba	-5
 🤭	wu zhe zui ba	-5
@@ -7499,8 +4743,6 @@ columns:
 🤭	wu zui ba	-5
 🤭	wu zui xiao	-5
 🤮	biao qing	-5
-🤮	face vomiting	-6
-🤮	face with open mouth vomiting	-6
 🤮	ou tu	-5
 🤮	tu	-5
 🤮	tu chu lai	-5
@@ -7510,123 +4752,84 @@ columns:
 🤯	bao zha tou	-5
 🤯	biao qing	-5
 🤯	da nao bao zha	-5
-🤯	exploding head	-6
 🤯	nao bao zha	-5
 🤯	nao dai bao zha	-5
 🤯	nao zi bao zha	-5
-🤯	shocked face with exploding head	-6
 🤯	tou bao zha	-5
 🤰	da du zi	-5
 🤰	huai le	-5
 🤰	huai yun	-5
-🤰	pregnant woman	-6
 🤰	yun du	-5
 🤰	yun fu	-5
-🤱	breast feeding	-6
 🤱	bu ru	-5
 🤱	mu ru	-5
 🤱	mu ru wei yang	-5
 🤱	wei nai	-5
-🤲	palms up together	-6
 🤲	peng zhe	-5
 🤲	shou shi	-5
 🤲	shuang shou	-5
-🤲	shuang shou shou zhang xiang shang	-5
-🤲	zhang xin xiang shang tuo qi	-5
-🤳	selfie	-6
 🤳	zi pai	-5
 🤴	guo wang	-5
-🤴	prince	-6
 🤴	wang zi	-5
 🤴	xiao wang zi	-5
-🤵	man in tuxedo	-6
-🤵	person in tuxedo	-6
 🤵‍♀️	nv xin lang	-5
-🤵‍♀️	woman in tuxedo	-6
 🤵‍♂️	li fu	-5
-🤵‍♂️	man in tuxedo	-6
 🤵‍♂️	xi fu	-5
 🤵‍♂️	xi zhuang	-5
 🤵‍♂️	xin lang	-5
 🤵‍♂️	yan wei fu	-5
-🤶	mother christmas	-6
-🤶	mrs claus	-6
 🤶	sheng dan fu ren	-5
 🤶	sheng dan nai nai	-5
-🤷	shrug	-6
 🤷‍♀️	bu guan xin	-5
 🤷‍♀️	bu zhi dao	-5
 🤷‍♀️	shui zhi dao	-5
 🤷‍♀️	shui zhi dao ne	-5
 🤷‍♀️	song jian	-5
-🤷‍♀️	woman shrugging	-6
 🤷‍♀️	yu wo wu guan	-5
 🤷‍♂️	bu guan xin	-5
 🤷‍♂️	bu zhi dao	-5
-🤷‍♂️	man shrugging	-6
 🤷‍♂️	shui zhi dao	-5
 🤷‍♂️	shui zhi dao ne	-5
 🤷‍♂️	song jian	-5
 🤷‍♂️	yu wo wu guan	-5
-🤸	person doing cartwheel	-6
 🤸‍♀️	ce shou fan	-5
 🤸‍♀️	fan gen tou	-5
 🤸‍♀️	fan jin dou	-5
-🤸‍♀️	woman cartwheeling	-6
 🤸‍♂️	ce shou fan	-5
 🤸‍♂️	fan gen tou	-5
 🤸‍♂️	fan jin dou	-5
-🤸‍♂️	man cartwheeling	-6
 🤸🏻	yun dong yuan	-5
-🤹	juggling	-6
 🤹‍♀️	pao jie	-5
 🤹‍♀️	pao jie za shua	-5
-🤹‍♀️	woman juggling	-6
 🤹‍♀️	za shua	-5
-🤹‍♂️	man juggling	-6
 🤹‍♂️	pao jie	-5
 🤹‍♂️	pao jie za shua	-5
 🤹‍♂️	za shua	-5
 🤹🏻	yun dong yuan	-5
-🤺	fencer	-6
 🤺	ji jian	-5
 🤺	ji jian xuan shou	-5
 🤺	ji jian zhe	-5
 🤺	jian dou	-5
 🤺	yun dong yuan	-5
-🤼	wrestlers	-6
 🤼‍♀️	ge dou	-5
 🤼‍♀️	shuai jiao	-5
 🤼‍♀️	shuai jiao xuan shou	-5
-🤼‍♀️	woman wrestling	-6
-🤼‍♀️	women wrestling	-6
 🤼‍♂️	ge dou	-5
-🤼‍♂️	man wrestling	-6
-🤼‍♂️	men wrestling	-6
 🤼‍♂️	shuai jiao	-5
 🤼‍♂️	shuai jiao xuan shou	-5
 🤼🏻	yun dong yuan	-5
-🤽	water polo	-6
-🤽‍♀️	nv sheng wan shui qiu	-5
 🤽‍♀️	shui qiu	-5
 🤽‍♀️	wan shui qiu	-5
-🤽‍♀️	woman playing water polo	-6
-🤽‍♂️	man playing water polo	-6
-🤽‍♂️	nan sheng wan shui qiu	-5
 🤽‍♂️	shui qiu	-5
 🤽‍♂️	wan shui qiu	-5
 🤽🏻	yun dong yuan	-5
-🤾	handball	-6
 🤾‍♀️	da shou qiu	-5
 🤾‍♀️	shou qiu	-5
 🤾‍♀️	wan shou qiu	-5
-🤾‍♀️	woman playing handball	-6
 🤾‍♂️	da shou qiu	-5
-🤾‍♂️	man playing handball	-6
 🤾‍♂️	shou qiu	-5
 🤾‍♂️	wan shou qiu	-5
 🤾🏻	yun dong yuan	-5
-🤿	diving mask	-6
 🤿	qian shui	-5
 🤿	qian shui mian zhao	-5
 🤿	shen qian	-5
@@ -7636,14 +4839,10 @@ columns:
 🥀	hua duo	-5
 🥀	ku wei	-5
 🥀	ku wei de hua	-5
-🥀	ku wei de mei gui	-5
-🥀	wilted flower	-6
 🥁	da gu	-5
-🥁	drum with drumsticks	-6
 🥁	gu	-5
 🥁	qiao gu	-5
 🥁	yue qi	-5
-🥂	clinking glasses	-6
 🥂	gan bei	-5
 🥂	peng bei	-5
 🥂	yin liao	-5
@@ -7651,7 +4850,6 @@ columns:
 🥃	jiu	-5
 🥃	lie jiu	-5
 🥃	ping di bei	-5
-🥃	tumbler glass	-6
 🥃	wei shi ji	-5
 🥃	yi bei	-5
 🥃	yi bei jiu	-5
@@ -7659,14 +4857,11 @@ columns:
 🥄	can ju	-5
 🥄	chi zi	-5
 🥄	shao zi	-5
-🥄	spoon	-6
 🥄	tang chi	-5
 🥄	tang shao	-5
-🥅	goal net	-6
 🥅	qiu men	-5
 🥅	qiu men wang	-5
 🥅	qiu wang	-5
-🥇	first place medal	-6
 🥇	jiang	-5
 🥇	jiang pai	-5
 🥇	jiang xiang	-5
@@ -7674,79 +4869,60 @@ columns:
 🥈	jiang	-5
 🥈	jiang pai	-5
 🥈	jiang xiang	-5
-🥈	second place medal	-6
 🥈	yin pai	-5
 🥉	jiang	-5
 🥉	jiang pai	-5
 🥉	jiang xiang	-5
-🥉	third place medal	-6
 🥉	tong pai	-5
-🥊	boxing glove	-6
 🥊	quan ji shou tao	-5
 🥋	kong shou dao fu	-5
-🥋	martial arts uniform	-6
 🥋	rou dao fu	-5
 🥋	tai quan dao fu	-5
 🥋	wu shu fu	-5
 🥌	bing hu	-5
 🥌	bing shang liu shi	-5
-🥌	curling stone	-6
 🥌	liu shi	-5
 🥌	yun dong	-5
 🥍	dai gun qiu	-5
-🥍	lacrosse	-6
-🥍	lacrosse stick and ball	-6
 🥍	qiu	-5
 🥍	yun dong	-5
 🥎	lei qiu	-5
-🥎	softball	-6
 🥎️	qiu	-5
 🥎️	yun dong	-5
 🥏	fei pan	-5
-🥏	flying disc	-6
 🥏	yun dong	-5
-🥐	croissant	-6
 🥐	mian bao	-5
 🥐	niu jiao mian bao	-5
 🥐	xi can	-5
-🥐	xin yue xing mian bao	-5
 🥐	yang jiao mian bao	-5
-🥑	avocado	-6
 🥑	e li	-5
 🥑	guo	-5
 🥑	niu you guo	-5
 🥑	shui guo	-5
 🥒	cai	-5
-🥒	cucumber	-6
 🥒	huang gua	-5
 🥒	qing gua	-5
 🥒	shu cai	-5
-🥓	bacon	-6
 🥓	pei gen	-5
 🥓	rou	-5
 🥓	xi can	-5
 🥓	yan rou	-5
 🥔	cu liang	-5
 🥔	ma ling shu	-5
-🥔	potato	-6
 🥔	tu dou	-5
 🥔	yang yu	-5
 🥕	cai	-5
-🥕	carrot	-6
 🥕	hong luo bo	-5
 🥕	hu luo bo	-5
 🥕	luo bo	-5
 🥕	shu cai	-5
-🥖	baguette bread	-6
 🥖	chang gun mian bao	-5
 🥖	chang mian bao	-5
-🥖	fa shi chang gun mian bao	-5
 🥖	mian bao	-5
 🥖	xi can	-5
 🥖	zao can	-5
 🥖	zao dian	-5
 🥗	cai	-5
-🥗	green salad	-6
 🥗	lv se sha la	-5
 🥗	sha la	-5
 🥗	shu cai	-5
@@ -7754,24 +4930,19 @@ columns:
 🥗	zheng can	-5
 🥘	fan	-5
 🥘	huo guo	-5
-🥘	shallow pan of food	-6
 🥘	shi wu	-5
 🥘	wu can	-5
 🥘	yi guo shi wu	-5
 🥘	zheng can	-5
 🥘	zhong can	-5
 🥙	juan	-5
-🥙	pi ta san ming zhi	-5
-🥙	stuffed flatbread	-6
 🥙	xi can	-5
 🥚	dan	-5
 🥚	dan dan	-5
-🥚	egg	-6
 🥚	ji dan	-5
 🥚	zao can	-5
 🥚	zao dian	-5
 🥛	bei zi	-5
-🥛	glass of milk	-6
 🥛	niu nai	-5
 🥛	niu nai bei	-5
 🥛	yi bei nai	-5
@@ -7782,9 +4953,7 @@ columns:
 🥜	hua sheng	-5
 🥜	jian guo	-5
 🥜	luo hua sheng	-5
-🥜	peanuts	-6
 🥝	guo	-5
-🥝	kiwifruit	-6
 🥝	mi hou tao	-5
 🥝	qi yi guo	-5
 🥝	shui guo	-5
@@ -7793,18 +4962,14 @@ columns:
 🥞	jian bing	-5
 🥞	kuai can	-5
 🥞	lao bing	-5
-🥞	pancakes	-6
 🥞	xi can	-5
-🥟	dumpling	-6
 🥟	jiao zi	-5
 🥟	shui jiao	-5
 🥟	zhong can	-5
-🥠	fortune cookie	-6
 🥠	xing yun bing gan	-5
 🥠	zhong can	-5
 🥡	fan	-5
 🥡	kuai can	-5
-🥡	takeout box	-6
 🥡	wai mai	-5
 🥡	wai mai bao zhuang	-5
 🥡	wai mai he	-5
@@ -7812,27 +4977,21 @@ columns:
 🥡	wu can	-5
 🥡	zhong can	-5
 🥢	can ju	-5
-🥢	chopsticks	-6
 🥢	kuai zi	-5
 🥢	zhong can	-5
-🥣	bowl with spoon	-6
 🥣	can ju	-5
-🥣	fang zhe shao de wan	-5
 🥣	tang	-5
 🥣	tang wan	-5
 🥣	wan	-5
 🥣	wan shao	-5
-🥤	cup with straw	-6
 🥤	dai xi guan bei	-5
 🥤	wai dai bei zi	-5
 🥤	xi guan bei	-5
 🥤	yin liao	-5
-🥥	coconut	-6
 🥥	guo	-5
 🥥	shui guo	-5
 🥥	ye zi	-5
 🥥	ye zi guo	-5
-🥦	broccoli	-6
 🥦	cai	-5
 🥦	hua ye cai	-5
 🥦	lv cai hua	-5
@@ -7842,12 +5001,9 @@ columns:
 🥦	xi lan hua	-5
 🥧	dian xin	-5
 🥧	pai	-5
-🥧	pie	-6
 🥧	you su dian xin	-5
 🥨	jiao yan juan bing	-5
 🥨	mian bao	-5
-🥨	pretzel	-6
-🥩	cut of meat	-6
 🥩	niu pai	-5
 🥩	rou	-5
 🥩	rou pai	-5
@@ -7855,11 +5011,9 @@ columns:
 🥩	yang pai	-5
 🥩	zhu pai	-5
 🥪	san ming zhi	-5
-🥪	sandwich	-6
 🥪	xi can	-5
 🥪	zao can	-5
 🥪	zao dian	-5
-🥫	canned food	-6
 🥫	guan tou	-5
 🥫	guan tou shi pin	-5
 🥫	kuai can	-5
@@ -7867,7 +5021,6 @@ columns:
 🥫	zao dian	-5
 🥬	bai cai	-5
 🥬	cai	-5
-🥬	leafy green	-6
 🥬	lv ye shu cai	-5
 🥬	shu cai	-5
 🥬	xiao bai cai	-5
@@ -7876,16 +5029,13 @@ columns:
 🥬	zhi wu	-5
 🥭	guo	-5
 🥭	mang guo	-5
-🥭	mango	-6
 🥭	shui guo	-5
 🥮	feng shou bing	-5
 🥮	mian bao	-5
-🥮	moon cake	-6
 🥮	tuan yuan bing	-5
 🥮	yue bing	-5
 🥮	yue tuan	-5
 🥮	zhong hua	-5
-🥯	bagel	-6
 🥯	bai ji bing	-5
 🥯	bai ji quan	-5
 🥯	hong bei	-5
@@ -7897,7 +5047,6 @@ columns:
 🥰	ai mu	-5
 🥰	ai xin huan rao	-5
 🥰	mi lian	-5
-🥰	smiling face with 3 hearts	-6
 🥰	xi xiao yan kai	-5
 🥰	xian ru ai he	-5
 🥰	xing fu	-5
@@ -7909,20 +5058,14 @@ columns:
 🥱	kun	-5
 🥱	kun juan	-5
 🥱	kun le	-5
-🥱	yawning face	-6
-🥲	han lei de xiao lian	-5
 🥲	han lei xiao lian	-5
-🥲	smiling face with tear	-6
 🥲	xin wei	-5
-🥳	face with party horn and party hat	-6
 🥳	kai pa	-5
 🥳	kai yin pa	-5
 🥳	pai dui	-5
 🥳	pai dui lian	-5
 🥳	party	-5
-🥳	partying face	-6
 🥳	qing zhu	-5
-🥴	face with uneven eyes and wavy mouth	-6
 🥴	he duo	-5
 🥴	he duo le	-5
 🥴	he zui	-5
@@ -7930,7 +5073,6 @@ columns:
 🥴	hun hun chen chen	-5
 🥴	jiu zui	-5
 🥴	wei xun	-5
-🥴	woozy face	-6
 🥴	zui le	-5
 🥵	bao la	-5
 🥵	chao ji la	-5
@@ -7938,22 +5080,18 @@ columns:
 🥵	fa re	-5
 🥵	hao re	-5
 🥵	hen re	-5
-🥵	hot face	-6
 🥵	la	-5
 🥵	la si	-5
 🥵	la si le	-5
 🥵	lian fa shao	-5
-🥵	overheated face	-6
 🥵	re	-5
 🥵	re si	-5
 🥵	re si le	-5
 🥶	bing leng	-5
-🥶	cold face	-6
 🥶	dong jiang	-5
 🥶	dong jiang le	-5
 🥶	dong si	-5
 🥶	dong si le	-5
-🥶	freezing face	-6
 🥶	hao leng	-5
 🥶	hen leng	-5
 🥶	leng	-5
@@ -7962,60 +5100,46 @@ columns:
 🥶	leng si	-5
 🥶	leng si le	-5
 🥶	man mian han shuang	-5
-🥷	ninja	-6
 🥷	ren shu	-5
 🥷	ren zhe	-5
-🥸	disguised face	-6
 🥸	wei zhuang	-5
 🥸	wei zhuang de lian	-5
 🥸	yin man shen fen	-5
-🥹	face holding back tears	-6
 🥹	han lei	-5
 🥹	qiang ren lei shui	-5
 🥹	ren zhu lei shui	-5
 🥹	wei qu	-5
 🥹	yao ku le	-5
-🥺	face with pleading eyes	-6
 🥺	hao ma	-5
 🥺	ke lian	-5
 🥺	ke lian xi xi	-5
-🥺	pleading face	-6
 🥺	qiu ni le	-5
 🥺	qiu qiu ni	-5
 🥺	qiu qiu ni le	-5
 🥻	fu shi	-5
 🥻	fu zhuang	-5
-🥻	sari	-6
 🥻	sha li	-5
 🥻	yi fu	-5
 🥼	bai da gua	-5
 🥼	bai da gua er	-5
 🥼	fu shi	-5
 🥼	fu zhuang	-5
-🥼	lab coat	-6
-🥼	shi yan shi wai yi	-5
 🥼	yi fu	-5
-🥽	goggles	-6
 🥽	hu mu jing	-5
 🥽	yan jing	-5
 🥽	yong jing	-5
 🥽	you yong jing	-5
 🥾	deng shan xie	-5
-🥾	hiking boot	-6
 🥾	xie	-5
 🥾	xie zi	-5
-🥿	flat shoe	-6
 🥿	ping di xie	-5
-🥿	womans flat shoe	-6
 🥿	xie	-5
 🥿	xie zi	-5
-🦀	crab	-6
 🦀	dong wu	-5
 🦀	pang xie	-5
 🦀	xie	-5
 🦀	xie lao ban	-5
 🦁	dong wu	-5
-🦁	lion face	-6
 🦁	shi	-5
 🦁	shi lian	-5
 🦁	shi tou	-5
@@ -8023,34 +5147,28 @@ columns:
 🦁	shi zi lian	-5
 🦁	shi zi tou	-5
 🦂	dong wu	-5
-🦂	scorpion	-6
 🦂	xie zi	-5
 🦃	dong wu	-5
 🦃	huo ji	-5
 🦃	jia qin	-5
 🦃	niao	-5
 🦃	sheng xiao	-5
-🦃	turkey	-6
 🦄	dong wu	-5
 🦄	du jiao shou	-5
 🦄	du jiao shou lian	-5
 🦄	du jiao shou tou	-5
 🦄	guai wu	-5
-🦄	unicorn face	-6
 🦅	dong wu	-5
-🦅	eagle	-6
 🦅	lao ying	-5
 🦅	niao	-5
 🦅	ying	-5
 🦆	dong wu	-5
-🦆	duck	-6
 🦆	ga ga	-5
 🦆	jia qin	-5
 🦆	niao	-5
 🦆	xiao ya zi	-5
 🦆	ya	-5
 🦆	ya zi	-5
-🦇	bat	-6
 🦇	bian fu	-5
 🦇	dong wu	-5
 🦇	niao	-5
@@ -8061,132 +5179,105 @@ columns:
 🦈	da bai sha	-5
 🦈	dong wu	-5
 🦈	sha yu	-5
-🦈	shark	-6
 🦈	ye sheng dong wu	-5
 🦈	ye wei	-5
 🦈	yu	-5
 🦉	dong wu	-5
 🦉	mao tou ying	-5
 🦉	niao	-5
-🦉	owl	-6
 🦉	xiao	-5
 🦉	ye sheng dong wu	-5
 🦉	ye wei	-5
-🦊	fox face	-6
 🦊	hu li	-5
 🦊	hu li lian	-5
 🦊	hu li tou	-5
-🦋	butterfly	-6
 🦋	dong wu	-5
 🦋	feng wei die	-5
 🦋	hu die	-5
-🦌	deer	-6
 🦌	dong wu	-5
 🦌	lu	-5
 🦌	mi lu	-5
 🦍	da xing xing	-5
 🦍	dong wu	-5
-🦍	gorilla	-6
 🦍	sheng xiao	-5
 🦍	xing xing	-5
 🦍	ye sheng dong wu	-5
 🦍	ye wei	-5
 🦎	bi hu	-5
 🦎	dong wu	-5
-🦎	lizard	-6
 🦎	xi yi	-5
 🦏	dong wu	-5
-🦏	rhinoceros	-6
 🦏	xi niu	-5
 🦏	ye sheng dong wu	-5
 🦏	ye wei	-5
 🦐	da xia	-5
 🦐	dong wu	-5
 🦐	dui xia	-5
-🦐	shrimp	-6
 🦐	xia	-5
 🦑	dong wu	-5
 🦑	mo yu	-5
-🦑	squid	-6
 🦑	wu zei	-5
 🦑	you yu	-5
 🦒	chang jing lu	-5
-🦒	giraffe face	-6
 🦒	qi lin lu	-5
 🦒	ye sheng dong wu	-5
 🦒	ye wei	-5
 🦓	ban ma	-5
 🦓	ye sheng dong wu	-5
 🦓	ye wei	-5
-🦓	zebra face	-6
 🦔	ci wei	-5
-🦔	hedgehog	-6
 🦔	ye sheng dong wu	-5
 🦔	ye wei	-5
 🦕	dong wu	-5
 🦕	kong long	-5
 🦕	lei long	-5
 🦕	liang long	-5
-🦕	sauropod	-6
 🦕	wan long	-5
 🦖	ba wang long	-5
 🦖	bao long	-5
 🦖	dong wu	-5
 🦖	kong long	-5
-🦖	t rex	-6
 🦗	chong	-5
-🦗	cricket	-6
 🦗	qu qu	-5
 🦗	xi shuai	-5
 🦗	zha meng	-5
 🦘	dai shu	-5
-🦘	kangaroo	-6
 🦘	ye sheng dong wu	-5
 🦘	ye wei	-5
 🦙	cao ni ma	-5
 🦙	dong wu	-5
-🦙	llama	-6
 🦙	yang tuo	-5
 🦚	dong wu	-5
 🦚	jia qin	-5
 🦚	kong que	-5
 🦚	niao	-5
-🦚	peacock	-6
 🦛	dong wu	-5
 🦛	he ma	-5
-🦛	hippopotamus	-6
 🦛	ye sheng dong wu	-5
 🦛	ye wei	-5
 🦜	dong wu	-5
 🦜	niao	-5
-🦜	parrot	-6
 🦜	ying wu	-5
 🦝	dong wu	-5
 🦝	gan cui mian	-5
 🦝	gan cui mian jun	-5
 🦝	huan xiong	-5
-🦝	raccoon	-6
 🦝	xiao huan xiong	-5
 🦝	ye sheng dong wu	-5
 🦝	ye wei	-5
 🦞	dong wu	-5
-🦞	lobster	-6
 🦞	long xia	-5
-🦞	ma la xiao long xia	-5
 🦞	xiao long xia	-5
 🦟	chong	-5
 🦟	dong wu	-5
-🦟	mosquito	-6
 🦟	wen meng	-5
 🦟	wen ying	-5
 🦟	wen zi	-5
 🦠	bian xing chong	-5
 🦠	bing du	-5
-🦠	microbe	-6
 🦠	wei sheng wu	-5
 🦠	xi jun	-5
 🦠	you du	-5
-🦡	badger	-6
 🦡	dong wu	-5
 🦡	huan	-5
 🦡	mi huan	-5
@@ -8196,12 +5287,9 @@ columns:
 🦢	chou xiao ya	-5
 🦢	dong wu	-5
 🦢	niao	-5
-🦢	swan	-6
 🦢	tian e	-5
 🦣	dong wu	-5
-🦣	mammoth	-6
 🦣	meng ma xiang	-5
-🦤	dodo	-6
 🦤	dong wu	-5
 🦤	du du niao	-5
 🦤	niao	-5
@@ -8209,19 +5297,16 @@ columns:
 🦥	man tun tun	-5
 🦥	shu lan	-5
 🦥	shu lan xian sheng	-5
-🦥	sloth	-6
 🦥	ye sheng dong wu	-5
 🦥	ye wei	-5
 🦦	dong wu	-5
 🦦	hai ta	-5
-🦦	otter	-6
 🦦	shui ta	-5
 🦦	ye sheng dong wu	-5
 🦦	ye wei	-5
 🦦	yu	-5
 🦧	dong wu	-5
 🦧	hong mao xing xing	-5
-🦧	orangutan	-6
 🦧	ren yuan	-5
 🦧	sheng xiao	-5
 🦧	xing xing	-5
@@ -8229,12 +5314,10 @@ columns:
 🦧	ye wei	-5
 🦨	chou you	-5
 🦨	dong wu	-5
-🦨	skunk	-6
 🦨	ye sheng dong wu	-5
 🦨	ye wei	-5
 🦨	you	-5
 🦩	dong wu	-5
-🦩	flamingo	-6
 🦩	huo lie niao	-5
 🦩	niao	-5
 🦩	ye sheng dong wu	-5
@@ -8242,15 +5325,12 @@ columns:
 🦪	dong wu	-5
 🦪	hao li	-5
 🦪	mu li	-5
-🦪	oyster	-6
 🦪	sheng hao	-5
-🦫	beaver	-6
 🦫	dong wu	-5
 🦫	hai li	-5
 🦫	he li	-5
 🦫	ye sheng dong wu	-5
 🦫	ye wei	-5
-🦬	bison	-6
 🦬	chu sheng	-5
 🦬	da ye niu	-5
 🦬	dong wu	-5
@@ -8260,20 +5340,16 @@ columns:
 🦭	dong wu	-5
 🦭	hai bao	-5
 🦭	hai shi	-5
-🦭	seal	-6
 🦭	ye sheng dong wu	-5
 🦭	ye wei	-5
 🦭	yu	-5
 🦮	chu sheng	-5
 🦮	dao mang quan	-5
-🦮	guide dog	-6
 🦮	jin mao	-5
 🦮	jin mao quan	-5
-🦮	jin mao xun hui quan	-5
 🦮	sheng chu	-5
 🦮	sheng xiao	-5
 🦯	bai shou zhang	-5
-🦯	probing cane	-6
 🦯	shou zhang	-5
 🦰	chi fa	-5
 🦰	fa se	-5
@@ -8294,17 +5370,14 @@ columns:
 🦳	bai fa	-5
 🦳	fa se	-5
 🦳	fa xing	-5
-🦴	bone	-6
 🦴	gu ge	-5
 🦴	gu tou	-5
 🦵	da tui	-5
-🦵	leg	-6
 🦵	lian tui	-5
 🦵	tui	-5
 🦵	tui er	-5
 🦵🏻	qi guan	-5
 🦶	cai	-5
-🦶	foot	-6
 🦶	jiao	-5
 🦶	jiao ya	-5
 🦶	jiao ya zi	-5
@@ -8312,70 +5385,45 @@ columns:
 🦶	zu	-5
 🦶🏻	qi guan	-5
 🦷	qi guan	-5
-🦷	tooth	-6
 🦷	ya	-5
 🦷	ya chi	-5
 🦷	ya ya	-5
-🦸	superhero	-6
 🦸‍♀️	chao ji ying xiong	-5
 🦸‍♀️	chao ren	-5
-🦸‍♀️	female superhero	-6
-🦸‍♀️	nv chao ji ying xiong	-5
 🦸‍♀️	nv chao ren	-5
-🦸‍♀️	woman superhero	-6
 🦸‍♂️	chao ji ying xiong	-5
 🦸‍♂️	chao ren	-5
-🦸‍♂️	male superhero	-6
-🦸‍♂️	man superhero	-6
-🦸‍♂️	nan chao ji ying xiong	-5
 🦸‍♂️	nan chao ren	-5
-🦹	supervillain	-6
-🦹‍♀️	chao ji da fan pai	-5
 🦹‍♀️	da fan pai	-5
 🦹‍♀️	fan pai	-5
-🦹‍♀️	female supervillain	-6
 🦹‍♀️	huai dan	-5
-🦹‍♀️	nv chao ji da fan pai	-5
 🦹‍♀️	nv da fan pai	-5
 🦹‍♀️	nv fan pai	-5
 🦹‍♀️	nv huai dan	-5
-🦹‍♀️	woman supervillain	-6
-🦹‍♂️	chao ji da fan pai	-5
 🦹‍♂️	da fan pai	-5
 🦹‍♂️	fan pai	-5
 🦹‍♂️	huai dan	-5
-🦹‍♂️	male supervillain	-6
-🦹‍♂️	man supervillain	-6
-🦹‍♂️	nan chao ji da fan pai	-5
 🦹‍♂️	nan da fan pai	-5
 🦹‍♂️	nan fan pai	-5
 🦹‍♂️	nan huai dan	-5
 🦹🏻	jing ling	-5
 🦺	an quan bei xin	-5
 🦺	jiu sheng yi	-5
-🦺	safety vest	-6
-🦻	dai zhu ting qi de er duo	-5
-🦻	ear with hearing aid	-6
 🦻	ting li zhang ai	-5
 🦻	zhu ting qi	-5
 🦼	dian dong lun yi	-5
-🦼	motorized wheelchair	-6
 🦽	can ji ren	-5
 🦽	lun yi	-5
-🦽	manual wheelchair	-6
 🦽	shou dong lun yi	-5
 🦾	ji xie bi	-5
 🦾	ji xie shou bi	-5
-🦾	mechanical arm	-6
 🦾	sai bo peng ke	-5
 🦾	yi ti	-5
 🦾	yi zhi	-5
 🦿	ji xie tui	-5
-🦿	mechanical leg	-6
 🦿	sai bo peng ke	-5
 🦿	yi ti	-5
 🦿	yi zhi	-5
-🧀	cheese wedge	-6
 🧀	nai lao	-5
 🧀	qi si	-5
 🧀	tiao liao	-5
@@ -8383,158 +5431,89 @@ columns:
 🧀	zao can	-5
 🧀	zao dian	-5
 🧀	zhi shi	-5
-🧁	cupcake	-6
 🧁	dian xin	-5
 🧁	tian dian	-5
 🧁	tian shi	-5
 🧁	zhi bei dan gao	-5
-🧂	salt	-6
-🧂	salt shaker	-6
 🧂	shi yan	-5
 🧂	tiao liao	-5
 🧂	tiao wei pin	-5
 🧂	yan	-5
 🧂	zuo liao	-5
 🧂	zuo liao ping	-5
-🧃	beverage box	-6
 🧃	guo zhi	-5
 🧃	guo zhi he	-5
 🧃	yin liao	-5
 🧄	da suan	-5
-🧄	garlic	-6
 🧄	suan	-5
 🧄	suan xiang	-5
 🧄	tiao liao	-5
 🧅	cong tou	-5
-🧅	onion	-6
 🧅	pi ya zi	-5
 🧅	tiao liao	-5
 🧅	yang cong	-5
 🧅	yang suan	-5
 🧆	dian xin	-5
 🧆	fa la fei	-5
-🧆	falafel	-6
 🧆	rou wan	-5
 🧆	rou wan zi	-5
 🧆	tian dian	-5
-🧆	you zha ying zui dou bing	-5
 🧆	zha dou wan zi	-5
-🧆	zhong dong shu cai qiu	-5
 🧇	dian xin	-5
 🧇	ge zi bing	-5
 🧇	hua fu bing	-5
 🧇	tian dian	-5
-🧇	waffle	-6
 🧇	xi can	-5
 🧇	zao can	-5
 🧇	zao dian	-5
-🧈	butter	-6
 🧈	huang ru you	-5
 🧈	huang you	-5
 🧉	ma dai cha	-5
-🧉	mate drink	-6
 🧉	yin liao	-5
 🧊	bing	-5
 🧊	bing kuai	-5
 🧊	da zi ran	-5
 🧊	han leng	-5
-🧊	ice cube	-6
 🧊	jia bing	-5
 🧊	leng	-5
 🧊	xue	-5
 🧊	yuan su	-5
 🧊	zi ran	-5
 🧋	bo ba nai cha	-5
-🧋	bubble tea	-6
 🧋	nai cha	-5
 🧋	yi bei nai cha	-5
 🧋	yin liao	-5
 🧋	zhen zhu nai cha	-5
 🧌	ju guai	-5
-🧌	troll	-6
 🧌	xue ju ju guai	-5
-🧍	standing person	-6
 🧍‍♀️	jie jie	-5
 🧍‍♀️	mei mei	-5
 🧍‍♀️	nv zai	-5
-🧍‍♀️	woman standing	-6
 🧍‍♀️	zhan li	-5
-🧍‍♀️	zhan li de nv ren	-5
 🧍‍♀️	zhan li zhe	-5
 🧍‍♀️	zhan zhe	-5
 🧍‍♂️	di di	-5
 🧍‍♂️	ge ge	-5
-🧍‍♂️	man standing	-6
 🧍‍♂️	nan zai	-5
 🧍‍♂️	zhan li	-5
-🧍‍♂️	zhan li de nan ren	-5
 🧍‍♂️	zhan li zhe	-5
 🧍‍♂️	zhan zhe	-5
-🧎	kneeling person	-6
 🧎‍♀️	gui zuo	-5
-🧎‍♀️	woman kneeling	-6
-🧎‍♀️‍➡️	woman kneeling facing right	-6
 🧎‍♂️	gui zuo	-5
-🧎‍♂️	man kneeling	-6
-🧎‍♂️‍➡️	man kneeling facing right	-6
-🧎‍➡️	person kneeling facing right	-6
-🧏	deaf person	-6
-🧏‍♀️	deaf woman	-6
 🧏‍♀️	er long	-5
 🧏‍♀️	long zi	-5
 🧏‍♀️	shi cong	-5
 🧏‍♀️	shi cong zhe	-5
-🧏‍♂️	deaf man	-6
 🧏‍♂️	er long	-5
 🧏‍♂️	long zi	-5
 🧏‍♂️	shi cong	-5
 🧏‍♂️	shi cong zhe	-5
 🧐	biao qing	-5
 🧐	dan pian yan jing	-5
-🧐	face with monocle	-6
 🧐	tan jiu	-5
 🧐	yan jiu	-5
-🧑	adult	-6
-🧑‍⚕️	health worker	-6
-🧑‍⚖️	judge	-6
-🧑‍✈️	pilot	-6
-🧑‍🌾	farmer	-6
-🧑‍🍳	cook	-6
-🧑‍🍼	person feeding baby	-6
-🧑‍🎄	mx claus	-6
-🧑‍🎓	student	-6
-🧑‍🎤	singer	-6
-🧑‍🎨	artist	-6
-🧑‍🏫	teacher	-6
-🧑‍🏭	factory worker	-6
-🧑‍💻	technologist	-6
-🧑‍💼	office worker	-6
-🧑‍🔧	mechanic	-6
-🧑‍🔬	scientist	-6
-🧑‍🚀	astronaut	-6
-🧑‍🚒	firefighter	-6
-🧑‍🤝‍🧑	people holding hands	-6
 🧑‍🤝‍🧑	qian shou	-5
 🧑‍🤝‍🧑	shou la shou	-5
-🧑‍🦯	person with probing cane	-6
-🧑‍🦯	person with white cane	-6
-🧑‍🦯‍➡️	person with white cane facing right	-6
-🧑‍🦰	person red hair	-6
-🧑‍🦰	red haired person	-6
-🧑‍🦱	curly haired person	-6
-🧑‍🦱	person curly hair	-6
-🧑‍🦲	bald person	-6
-🧑‍🦲	person bald	-6
-🧑‍🦳	person white hair	-6
-🧑‍🦳	white haired person	-6
-🧑‍🦼	person in motorized wheelchair	-6
-🧑‍🦽	person in manual wheelchair	-6
-🧑‍🦽‍➡️	person in manual wheelchair facing right	-6
-🧑‍🧑‍🧒	family adult adult child	-6
-🧑‍🧑‍🧒‍🧒	family adult adult child child	-6
-🧑‍🧒	family adult child	-6
-🧑‍🧒‍🧒	family adult child child	-6
-🧑‍🩰	ballet dancer	-6
 🧑🏻	huang zhong ren	-5
 🧑🏻	ya yi	-5
 🧑🏻‍🎄	jie ri	-5
@@ -8546,7 +5525,6 @@ columns:
 🧑🏽	la mei	-5
 🧑🏽	zong se ren zhong	-5
 🧑🏿	hei ren	-5
-🧒	child	-6
 🧒	er tong	-5
 🧒	hai zi	-5
 🧒	xiao hai	-5
@@ -8563,7 +5541,6 @@ columns:
 🧒🏽	la mei	-5
 🧒🏽	zong se ren zhong	-5
 🧒🏿	hei ren	-5
-🧓	older adult	-6
 🧓🏻	huang zhong ren	-5
 🧓🏻	ya yi	-5
 🧓🏼	bai ren	-5
@@ -8573,89 +5550,56 @@ columns:
 🧓🏽	la mei	-5
 🧓🏽	zong se ren zhong	-5
 🧓🏿	hei ren	-5
-🧔	bearded person	-6
 🧔	da shu	-5
 🧔	hu xu	-5
 🧔	hu zi	-5
 🧔	luo sai hu	-5
-🧔	you hu xu de ren	-5
-🧔	you hu zi de ren	-5
-🧔‍♀️	chang hu zi de nv ren	-5
 🧔‍♀️	hu zi nv	-5
-🧔‍♀️	woman beard	-6
-🧔‍♀️	woman with beard	-6
-🧔‍♂️	man beard	-6
-🧔‍♂️	man with beard	-6
 🧔🏽	a la bo	-5
 🧔🏽	a la bo ren	-5
 🧕	mu si lin	-5
-🧕	person with headscarf	-6
 🧕	tou jin	-5
 🧕🏽	a la bo	-5
 🧕🏽	a la bo ren	-5
-🧖	person in steamy room	-6
 🧖‍♀️	sang na	-5
-🧖‍♀️	woman in steamy room	-6
 🧖‍♀️	zheng fang	-5
-🧖‍♀️	zheng fang li de nv ren	-5
-🧖‍♀️	zheng fang li de ren	-5
 🧖‍♀️	zheng sang na	-5
-🧖‍♂️	man in steamy room	-6
 🧖‍♂️	sang na	-5
 🧖‍♂️	zheng fang	-5
-🧖‍♂️	zheng fang li de nan ren	-5
-🧖‍♂️	zheng fang li de ren	-5
 🧖‍♂️	zheng sang na	-5
-🧗	person climbing	-6
 🧗‍♀️	deng shan	-5
 🧗‍♀️	deng shan zhe	-5
-🧗‍♀️	pan pa de nv ren	-5
 🧗‍♀️	pan pa de ren	-5
 🧗‍♀️	pan shan	-5
 🧗‍♀️	pan yan zhe	-5
-🧗‍♀️	woman climbing	-6
 🧗‍♂️	deng shan	-5
 🧗‍♂️	deng shan zhe	-5
-🧗‍♂️	man climbing	-6
-🧗‍♂️	pan pa de nan ren	-5
 🧗‍♂️	pan pa de ren	-5
 🧗‍♂️	pan shan	-5
 🧗‍♂️	pan yan zhe	-5
 🧗🏻	yun dong yuan	-5
-🧘	person in lotus position	-6
 🧘‍♀️	da zuo	-5
 🧘‍♀️	lian hua zuo	-5
-🧘‍♀️	lian hua zuo de ren	-5
 🧘‍♀️	ming xiang	-5
 🧘‍♀️	pan tui	-5
-🧘‍♀️	pan tui de nv ren	-5
 🧘‍♀️	quan lian hua zuo	-5
-🧘‍♀️	woman in lotus position	-6
 🧘‍♀️	yu jia	-5
 🧘‍♀️	yu jia nv	-5
 🧘‍♂️	da zuo	-5
 🧘‍♂️	lian hua zuo	-5
-🧘‍♂️	lian hua zuo de ren	-5
-🧘‍♂️	man in lotus position	-6
 🧘‍♂️	ming xiang	-5
 🧘‍♂️	pan tui	-5
-🧘‍♂️	pan tui de nan ren	-5
 🧘‍♂️	quan lian hua zuo	-5
 🧘‍♂️	yu jia	-5
 🧘‍♂️	yu jia nan	-5
-🧙	mage	-6
 🧙‍♀️	fa shi	-5
-🧙‍♀️	female mage	-6
 🧙‍♀️	mo fa shi	-5
 🧙‍♀️	mo shu shi	-5
 🧙‍♀️	nv fa shi	-5
 🧙‍♀️	nv mo fa shi	-5
 🧙‍♀️	nv mo shu shi	-5
 🧙‍♀️	nv wu	-5
-🧙‍♀️	woman mage	-6
 🧙‍♂️	fa shi	-5
-🧙‍♂️	male mage	-6
-🧙‍♂️	man mage	-6
 🧙‍♂️	mo fa shi	-5
 🧙‍♂️	mo shu shi	-5
 🧙‍♂️	nan fa shi	-5
@@ -8663,86 +5607,53 @@ columns:
 🧙‍♂️	nan mo shu shi	-5
 🧙‍♂️	nan wu	-5
 🧙🏻	jing ling	-5
-🧚	fairy	-6
-🧚‍♀️	female fairy	-6
-🧚‍♀️	woman fairy	-6
 🧚‍♀️	xiao jing ling	-5
 🧚‍♀️	xiao xian nv	-5
 🧚‍♀️	xiao xian zi	-5
 🧚‍♀️	yao jing	-5
-🧚‍♂️	male fairy	-6
-🧚‍♂️	man fairy	-6
 🧚‍♂️	xiao jing ling	-5
 🧚‍♂️	xiao xian zi	-5
 🧚‍♂️	yao jing	-5
 🧚🏻	jing ling	-5
-🧛	vampire	-6
 🧛‍♀️	de gu la	-5
-🧛‍♀️	female vampire	-6
 🧛‍♀️	nv xi xue gui	-5
-🧛‍♀️	woman vampire	-6
 🧛‍♀️	xi xue gui	-5
 🧛‍♂️	de gu la	-5
-🧛‍♂️	male vampire	-6
-🧛‍♂️	man vampire	-6
 🧛‍♂️	nan xi xue gui	-5
 🧛‍♂️	xi xue gui	-5
 🧛🏻	jing ling	-5
-🧜	merperson	-6
 🧜‍♀️	mei ren yu	-5
-🧜‍♀️	mermaid	-6
 🧜‍♀️	ren yu	-5
 🧜‍♂️	hai wang	-5
 🧜‍♂️	mei nan yu	-5
-🧜‍♂️	merman	-6
 🧜‍♂️	nan ren yu	-5
 🧜‍♂️	ren yu	-5
 🧜🏻	jing ling	-5
-🧝	elf	-6
-🧝‍♀️	female elf	-6
 🧝‍♀️	jing ling	-5
 🧝‍♀️	jing ling zu	-5
 🧝‍♀️	nv jing ling	-5
-🧝‍♀️	woman elf	-6
 🧝‍♂️	jing ling	-5
 🧝‍♂️	jing ling zu	-5
-🧝‍♂️	male elf	-6
-🧝‍♂️	man elf	-6
 🧝‍♂️	nan jing ling	-5
 🧝🏻	jing ling	-5
-🧞	genie	-6
 🧞	jing ling	-5
 🧞‍♀️	a la ding	-5
-🧞‍♀️	a la ding shen deng	-5
 🧞‍♀️	deng shen	-5
-🧞‍♀️	female genie	-6
 🧞‍♀️	nv deng shen	-5
-🧞‍♀️	woman genie	-6
 🧞‍♂️	a la ding	-5
-🧞‍♂️	a la ding shen deng	-5
 🧞‍♂️	deng shen	-5
-🧞‍♂️	male genie	-6
-🧞‍♂️	man genie	-6
 🧞‍♂️	nan deng shen	-5
 🧟	jing ling	-5
-🧟	zombie	-6
-🧟‍♀️	female zombie	-6
 🧟‍♀️	jiang shi	-5
 🧟‍♀️	nv jiang shi	-5
 🧟‍♀️	nv sang shi	-5
-🧟‍♀️	nv xing shi zou rou	-5
 🧟‍♀️	sang shi	-5
-🧟‍♀️	woman zombie	-6
 🧟‍♀️	xing shi zou rou	-5
 🧟‍♂️	jiang shi	-5
-🧟‍♂️	male zombie	-6
-🧟‍♂️	man zombie	-6
 🧟‍♂️	nan jiang shi	-5
 🧟‍♂️	nan sang shi	-5
-🧟‍♂️	nan xing shi zou rou	-5
 🧟‍♂️	sang shi	-5
 🧟‍♂️	xing shi zou rou	-5
-🧠	brain	-6
 🧠	da nao	-5
 🧠	nao	-5
 🧠	nao hua	-5
@@ -8755,19 +5666,14 @@ columns:
 🧡	ju se de xin	-5
 🧡	ju se xin	-5
 🧡	ju xin	-5
-🧡	orange heart	-6
 🧡	xin xin	-5
 🧡	yan se	-5
 🧢	bang qiu mao	-5
-🧢	billed cap	-6
 🧢	mao	-5
 🧢	mao zi	-5
 🧢	ya she mao	-5
-🧣	scarf	-6
 🧣	wei jin	-5
-🧤	gloves	-6
 🧤	shou tao	-5
-🧥	coat	-6
 🧥	fu shi	-5
 🧥	fu zhuang	-5
 🧥	jia ke	-5
@@ -8775,134 +5681,98 @@ columns:
 🧥	wai tao	-5
 🧥	yi fu	-5
 🧦	duan wa	-5
-🧦	socks	-6
 🧦	wa zi	-5
 🧧	fa hong bao	-5
 🧧	hong bao	-5
 🧧	jie ri	-5
-🧧	red envelope	-6
-🧧	red gift envelope	-6
 🧧	zhong hua	-5
 🧨	bao zhu	-5
 🧨	bian pao	-5
-🧨	firecracker	-6
 🧨	jie ri	-5
 🧨	zha yao	-5
 🧨	zhong hua	-5
-🧩	jigsaw	-6
-🧩	jigsaw puzzle piece	-6
 🧩	pin kuai	-5
 🧩	pin kuai er	-5
 🧩	pin tu	-5
 🧩	pin tu kuai	-5
 🧪	ke xue	-5
 🧪	shi guan	-5
-🧪	test tube	-6
 🧫	ke xue	-5
 🧫	pei yang min	-5
-🧫	petri dish	-6
-🧬	dna	-6
-🧬	dna double helix	-6
+🧬	dna	-5
 🧬	ji yin	-5
 🧬	ke xue	-5
-🧬	tuo yang he tang he suan	-5
-🧭	compass	-6
 🧭	fang xiang	-5
 🧭	luo pan	-5
 🧭	zhi bei zhen	-5
 🧭	zhi nan zhen	-5
-🧮	abacus	-6
 🧮	da suan pan	-5
 🧮	suan pan	-5
 🧮	zhong hua	-5
-🧯	fire extinguisher	-6
 🧯	mie huo qi	-5
 🧰	gong ju	-5
 🧰	gong ju xiang	-5
 🧰	ji xie	-5
-🧰	toolbox	-6
 🧱	ban er zhuan	-5
 🧱	ban zhuan	-5
-🧱	brick	-6
-🧱	bricks	-6
 🧱	zhuan kuai	-5
 🧱	zhuan tou	-5
 🧲	ci li	-5
 🧲	ci shi	-5
 🧲	ci tie	-5
-🧲	magnet	-6
 🧲	xi tie shi	-5
 🧳	bao	-5
-🧳	luggage	-6
 🧳	xing li	-5
 🧳	xing li xiang	-5
 🧴	hu fu shuang	-5
-🧴	lotion bottle	-6
 🧴	mu yu lu	-5
 🧴	ri yong	-5
 🧴	ru ye	-5
 🧴	ru ye ping	-5
 🧴	xi fa lu	-5
 🧴	xi fa shui	-5
-🧵	spool of thread	-6
-🧵	thread	-6
 🧵	xian zhou	-5
-🧶	ball of yarn	-6
 🧶	mao xian	-5
 🧶	mao xian qiu	-5
 🧶	sha xian	-5
 🧶	xian tuan	-5
-🧶	yarn	-6
 🧷	an quan bie zhen	-5
 🧷	bie zhen	-5
 🧷	kou zhen	-5
-🧷	safety pin	-6
 🧸	tai di	-5
 🧸	tai di xiong	-5
-🧸	teddy bear	-6
-🧹	broom	-6
 🧹	sao ba	-5
 🧹	sao zhou	-5
 🧹	tiao zhou	-5
-🧺	basket	-6
 🧺	cai lan	-5
 🧺	cai lan zi	-5
 🧺	lan zi	-5
 🧺	zhu lan	-5
 🧻	juan zhi	-5
 🧻	ri yong	-5
-🧻	roll of paper	-6
 🧻	wei sheng zhi	-5
 🧻	zhi jin	-5
-🧼	bar of soap	-6
 🧼	fei zao	-5
 🧼	ri yong	-5
-🧼	soap	-6
 🧼	xiang zao	-5
 🧽	hai mian	-5
 🧽	qing xi	-5
 🧽	ri yong	-5
-🧽	sponge	-6
 🧾	fa piao	-5
 🧾	ping ju	-5
-🧾	receipt	-6
 🧾	shou ju	-5
 🧾	zhang dan	-5
 🧿	e mo de yan	-5
 🧿	e mo yan	-5
 🧿	e mo zhi yan	-5
-🧿	nazar amulet	-6
 🩰	ba lei wu xie	-5
-🩰	ballet shoes	-6
 🩰	zu jian xie	-5
 🩱	fu shi	-5
 🩱	fu zhuang	-5
 🩱	lian ti yong yi	-5
-🩱	one piece swimsuit	-6
 🩱	yi fu	-5
 🩱	yong yi	-5
 🩱	yong zhuang	-5
-🩲	briefs	-6
 🩲	di ku	-5
 🩲	fu shi	-5
 🩲	fu zhuang	-5
@@ -8912,25 +5782,20 @@ columns:
 🩳	duan ku	-5
 🩳	fu shi	-5
 🩳	fu zhuang	-5
-🩳	shorts	-6
 🩳	si jiao ku	-5
 🩳	yi fu	-5
 🩴	jia zhi liang xie	-5
 🩴	liang xie	-5
 🩴	ren zi tuo	-5
 🩴	sha tan liang xie	-5
-🩴	thong sandal	-6
 🩴	tuo xie	-5
-🩵	dan lan se de xin	-5
 🩵	dan lan se xin	-5
 🩵	dan lan xin	-5
 🩵	lan se de xin	-5
 🩵	lan se xin	-5
 🩵	lan xin	-5
-🩵	light blue heart	-6
 🩵	xin xin	-5
 🩵	yan se	-5
-🩶	grey heart	-6
 🩶	hui se de xin	-5
 🩶	hui se xin	-5
 🩶	hui xin	-5
@@ -8940,42 +5805,32 @@ columns:
 🩷	fen se de xin	-5
 🩷	fen se xin	-5
 🩷	fen xin	-5
-🩷	pink heart	-6
 🩷	xin xin	-5
 🩷	yan se	-5
 🩸	di xue	-5
-🩸	drop of blood	-6
 🩸	xue di	-5
-🩹	adhesive bandage	-6
 🩹	chuang ke tie	-5
 🩹	chuang kou tie	-5
 🩺	ke xue	-5
-🩺	stethoscope	-6
 🩺	ting zhen qi	-5
 🩻	ke xue	-5
 🩻	pai pian	-5
 🩻	x	-5
-🩻	x ray	-6
 🩻	xiong pian	-5
 🩻	xiong tou	-5
-🩼	crutch	-6
 🩼	guai zhang	-5
 🪀	liu liu qiu	-5
 🪀	qiu	-5
-🪀	yo yo	-6
 🪀	you you qiu	-5
 🪀	yu le	-5
 🪁	fang feng zheng	-5
 🪁	feng yuan	-5
 🪁	feng zheng	-5
-🪁	kite	-6
 🪁	yun dong	-5
 🪁	zhi yuan	-5
 🪂	jiang luo san	-5
-🪂	parachute	-6
 🪂	tiao san	-5
 🪂	yun dong	-5
-🪃	boomerang	-6
 🪃	fei qu lai qi	-5
 🪃	fei xuan biao	-5
 🪃	hui fei bang	-5
@@ -8983,72 +5838,50 @@ columns:
 🪃	hui li biao	-5
 🪃	hui xuan biao	-5
 🪃	yun dong	-5
-🪄	magic wand	-6
 🪄	mo bang	-5
 🪄	mo fa bang	-5
 🪅	jie ri	-5
 🪅	pi na ta	-5
-🪅	pinata	-6
-🪆	e luo si tao wa	-5
-🪆	nesting dolls	-6
 🪆	tao wa	-5
-🪇	maracas	-6
 🪇	sha chui	-5
 🪇	yue qi	-5
 🪈	chang di	-5
 🪈	di zi	-5
-🪈	flute	-6
 🪈	shu di	-5
 🪈	yue qi	-5
-🪉	harp	-6
-🪊	trombone	-6
-🪎	treasure chest	-6
-🪏	shovel	-6
-🪐	ringed planet	-6
 🪐	tu xing	-5
 🪐	xing qiu	-5
 🪐	xing xing	-5
 🪐	you huan xing xing	-5
-🪑	chair	-6
 🪑	deng zi	-5
 🪑	yi zi	-5
 🪒	gong ju	-5
 🪒	gua hu dao	-5
 🪒	ji xie	-5
-🪒	razor	-6
 🪒	ri yong	-5
-🪒	shou dong gua hu dao	-5
 🪒	ti dao	-5
 🪒	ti xu dao	-5
-🪓	axe	-6
 🪓	fu tou	-5
 🪓	fu zi	-5
 🪓	wu qi	-5
-🪔	diya lamp	-6
 🪔	you deng	-5
 🪕	ban zhuo qin	-5
-🪕	banjo	-6
 🪕	yue qi	-5
 🪖	jun kui	-5
 🪖	jun ren	-5
 🪖	jun yong tou kui	-5
 🪖	mao	-5
 🪖	mao zi	-5
-🪖	military helmet	-6
 🪖	tou kui	-5
-🪗	accordion	-6
 🪗	shou feng qin	-5
 🪗	yue qi	-5
 🪘	chang gu	-5
 🪘	kang jia gu	-5
-🪘	long drum	-6
 🪘	yue qi	-5
-🪙	coin	-6
 🪙	gang beng	-5
 🪙	gang beng er	-5
 🪙	qian bi	-5
 🪙	ying bi	-5
-🪚	carpentry saw	-6
 🪚	gong ju	-5
 🪚	ji xie	-5
 🪚	ju zi	-5
@@ -9056,81 +5889,64 @@ columns:
 🪛	gong ju	-5
 🪛	ji xie	-5
 🪛	luo si dao	-5
-🪛	screwdriver	-6
 🪜	da ti zi	-5
 🪜	fan qiang	-5
 🪜	gong ju	-5
 🪜	ji xie	-5
 🪜	ke xue shang wang	-5
-🪜	ladder	-6
 🪜	mo fa shang wang	-5
 🪜	pa ti	-5
 🪜	pa ti zi	-5
 🪜	ti zi	-5
 🪝	gou zi	-5
 🪝	gua gou	-5
-🪝	hook	-6
 🪝	tie gou	-5
 🪝	wan gou	-5
 🪞	jing zi	-5
-🪞	mirror	-6
 🪞	mo jing	-5
 🪟	chuang hu	-5
-🪟	window	-6
 🪠	chuai zi	-5
 🪠	ma tong chou zi	-5
 🪠	ma tong chuai	-5
 🪠	ma tong chuai zi	-5
 🪠	ma tong sai	-5
-🪠	ma tong shu tong qi	-5
 🪠	ma tong xi	-5
 🪠	ma tong xi ba	-5
 🪠	ma tong xi pan	-5
 🪠	pi lao hu	-5
-🪠	plunger	-6
 🪠	shui ba zi	-5
 🪠	tong tong le	-5
 🪠	xi ba	-5
 🪡	feng ren zhen	-5
 🪡	gong ju	-5
 🪡	ji xie	-5
-🪡	sewing needle	-6
 🪡	xiu hua zhen	-5
 🪡	zhen	-5
 🪢	da jie	-5
-🪢	knot	-6
 🪢	sheng jie	-5
 🪢	sheng zi	-5
-🪣	bucket	-6
 🪣	ri yong	-5
 🪣	shui tong	-5
 🪣	yuan tong	-5
 🪤	bu shu qi	-5
-🪤	mouse trap	-6
 🪥	ri yong	-5
 🪥	shua ya	-5
-🪥	toothbrush	-6
 🪥	ya shua	-5
 🪦	fen mu	-5
-🪦	headstone	-6
 🪦	mu bei	-5
 🪧	biao yu	-5
 🪧	biao yu pai	-5
 🪧	bu gao	-5
 🪧	bu gao pai	-5
-🪧	placard	-6
 🪨	da zi ran	-5
-🪨	rock	-6
 🪨	shi tou	-5
 🪨	yan shi	-5
 🪨	yuan su	-5
 🪨	zi ran	-5
 🪩	di si ke	-5
 🪩	jing mian qiu	-5
-🪩	mirror ball	-6
 🪩	yu le	-5
 🪪	id	-5
-🪪	identification card	-6
 🪪	jia zhao	-5
 🪪	shen fen zheng	-5
 🪪	zheng jian	-5
@@ -9141,124 +5957,88 @@ columns:
 🪫	dian liang	-5
 🪫	dian liang bu zu	-5
 🪫	dian liang di	-5
-🪫	low battery	-6
 🪬	fa di ma	-5
-🪬	fa di ma zhi shou	-5
-🪬	hamsa	-6
-🪭	folding hand fan	-6
 🪭	shan zi	-5
 🪭	zhe shan	-5
 🪮	cha shu	-5
-🪮	hair pick	-6
 🪮	shu zi	-5
 🪯	kan da	-5
 🪯	kan da fu hao	-5
-🪯	khanda	-6
 🪯	xi ke	-5
 🪯	xi ke jiao	-5
 🪯	zong jiao	-5
 🪰	cang ying	-5
 🪰	chong	-5
-🪰	fly	-6
 🪰	jia ying	-5
 🪰	wen ying	-5
 🪱	chong	-5
 🪱	ji sheng chong	-5
 🪱	qiu yin	-5
 🪱	ru chong	-5
-🪱	worm	-6
-🪲	beetle	-6
 🪲	chong	-5
 🪲	dong wu	-5
 🪲	jia chong	-5
 🪲	kun chong	-5
 🪲	sheng jia chong	-5
 🪳	chong	-5
-🪳	cockroach	-6
 🪳	xiao qiang	-5
 🪳	zhang lang	-5
 🪴	hua pen	-5
 🪴	pen zai	-5
 🪴	pen zai zhi wu	-5
-🪴	potted plant	-6
 🪴	zhi wu	-5
 🪵	mu cai	-5
 🪵	mu tou	-5
-🪵	wood	-6
 🪵	yuan mu	-5
 🪵	yuan su	-5
-🪶	feather	-6
 🪶	yu mao	-5
 🪷	hua	-5
 🪷	hua duo	-5
 🪷	lian hua	-5
-🪷	lotus	-6
-🪸	coral	-6
 🪸	shan hu	-5
 🪸	shan hu jiao	-5
-🪹	empty nest	-6
 🪹	kong chao	-5
 🪹	kong niao chao	-5
-🪺	nest with eggs	-6
 🪺	niao chao	-5
 🪺	you dan de chao	-5
-🪺	you dan de niao chao	-5
 🪻	feng xin zi	-5
 🪻	hua	-5
 🪻	hua duo	-5
-🪻	hyacinth	-6
 🪻	zhi wu	-5
 🪼	dong wu	-5
 🪼	hai zhe	-5
-🪼	jellyfish	-6
 🪼	shui mu	-5
 🪼	yu	-5
 🪽	chi bang	-5
-🪽	tian shi de chi bang	-5
-🪽	wing	-6
 🪽	yu yi	-5
-🪾	leafless tree	-6
 🪿	da e	-5
 🪿	dong wu	-5
 🪿	e	-5
 🪿	e e e	-5
-🪿	goose	-6
 🪿	jia qin	-5
 🪿	niao	-5
-🫀	anatomical heart	-6
 🫀	qi guan	-5
 🫀	xin zang	-5
 🫀	xin zang qi guan	-5
 🫁	fei	-5
 🫁	hu qi	-5
 🫁	hu xi zuo yong	-5
-🫁	lungs	-6
 🫁	qi guan	-5
 🫁	xi qi	-5
 🫂	bao bao	-5
 🫂	bao zai yi qi	-5
 🫂	jian ying	-5
-🫂	people hugging	-6
 🫂	yong bao	-5
 🫂	yong bao de ren	-5
 🫃	da du zi	-5
-🫃	huai yun de nan ren	-5
 🫃	jiang jun du	-5
 🫃	nan ren huai yun	-5
 🫃	pi jiu du	-5
-🫃	pregnant man	-6
-🫄	pregnant person	-6
-🫅	dai wang guan de ren	-5
 🫅	jun zhu	-5
-🫅	person with crown	-6
-🫆	fingerprint	-6
-🫈	hairy creature	-6
-🫍	orca	-6
 🫎	chu sheng	-5
 🫎	dong wu	-5
 🫎	lu jiao	-5
 🫎	ma lu	-5
-🫎	moose	-6
 🫎	sheng chu	-5
 🫎	tuo lu	-5
 🫎	tuo lu lian	-5
@@ -9267,18 +6047,15 @@ columns:
 🫎	ye wei	-5
 🫏	chu sheng	-5
 🫏	dong wu	-5
-🫏	donkey	-6
 🫏	lv	-5
 🫏	lv er	-5
 🫏	sheng chu	-5
 🫏	xiao lv	-5
 🫏	ye sheng dong wu	-5
 🫏	ye wei	-5
-🫐	blueberries	-6
 🫐	guo	-5
 🫐	lan mei	-5
 🫐	shui guo	-5
-🫑	bell pepper	-6
 🫑	cai	-5
 🫑	cai jiao	-5
 🫑	deng long jiao	-5
@@ -9287,33 +6064,25 @@ columns:
 🫒	cai	-5
 🫒	gan lan	-5
 🫒	huang lan	-5
-🫒	olive	-6
 🫒	qing gan lan	-5
 🫒	shu cai	-5
 🫓	bing	-5
 🫓	da bing	-5
-🫓	flatbread	-6
 🫓	mian bing	-5
 🫓	zao can	-5
 🫓	zao dian	-5
 🫔	juan	-5
 🫔	mo xi ge zong	-5
-🫔	mo xi ge zong zi	-5
-🫔	tamale	-6
-🫕	fondue	-6
 🫕	nai lao huo guo	-5
 🫕	qi si huo guo	-5
 🫕	xi can	-5
 🫕	zhi shi huo guo	-5
 🫖	can ju	-5
 🫖	cha hu	-5
-🫖	teapot	-6
 🫖	yi hu	-5
 🫖	yi hu cha	-5
-🫗	pouring liquid	-6
 🫗	qing dao	-5
 🫗	qing dao ye ti	-5
-🫘	beans	-6
 🫘	cai	-5
 🫘	dou	-5
 🫘	dou lei	-5
@@ -9321,59 +6090,44 @@ columns:
 🫘	shu cai	-5
 🫙	bo li ping	-5
 🫙	guan zi	-5
-🫙	jar	-6
 🫙	ping zi	-5
-🫚	ginger root	-6
 🫚	jiang	-5
 🫚	tiao liao	-5
 🫛	cai	-5
 🫛	dou jia	-5
-🫛	pea pod	-6
 🫛	shu cai	-5
 🫛	wan dou	-5
 🫛	wan dou jia	-5
-🫜	root vegetable	-6
-🫟	splatter	-6
-🫠	melting face	-6
 🫠	rong hua	-5
 🫠	rong jie	-5
 🫠	xiao shi	-5
 🫡	jing li	-5
 🫡	respect	-5
 🫡	rui si bai	-5
-🫡	saluting face	-6
 🫡	zhi jing	-5
 🫡	zun jing	-5
 🫡	zun zhong	-5
 🫢	bu gan xiang xin	-5
-🫢	face with open eyes and hand over mouth	-6
 🫢	unbelievable	-5
 🫣	bu gan kan	-5
 🫣	dan yan tou kan	-5
-🫣	face with peeking eye	-6
-🫣	hua mian tai mei wo bu gan kan	-5
-🫣	na hua mian tai mei wo bu gan kan	-5
 🫣	tou kan	-5
 🫣	tou qiao	-5
 🫣	tou tou kan	-5
 🫣	tou tou qiao	-5
 🫣	wo bu gan kan	-5
 🫤	bu que ding	-5
-🫤	face with diagonal mouth	-6
 🫤	pie zui	-5
-🫥	dotted line face	-6
 🫥	xiao shi	-5
 🫥	xu xian lian	-5
 🫥	xu xian lun kuo	-5
 🫥	yin cang	-5
 🫥	yin xing	-5
-🫦	biting lip	-6
 🫦	qing diao	-5
 🫦	tiao qing	-5
 🫦	yao zhu zui chun	-5
 🫦	yao zui chun	-5
 🫦	you huo	-5
-🫧	bubbles	-6
 🫧	da zi ran	-5
 🫧	pao pao	-5
 🫧	qi pao	-5
@@ -9381,64 +6135,43 @@ columns:
 🫨	chan dou de lian	-5
 🫨	huang nao	-5
 🫨	meng yao tou	-5
-🫨	shaking face	-6
 🫨	shuai tou	-5
 🫨	yao tou huang nao	-5
-🫩	face with bags under eyes	-6
-🫪	distorted face	-6
-🫯	fight cloud	-6
 🫰	bi xin	-5
 🫰	bi xin shou shi	-5
 🫰	da xiang zhi	-5
-🫰	hand with index finger and thumb crossed	-6
-🫰	shi zhi he mu zhi jiao cha de shou	-5
 🫰	xiang zhi	-5
 🫱	chao you	-5
-🫱	rightwards hand	-6
 🫱	xiang you de shou	-5
-🫱	xiang you shen de shou	-5
 🫱	you shou	-5
 🫲	chao zuo	-5
-🫲	leftwards hand	-6
 🫲	xiang zuo de shou	-5
-🫲	xiang zuo shen de shou	-5
 🫲	zuo shou	-5
 🫳	chao xia	-5
 🫳	fang shou	-5
-🫳	palm down hand	-6
 🫳	shou zhang chao xia	-5
 🫳	zhang xin chao xia	-5
 🫴	chao shang	-5
-🫴	palm up hand	-6
 🫴	shen shou	-5
 🫴	shou zhang chao shang	-5
 🫴	tai qi	-5
 🫴	zhang xin chao shang	-5
-🫵	index pointing at the viewer	-6
 🫵	jiu shi ni	-5
 🫵	ni zi ji	-5
-🫵	shi zhi zhi xiang guan cha zhe	-5
 🫵	zhi ni	-5
 🫵	zhi ren	-5
 🫵	zhi wo	-5
-🫵	zhi xiang guan cha zhe de shi zhi	-5
 🫵	zhi zhe	-5
 🫵	zhi zhe ni	-5
 🫶	bi xin	-5
 🫶	bi xin shou shi	-5
-🫶	heart hands	-6
-🫶	zuo cheng xin xing de shuang shou	-5
-🫷	leftwards pushing hand	-6
 🫷	tui shou	-5
 🫷	xiang zuo tui	-5
-🫷	xiang zuo tui de shou	-5
 🫷	xiang zuo tui shou	-5
 🫷	zuo shou	-5
 🫷	zuo tui	-5
-🫸	rightwards pushing hand	-6
 🫸	tui shou	-5
 🫸	xiang you tui	-5
-🫸	xiang you tui de shou	-5
 🫸	xiang you tui shou	-5
 🫸	you shou	-5
 🫸	you tui	-5
