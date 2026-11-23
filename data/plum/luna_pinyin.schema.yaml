@@ -80,6 +80,11 @@ speller:
 
 translator:
   dictionary: luna_pinyin
+  # 学习「已上屏的历史词」：词典里没有的词（如三字人名），
+  # 连续上屏后会被编码写入用户词典，下次即可作为候选出现。
+  enable_encoder: true
+  encode_commit_history: true
+  max_phrase_length: 5
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/

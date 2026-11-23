@@ -9,15 +9,19 @@ public struct ChangeSet: Equatable {
   public var groupColors: GroupColorsValues?
   public var schemaList: [String]?
   public var switchResets: [String: [Int: Int]]?
+  /// 自定义短语（custom_phrase.txt）整表快照；非 nil 时覆盖写文件
+  public var customPhrases: [CustomPhrase]?
 
   public init(style: StyleValues? = nil,
               groupColors: GroupColorsValues? = nil,
               schemaList: [String]? = nil,
-              switchResets: [String: [Int: Int]]? = nil) {
+              switchResets: [String: [Int: Int]]? = nil,
+              customPhrases: [CustomPhrase]? = nil) {
     self.style = style
     self.groupColors = groupColors
     self.schemaList = schemaList
     self.switchResets = switchResets
+    self.customPhrases = customPhrases
   }
 }
 
@@ -130,6 +134,14 @@ public final class SettingsRepository {
       let newText = editor.text
       try validateCustomText(newText, fileName: "\(schemaID).custom.yaml", changes: nil)
       try atomicWrite(url, text: newText)
+      written.append(url)
+    }
+
+    // 4. custom_phrase.txt（自定义短语）
+    if let phrases = changes.customPhrases {
+      let url = try CustomPhraseStore.save(phrases, to: paths.userDir)
+      // 旧短语用户词典会让「修改/删除」不生效，先清掉，便于 Rime 依 txt 重建
+      CustomPhraseStore.resetUserDict(in: paths.userDir)
       written.append(url)
     }
 
