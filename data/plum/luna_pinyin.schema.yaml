@@ -44,6 +44,7 @@ switches:
 engine:
   processors:
     - ascii_composer
+    - lua_processor@*hyphen_priority
     - recognizer
     - key_binder
     - speller
